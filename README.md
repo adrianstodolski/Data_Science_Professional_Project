@@ -5,10 +5,10 @@ Final project for Big Data Analysis at CDV
 # Menu:
 * [Description](https://github.com/adrianstodolski/Data_Science_Professional_Project#description)
 * [Conclusions](https://github.com/adrianstodolski/Data_Science_Professional_Project#conclusions)
-* [Bootstrap analysis](https://github.com/adrianstodolski/Data_Science_Professional_Project/tree/main/Analiza%20Bootstrap)
-* [Brand Awarness analysis](https://github.com/adrianstodolski/Data_Science_Professional_Project/tree/main/Analiza%20Brand%20Awarness)
-* [Brand Equity analysis](https://github.com/adrianstodolski/Data_Science_Professional_Project/tree/main/Analiza%20Brand%20Equity)
-* [NPS analysis](https://github.com/adrianstodolski/Data_Science_Professional_Project/tree/main/Analiza%20NPS)
+* [Bootstrap analysis](https://github.com/adrianstodolski/Data_Science_Professional_Project#Bootstrap)
+* [Brand Awarness analysis](https://github.com/adrianstodolski/Data_Science_Professional_Project#Awarness)
+* [Brand Equity analysis](https://github.com/adrianstodolski/Data_Science_Professional_Project#Equity)
+* [NPS analysis](https://github.com/adrianstodolski/Data_Science_Professional_Project#NPS)
 * [Charts](https://github.com/adrianstodolski/Data_Science_Professional_Project#charts)
 
 # Description
