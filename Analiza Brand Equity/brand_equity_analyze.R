@@ -19,14 +19,14 @@ library(tidyverse)
 # According to Brand Health Index description, awarness questions are T6 and T7.
 
 # Load file.
-df1 <- read.csv2("~/data.csv")
+df1 <- read.csv2("~/Code/Data_Science_Professional_Project/Analiza Brand Equity/data.csv")
 
 # Select only important data.
 df1 <- select(df1, RecordNo, T6M1:T7M10)
 
 # Split data T6 and T7 questions into one column.
 df1 <- pivot_longer(df1,
-                    cols = matches("T[34]M")
+                    cols = matches("T[67]M")
                     ,names_to = c("T","index")
                     ,names_pattern = "(T6|T7)M(\\d+)"
 )
@@ -48,18 +48,19 @@ plants <- bind_rows(df1 %>% select(plants=T6), df1 %>% select(plants=T7)) %>%
   filter(!is.na(plants)) %>% distinct() %>% mutate(project_id=1)
 
 # Join plants with RecordNo data.
-All.together1 <- RecordNo %>% left_join(plants)
+data_together <- RecordNo %>% left_join(plants)
+
 
 # Create Awareness score 
 
 #For T6 question
-All.together1 <- All.together1 %>% left_join(df1 %>% select(-T7) %>% rename(plants=T6))
-All.together1 <- mutate(All.together1, Awareness_score=1)
-All.together1 <- mutate(All.together1, Awareness_score=if_else(index==1,5,Awareness_score,missing = Awareness_score))
-All.together1 <- mutate(All.together1, Awareness_score=if_else(index>=2,4,Awareness_score,missing = Awareness_score))
-All.together1 <- select(All.together1, -index)
+data_together <- data_together %>% left_join(df1 %>% select(-T7) %>% rename(plants=T6))
+data_together <- mutate(data_together, Awareness_score=1)
+data_together <- mutate(data_together, Awareness_score=if_else(index==1,5,Awareness_score,missing = Awareness_score))
+data_together <- mutate(data_together, Awareness_score=if_else(index>=2,4,Awareness_score,missing = Awareness_score))
+data_together <- select(data_together, -index)
 
 #For T7 question
-All.together1 <- All.together1 %>% left_join(df1 %>% select(-T6) %>% rename(plants=T7))
-All.together1 <- mutate(All.together1, Awareness_score=if_else(!is.na(index),2,Awareness_score,missing = Awareness_score))
-All.together1 <- select(All.together1, -index)
+data_together <- data_together %>% left_join(df1 %>% select(-T6) %>% rename(plants=T7))
+data_together <- mutate(data_together, Awareness_score=if_else(!is.na(index),2,Awareness_score,missing = Awareness_score))
+data_together <- select(data_together, -index)
