@@ -4,7 +4,7 @@ Final project for Big Data Analysis at CDV
 
 # Menu:
 * [Description](https://github.com/adrianstodolski/Data_Science_Professional_Project#description)
-* [Conclusions](https://github.com/adrianstodolski/Data_Science_Professional_Project#conclusions)
+* [Files](https://github.com/adrianstodolski/Data_Science_Professional_Project#conclusions)
 * [Bootstrap analysis](https://github.com/adrianstodolski/Data_Science_Professional_Project#Bootstrap-analysis)
 * [Brand Awarness analysis](https://github.com/adrianstodolski/Data_Science_Professional_Project#Brand-Awarness-analysis)
 * [Brand Equity analysis](https://github.com/adrianstodolski/Data_Science_Professional_Project#Brand-Equity-analysis)

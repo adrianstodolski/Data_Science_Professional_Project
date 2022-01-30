@@ -4,9 +4,9 @@ Final project for Big Data Analysis at CDV
 Author: Adrian Stodolski
 
 # Menu:
-* [Description](https://github.com/adrianstodolski/Data_Science_Professional_Project#description)
-* [Conclusions](https://github.com/adrianstodolski/Data_Science_Professional_Project#conclusions)
-* [Charts](https://github.com/adrianstodolski/Data_Science_Professional_Project#charts)
+* [Description](https://github.com/adrianstodolski/Data_Science_Professional_Project/tree/main/Analiza%20Brand%20Equity#description)
+* [Conclusions](https://github.com/adrianstodolski/Data_Science_Professional_Project/tree/main/Analiza%20Brand%20Equity#conclusions)
+* [Charts](https://github.com/adrianstodolski/Data_Science_Professional_Project/tree/main/Analiza%20Brand%20Equity#charts)
 
 # Description
 Brand equity (kapitał własny marki) odnosi się do całkowitej wartości marki jako oddzielnego składnika aktywów. Jest to suma aktywów i pasywów związanych z nazwą i symbolem marki, która skutkuje relacjami, jakie klienci mają z marką.
