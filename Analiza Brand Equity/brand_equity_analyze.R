@@ -67,7 +67,7 @@ data_together <- select(data_together, -index)
 
 
 # -------------------------------- USAGE ---------------------------------------
-# According to Brand Health Index description, usage questions are T9 and T10.
+# According to Brand Health Index description, usage questions are T9 and T4.
 
 # Load file.
 df2 <- read.csv2("~/Code/Data_Science_Professional_Project/Analiza Brand Equity/data.csv")
@@ -77,9 +77,9 @@ df2 <- select(df2, RecordNo, T8M1:T9M10)
 head(df2)
 # Split data T9 and T10 questions into one column.
 df2 <- pivot_longer(df2,
-                    cols = matches("T[89]M")
+                    cols = matches("T[94]M")
                     ,names_to = c("T ","index")
-                    ,names_pattern = "(T8|T9)M(\\d+)"
+                    ,names_pattern = "(T9|T4)M(\\d+)"
 )
 head(df2)
 # Transform index as numeric 
@@ -97,14 +97,14 @@ head(data_together2)
 # Create Usage score
 
 # For T9 question
-data_together2 <- data_together2 %>% left_join(df2 %>% select(-T10) %>% rename(plants=T9))
+data_together2 <- data_together2 %>% left_join(df2 %>% select(-T4) %>% rename(plants=T9))
 data_together2 <- mutate(data_together2, Usage_score=1)
 data_together2 <- mutate(data_together2, Usage_score=if_else(index==1,5,Usage_score,missing = Usage_score))
 data_together2 <- mutate(data_together2, Usage_score=if_else(index>=2,4,Usage_score,missing = Usage_score))
 data_together2 <- select(data_together2, -index)
 
 # For T10 question
-data_together2 <- data_together2 %>% left_join(df2 %>% select(-T9) %>% rename(plants=T10))
+data_together2 <- data_together2 %>% left_join(df2 %>% select(-T9) %>% rename(plants=T4))
 data_together2 <- mutate(data_together2, Usage_score=if_else(!is.na(index),2,Usage_score,missing = Usage_score))
 data_together2 <- select(data_together2, -index)
 
