@@ -30,26 +30,26 @@ df1 <- pivot_longer(df1,
                     ,names_to = c("T","index")
                     ,names_pattern = "(T6|T7)M(\\d+)"
 )
-
+head(df1)
 # Transform index as numeric 
 df1 <- mutate(df1, index=as.numeric(index))
-
+head(df1)
 # Separate T6 and T7 questions.
 df1 <- pivot_wider(df1
                    ,names_from = T
                    ,values_from = value
 )
-
+head(df1)
 # Create RecordNo dataset, will be useful to later join data for all calculations.
 RecordNo <- df1 %>% select(RecordNo) %>% distinct() %>% mutate(project_id=1)
 
 # Create plants names dataset, will be useful to later join data for all calculations.
 plants <- bind_rows(df1 %>% select(plants=T6), df1 %>% select(plants=T7)) %>%
   filter(!is.na(plants)) %>% distinct() %>% mutate(project_id=1)
-
+head(plants)
 # Join plants with RecordNo data.
 data_together <- RecordNo %>% left_join(plants)
-
+head(data_together)
 
 # Create Awareness score 
 
@@ -81,13 +81,13 @@ df2 <- pivot_longer(df2,
                     ,names_to = c("T","index")
                     ,names_pattern = "(T9|T10)M(\\d+)"
 )
-
+head(df2)
 # Transform index as numeric 
 df2 <- mutate(df2, index=as.numeric(index))
-
+head(df2)
 # Separate T9 and T10 questions.
 df2 <- pivot_wider(df2
-                   ,names_from = T
+                   ,names_from = all_of(T)
                    ,values_from = value
 )
 
@@ -97,14 +97,14 @@ data_together2 <- RecordNo %>% left_join(plants)
 # Create Usage score
 
 # For T9 question
-data_together2 <- data_together2 %>% left_join(df2 %>% select(-T10) %>% rename(plants=T9))
+data_together2 <- data_together2 %>% left_join(df2 %>% select(-T10) %>% rename(plants=T))
 data_together2 <- mutate(data_together2, Usage_score=1)
 data_together2 <- mutate(data_together2, Usage_score=if_else(index==1,5,Usage_score,missing = Usage_score))
 data_together2 <- mutate(data_together2, Usage_score=if_else(index>=2,4,Usage_score,missing = Usage_score))
 data_together2 <- select(data_together2, -index)
 
 # For T10 question
-data_together2 <- data_together2 %>% left_join(df2 %>% select(-T9) %>% rename(plants=T10))
+data_together2 <- data_together2 %>% left_join(df2 %>% select(-T) %>% rename(plants=T10))
 data_together2 <- mutate(data_together2, Usage_score=if_else(!is.na(index),2,Usage_score,missing = Usage_score))
 data_together2 <- select(data_together2, -index)
 
