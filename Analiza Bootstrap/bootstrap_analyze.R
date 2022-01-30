@@ -11,10 +11,10 @@ library(tidyverse)
 
 #Loaded file and select 3 columns
 file <- read.csv2("~/Code/Data_Science_Professional_Project/Analiza Bootstrap/data.csv")
-file <- select(file, RecordNo, T5a:T5b)
+file <- select(file, RecordNo, T5A:T5B)
 
 #Change commas into dots in column X2a called "Wartosc tegoroczna"
-file$T5a <- filed$T5a %>%
+file$T5A <- filed$T5B %>%
   { gsub(" ", "", .) } %>%
   { gsub(",", ".", .) } %>%
   as.numeric()
