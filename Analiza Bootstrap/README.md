@@ -21,13 +21,14 @@ Na podstawie wykonanej analizy oraz przedstawionych danych można stwierdzić na
 * korelacja dla 2021 oraz 2022 wynosi 0,9906287
 
 # Charts
-* Normal distribution
+
+# Normal distribution
 ![plot1](https://github.com/adrianstodolski/Data_Science_Professional_Project/blob/main/Analiza%20Bootstrap/normal_dist.png?raw=true)
 
-* Mean for current year
+# Mean for current year
 ![plot2](https://github.com/adrianstodolski/Data_Science_Professional_Project/blob/main/Analiza%20Bootstrap/current_mean.png?raw=true)
 
-* Mean for next year
+# Mean for next year
 ![plot3](https://github.com/adrianstodolski/Data_Science_Professional_Project/blob/main/Analiza%20Bootstrap/next_mean.png?raw=true)
 
 
