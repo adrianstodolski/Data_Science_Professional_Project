@@ -90,4 +90,4 @@ nps_result <- na.omit(nps_result)
 
 
 
-write.csv2(nps_result, file = 'result_NPS.csv')
+write.csv2(nps_result, file = 'result_NPS.csv') 
