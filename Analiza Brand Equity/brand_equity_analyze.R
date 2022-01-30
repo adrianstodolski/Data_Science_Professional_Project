@@ -88,7 +88,7 @@ head(df2)
 # Separate T9 and T10 questions.
 df2 <- pivot_wider(df2
                    ,names_from = T
-                   ,values_from = value
+                   ,values_from = all_of(T)
 )
 head(df2)
 # Join plants with RecordNo data.
