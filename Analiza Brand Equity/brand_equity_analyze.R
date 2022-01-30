@@ -73,7 +73,7 @@ data_together <- select(data_together, -index)
 df2 <- read.csv2("~/Code/Data_Science_Professional_Project/Analiza Brand Equity/data.csv")
 head(df2)
 # Select only important data.
-df2 <- select(df2, RecordNo, T8M1:T9M10)
+df2 <- select(df2, RecordNo, T9M1:T4M10)
 head(df2)
 # Split data T9 and T10 questions into one column.
 df2 <- pivot_longer(df2,
