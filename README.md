@@ -10,7 +10,6 @@ Final project for Big Data Analysis at CDV
 * [Brand Equity analysis](https://github.com/adrianstodolski/Data_Science_Professional_Project#equity)
 * [NPS analysis](https://github.com/adrianstodolski/Data_Science_Professional_Project#NPS)
 * [Charts](https://github.com/adrianstodolski/Data_Science_Professional_Project#charts)
-https://github.com/adrianstodolski/Data_Science_Professional_Project#
 
 # Description
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean feugiat dignissim erat in elementum. Cras ullamcorper molestie quam, vel tempor ante hendrerit vitae. Morbi mattis metus quis libero consequat rhoncus. Nulla condimentum non neque ut sagittis. Fusce non egestas mi, quis bibendum purus. In et metus non nisl fringilla ultrices. Integer mauris sapien, ullamcorper non elit vel, bibendum gravida mauris. Curabitur quis elementum lectus. Proin mollis tristique diam.
