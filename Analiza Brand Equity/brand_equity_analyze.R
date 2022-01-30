@@ -71,15 +71,15 @@ data_together <- select(data_together, -index)
 
 # Load file.
 df2 <- read.csv2("~/Code/Data_Science_Professional_Project/Analiza Brand Equity/data.csv")
-
+head(df2)
 # Select only important data.
-df2 <- select(df2, RecordNo, T9M1:T10M10)
+df2 <- select(df2, RecordNo, T8M1:T9M10)
 head(df2)
 # Split data T9 and T10 questions into one column.
 df2 <- pivot_longer(df2,
-                    cols = matches("T[9|10]M")
+                    cols = matches("T[89]M")
                     ,names_to = c("T ","index")
-                    ,names_pattern = "(T9|T10)M(\\d+)"
+                    ,names_pattern = "(T8|T9)M(\\d+)"
 )
 head(df2)
 # Transform index as numeric 
@@ -88,7 +88,7 @@ head(df2)
 # Separate T9 and T10 questions.
 df2 <- pivot_wider(df2
                    ,names_from = T
-                   ,values_from = all_of(T)
+                   ,values_from = value
 )
 head(df2)
 # Join plants with RecordNo data.
