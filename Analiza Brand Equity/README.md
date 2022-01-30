@@ -1,8 +1,7 @@
-# Data Science Professional Project
+# Data Science Professional Project - Brand Equity analysis
 Final project for Big Data Analysis at CDV
 
-# Brand Equity analysis
-
+Author: Adrian Stodolski
 
 # Menu:
 * [Description](https://github.com/adrianstodolski/Data_Science_Professional_Project#description)
