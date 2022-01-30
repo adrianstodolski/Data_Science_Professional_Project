@@ -219,7 +219,7 @@ Total <- filter(Total, Satisfaction_score <6)
 summary(Total$plants)
 
 # Add plants labels
-MyLabels <- source("~/Code/Data_Science_Professional_Project/Analiza Brand Equity/labels.R", encoding = "UTF8")
+AllLabels <- source("~/Code/Data_Science_Professional_Project/Analiza Brand Equity/labels.R", encoding = "UTF8")
 Total$plants <- MyLabels(Total$plants)
 
 # Write data to outfile.
