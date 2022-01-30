@@ -15,11 +15,10 @@ Bootstrap polega na szacowaniu (estymacji) wyników poprzez wielokrotne losowani
 # Conclusions
 Na podstawie wykonanej analizy oraz przedstawionych danych można stwierdzić następujące fakty:
 
-* najwyższa świadomość oraz znajomość występuje dla rośliny - "Arnika"" oraz rośliny - "Łubin"" i kształtuje się na poziomie prawie 15%.
-* najwyższy wskaźnik użycia występuje u rośliny "Chaber" (19,08%), rośliny "Babka" (18,95%) oraz "Arnika" (18,98%).
-* najwyższy indeks preferencji i satysfakcji według badanych występuje w przypadku rośliny "Arnika" (23,66%) oraz rośliny "Babka" (22,69%).
-
-Biorąc pod uwagę wszystkie powyższe wskaźniki składające się na całość analizy Brand Equity można powiedzieć, że najwyższą wartość wśród badanej grupy docelowej posiada "Arnika" (57,53%).
+* każdy z wykresów przedstawia rozkład normalny (dla normal distribuation | mean for current year | mean for next year)
+* rozkład stanu standardowego przedstawia linię równomiernego rozkładu (zaznaczone wartości są ułożone prawie idealnie na linii)
+* przewidywana wartość uprawiania kukurydzy w 2022 roku zwiększy się w porównaniu z rokiem 2021
+* korelacja dla 2021 oraz 2022 wynosi 0,9906287
 
 # Charts
 ![plot1](https://github.com/adrianstodolski/Data_Science_Professional_Project/blob/main/Analiza%20Brand%20Equity/slupki.png?raw=true)
