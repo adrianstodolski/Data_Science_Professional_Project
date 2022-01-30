@@ -1,0 +1,1902 @@
+"";"education";"ocupation";"area";"age group";"recomendation";"firma";"score";"detractor";"neutral";"promoter";"total"
+"1";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"51 - 60";3;"Arnika";"Detractor";1;0;0;1
+"2";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"31 - 40";9;"Arnika";"Promoter";0;0;1;1
+"3";"Średnie ogólne";"Główny agronom";"100.01 - 250 ha";"mniej niż 30";6;"Arnika";"Detractor";1;0;0;1
+"4";"Średnie ogólne";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";2;"Arnika";"Detractor";1;0;0;1
+"5";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"31 - 40";9;"Arnika";"Promoter";0;0;1;1
+"6";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"mniej niż 30";9;"Arnika";"Promoter";0;0;1;1
+"7";"Wyższe";"Główny agronom";"100.01 - 250 ha";"41 - 50";9;"Arnika";"Promoter";0;0;1;1
+"8";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"41 - 50";3;"Arnika";"Detractor";1;0;0;1
+"9";"Średnie techniczne";"Właściciel";"więcej niż 250 ha";"powyżej 60";10;"Arnika";"Promoter";0;0;1;1
+"10";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"31 - 40";5;"Arnika";"Detractor";1;0;0;1
+"11";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";4;"Arnika";"Detractor";1;0;0;1
+"12";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"41 - 50";7;"Arnika";"Neutral";0;1;0;1
+"13";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"41 - 50";6;"Arnika";"Detractor";1;0;0;1
+"14";"Średnie ogólne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"mniej niż 30";6;"Arnika";"Detractor";1;0;0;1
+"15";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"31 - 40";10;"Arnika";"Promoter";0;0;1;1
+"16";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"31 - 40";2;"Arnika";"Detractor";1;0;0;1
+"17";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"31 - 40";2;"Arnika";"Detractor";1;0;0;1
+"18";"Średnie ogólne";"Agronom ekspert";"100.01 - 250 ha";"51 - 60";9;"Arnika";"Promoter";0;0;1;1
+"19";"Średnie techniczne";"Właściciel";"50.01 - 100 ha";"powyżej 60";8;"Arnika";"Neutral";0;1;0;1
+"20";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";9;"Arnika";"Promoter";0;0;1;1
+"21";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"mniej niż 30";10;"Arnika";"Promoter";0;0;1;1
+"22";"Średnie ogólne";"Główny agronom";"więcej niż 250 ha";"41 - 50";7;"Arnika";"Neutral";0;1;0;1
+"23";"Średnie ogólne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"powyżej 60";7;"Arnika";"Neutral";0;1;0;1
+"24";"Średnie ogólne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"51 - 60";9;"Arnika";"Promoter";0;0;1;1
+"25";"Średnie techniczne";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"51 - 60";3;"Arnika";"Detractor";1;0;0;1
+"26";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"41 - 50";7;"Arnika";"Neutral";0;1;0;1
+"27";"Średnie techniczne";"Pracownik techniczny";"mniej niż 25 ha";"51 - 60";8;"Arnika";"Neutral";0;1;0;1
+"28";"Średnie ogólne";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";10;"Arnika";"Promoter";0;0;1;1
+"29";"Średnie ogólne";"Pracownik techniczny";"mniej niż 25 ha";"51 - 60";8;"Arnika";"Neutral";0;1;0;1
+"30";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"mniej niż 30";10;"Arnika";"Promoter";0;0;1;1
+"31";"Średnie ogólne";"Pracownik techniczny";"50.01 - 100 ha";"powyżej 60";9;"Arnika";"Promoter";0;0;1;1
+"32";"Wyższe rolnicze";"Właściciel";"mniej niż 25 ha";"41 - 50";9;"Arnika";"Promoter";0;0;1;1
+"33";"Wyższe";"Główny agronom";"więcej niż 250 ha";"51 - 60";3;"Arnika";"Detractor";1;0;0;1
+"34";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"31 - 40";10;"Arnika";"Promoter";0;0;1;1
+"35";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"31 - 40";2;"Arnika";"Detractor";1;0;0;1
+"36";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";7;"Arnika";"Neutral";0;1;0;1
+"37";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"51 - 60";7;"Arnika";"Neutral";0;1;0;1
+"38";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"41 - 50";9;"Arnika";"Promoter";0;0;1;1
+"39";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"51 - 60";5;"Arnika";"Detractor";1;0;0;1
+"40";"Średnie techniczne";"Agronom ekspert";"25.01 - 50 ha";"51 - 60";1;"Arnika";"Detractor";1;0;0;1
+"41";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";4;"Arnika";"Detractor";1;0;0;1
+"42";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";9;"Arnika";"Promoter";0;0;1;1
+"43";"Średnie techniczne";"Agronom ekspert";"100.01 - 250 ha";"41 - 50";9;"Arnika";"Promoter";0;0;1;1
+"44";"Średnie techniczne";"Agronom ekspert";"25.01 - 50 ha";"31 - 40";9;"Arnika";"Promoter";0;0;1;1
+"45";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"31 - 40";10;"Arnika";"Promoter";0;0;1;1
+"46";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"powyżej 60";9;"Arnika";"Promoter";0;0;1;1
+"47";"Średnie ogólne";"Główny agronom";"100.01 - 250 ha";"51 - 60";10;"Arnika";"Promoter";0;0;1;1
+"48";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"41 - 50";9;"Arnika";"Promoter";0;0;1;1
+"49";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"powyżej 60";5;"Arnika";"Detractor";1;0;0;1
+"50";"Średnie ogólne";"Pracownik techniczny";"100.01 - 250 ha";"31 - 40";2;"Arnika";"Detractor";1;0;0;1
+"51";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"31 - 40";10;"Arnika";"Promoter";0;0;1;1
+"52";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"powyżej 60";8;"Arnika";"Neutral";0;1;0;1
+"53";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"41 - 50";7;"Arnika";"Neutral";0;1;0;1
+"54";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"31 - 40";6;"Arnika";"Detractor";1;0;0;1
+"55";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"41 - 50";9;"Arnika";"Promoter";0;0;1;1
+"56";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"51 - 60";9;"Arnika";"Promoter";0;0;1;1
+"57";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"41 - 50";10;"Arnika";"Promoter";0;0;1;1
+"58";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"31 - 40";4;"Arnika";"Detractor";1;0;0;1
+"59";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"31 - 40";3;"Arnika";"Detractor";1;0;0;1
+"60";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"51 - 60";4;"Arnika";"Detractor";1;0;0;1
+"61";"Wyższe rolnicze";"Właściciel";"mniej niż 25 ha";"41 - 50";7;"Arnika";"Neutral";0;1;0;1
+"62";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"powyżej 60";10;"Arnika";"Promoter";0;0;1;1
+"63";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"51 - 60";4;"Arnika";"Detractor";1;0;0;1
+"64";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"31 - 40";9;"Arnika";"Promoter";0;0;1;1
+"65";"Średnie ogólne";"Pracownik techniczny";"100.01 - 250 ha";"31 - 40";10;"Arnika";"Promoter";0;0;1;1
+"66";"Średnie ogólne";"Pracownik techniczny";"50.01 - 100 ha";"mniej niż 30";4;"Arnika";"Detractor";1;0;0;1
+"67";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"31 - 40";10;"Arnika";"Promoter";0;0;1;1
+"68";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"mniej niż 30";7;"Arnika";"Neutral";0;1;0;1
+"69";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"41 - 50";6;"Arnika";"Detractor";1;0;0;1
+"70";"Średnie ogólne";"Pracownik techniczny";"25.01 - 50 ha";"41 - 50";9;"Arnika";"Promoter";0;0;1;1
+"71";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";9;"Arnika";"Promoter";0;0;1;1
+"72";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";5;"Arnika";"Detractor";1;0;0;1
+"73";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"31 - 40";9;"Arnika";"Promoter";0;0;1;1
+"74";"Średnie ogólne";"Pracownik techniczny";"100.01 - 250 ha";"mniej niż 30";8;"Arnika";"Neutral";0;1;0;1
+"75";"Średnie ogólne";"Pracownik techniczny";"50.01 - 100 ha";"mniej niż 30";9;"Arnika";"Promoter";0;0;1;1
+"76";"Średnie techniczne";"Właściciel";"50.01 - 100 ha";"41 - 50";4;"Arnika";"Detractor";1;0;0;1
+"77";"Średnie ogólne";"Główny agronom";"mniej niż 25 ha";"31 - 40";3;"Arnika";"Detractor";1;0;0;1
+"78";"Średnie ogólne";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";7;"Arnika";"Neutral";0;1;0;1
+"80";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"51 - 60";10;"Arnika";"Promoter";0;0;1;1
+"81";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";5;"Arnika";"Detractor";1;0;0;1
+"82";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"41 - 50";8;"Arnika";"Neutral";0;1;0;1
+"83";"Wyższe rolnicze";"Pracownik techniczny";"25.01 - 50 ha";"mniej niż 30";0;"Arnika";"Detractor";1;0;0;1
+"84";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"mniej niż 30";1;"Arnika";"Detractor";1;0;0;1
+"85";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";3;"Arnika";"Detractor";1;0;0;1
+"86";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"mniej niż 30";10;"Arnika";"Promoter";0;0;1;1
+"87";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"powyżej 60";2;"Arnika";"Detractor";1;0;0;1
+"88";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"51 - 60";10;"Arnika";"Promoter";0;0;1;1
+"89";"Średnie techniczne";"Główny agronom";"50.01 - 100 ha";"powyżej 60";10;"Arnika";"Promoter";0;0;1;1
+"90";"Średnie ogólne";"Pracownik techniczny";"25.01 - 50 ha";"41 - 50";5;"Arnika";"Detractor";1;0;0;1
+"91";"Wyższe rolnicze";"Właściciel";"więcej niż 250 ha";"51 - 60";4;"Arnika";"Detractor";1;0;0;1
+"92";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"powyżej 60";5;"Arnika";"Detractor";1;0;0;1
+"93";"Wyższe";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"31 - 40";5;"Arnika";"Detractor";1;0;0;1
+"94";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"powyżej 60";5;"Arnika";"Detractor";1;0;0;1
+"95";"Wyższe";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"41 - 50";7;"Arnika";"Neutral";0;1;0;1
+"96";"Wyższe rolnicze";"Pracownik techniczny";"więcej niż 250 ha";"51 - 60";2;"Arnika";"Detractor";1;0;0;1
+"97";"Wyższe rolnicze";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";4;"Arnika";"Detractor";1;0;0;1
+"98";"Średnie ogólne";"Główny agronom";"50.01 - 100 ha";"powyżej 60";3;"Arnika";"Detractor";1;0;0;1
+"99";"Wyższe";"Pracownik techniczny";"25.01 - 50 ha";"51 - 60";2;"Arnika";"Detractor";1;0;0;1
+"100";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"powyżej 60";10;"Arnika";"Promoter";0;0;1;1
+"101";"Średnie techniczne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";8;"Arnika";"Neutral";0;1;0;1
+"102";"Średnie ogólne";"Główny agronom";"50.01 - 100 ha";"mniej niż 30";2;"Arnika";"Detractor";1;0;0;1
+"103";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"51 - 60";2;"Arnika";"Detractor";1;0;0;1
+"104";"Średnie ogólne";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";5;"Arnika";"Detractor";1;0;0;1
+"105";"Wyższe";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"powyżej 60";6;"Arnika";"Detractor";1;0;0;1
+"106";"Wyższe";"Dyrektor/wicedyrektor";"25.01 - 50 ha";"51 - 60";2;"Arnika";"Detractor";1;0;0;1
+"107";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"mniej niż 30";2;"Arnika";"Detractor";1;0;0;1
+"108";"Średnie ogólne";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";0;"Arnika";"Detractor";1;0;0;1
+"109";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"51 - 60";9;"Arnika";"Promoter";0;0;1;1
+"110";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";4;"Arnika";"Detractor";1;0;0;1
+"111";"Średnie techniczne";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";4;"Arnika";"Detractor";1;0;0;1
+"112";"Wyższe rolnicze";"Agronom ekspert";"25.01 - 50 ha";"powyżej 60";3;"Arnika";"Detractor";1;0;0;1
+"113";"Średnie techniczne";"Właściciel";"więcej niż 250 ha";"mniej niż 30";1;"Arnika";"Detractor";1;0;0;1
+"114";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"41 - 50";0;"Arnika";"Detractor";1;0;0;1
+"115";"Inne";"Pracownik techniczny";"50.01 - 100 ha";"mniej niż 30";5;"Arnika";"Detractor";1;0;0;1
+"116";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"41 - 50";5;"Arnika";"Detractor";1;0;0;1
+"117";"Średnie ogólne";"Pracownik techniczny";"25.01 - 50 ha";"powyżej 60";0;"Arnika";"Detractor";1;0;0;1
+"118";"Średnie ogólne";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";0;"Arnika";"Detractor";1;0;0;1
+"119";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"mniej niż 30";9;"Arnika";"Promoter";0;0;1;1
+"120";"Wyższe rolnicze";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";2;"Arnika";"Detractor";1;0;0;1
+"121";"Średnie techniczne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";5;"Arnika";"Detractor";1;0;0;1
+"122";"Wyższe";"Właściciel";"więcej niż 250 ha";"mniej niż 30";3;"Arnika";"Detractor";1;0;0;1
+"123";"Wyższe";"Właściciel";"więcej niż 250 ha";"powyżej 60";5;"Arnika";"Detractor";1;0;0;1
+"124";"Wyższe";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";4;"Arnika";"Detractor";1;0;0;1
+"126";"Wyższe";"Główny agronom";"więcej niż 250 ha";"powyżej 60";1;"Arnika";"Detractor";1;0;0;1
+"127";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"51 - 60";3;"Arnika";"Detractor";1;0;0;1
+"128";"Średnie techniczne";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"51 - 60";0;"Arnika";"Detractor";1;0;0;1
+"129";"Wyższe rolnicze";"Główny agronom";"50.01 - 100 ha";"powyżej 60";3;"Arnika";"Detractor";1;0;0;1
+"130";"Średnie techniczne";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";0;"Arnika";"Detractor";1;0;0;1
+"131";"Średnie techniczne";"Główny agronom";"więcej niż 250 ha";"31 - 40";4;"Arnika";"Detractor";1;0;0;1
+"132";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"powyżej 60";9;"Arnika";"Promoter";0;0;1;1
+"133";"Wyższe rolnicze";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";1;"Arnika";"Detractor";1;0;0;1
+"134";"Wyższe rolnicze";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";3;"Arnika";"Detractor";1;0;0;1
+"135";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"powyżej 60";5;"Arnika";"Detractor";1;0;0;1
+"136";"Średnie techniczne";"Właściciel";"więcej niż 250 ha";"51 - 60";2;"Arnika";"Detractor";1;0;0;1
+"138";"Wyższe rolnicze";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";4;"Arnika";"Detractor";1;0;0;1
+"139";"Wyższe rolnicze";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";7;"Arnika";"Neutral";0;1;0;1
+"140";"Wyższe";"Pracownik techniczny";"100.01 - 250 ha";"powyżej 60";2;"Arnika";"Detractor";1;0;0;1
+"142";"Wyższe rolnicze";"Główny agronom";"100.01 - 250 ha";"41 - 50";4;"Arnika";"Detractor";1;0;0;1
+"143";"Wyższe rolnicze";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";0;"Arnika";"Detractor";1;0;0;1
+"144";"Średnie techniczne";"Agronom ekspert";"50.01 - 100 ha";"41 - 50";0;"Arnika";"Detractor";1;0;0;1
+"145";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"31 - 40";10;"Arnika";"Promoter";0;0;1;1
+"146";"Wyższe";"Agronom ekspert";"50.01 - 100 ha";"31 - 40";1;"Arnika";"Detractor";1;0;0;1
+"147";"Wyższe rolnicze";"Inna";"więcej niż 250 ha";"51 - 60";2;"Arnika";"Detractor";1;0;0;1
+"148";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"51 - 60";9;"Arnika";"Promoter";0;0;1;1
+"149";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";3;"Arnika";"Detractor";1;0;0;1
+"150";"Wyższe rolnicze";"Główny agronom";"100.01 - 250 ha";"powyżej 60";2;"Arnika";"Detractor";1;0;0;1
+"151";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"powyżej 60";8;"Arnika";"Neutral";0;1;0;1
+"152";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"31 - 40";1;"Arnika";"Detractor";1;0;0;1
+"153";"Średnie techniczne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";4;"Arnika";"Detractor";1;0;0;1
+"154";"Wyższe rolnicze";"Główny agronom";"więcej niż 250 ha";"41 - 50";5;"Arnika";"Detractor";1;0;0;1
+"155";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"powyżej 60";7;"Arnika";"Neutral";0;1;0;1
+"156";"Średnie ogólne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";7;"Arnika";"Neutral";0;1;0;1
+"157";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";7;"Arnika";"Neutral";0;1;0;1
+"158";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"41 - 50";5;"Arnika";"Detractor";1;0;0;1
+"159";"Średnie techniczne";"Właściciel";"25.01 - 50 ha";"41 - 50";1;"Arnika";"Detractor";1;0;0;1
+"160";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"powyżej 60";2;"Arnika";"Detractor";1;0;0;1
+"161";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"powyżej 60";8;"Arnika";"Neutral";0;1;0;1
+"162";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"51 - 60";10;"Arnika";"Promoter";0;0;1;1
+"163";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"powyżej 60";1;"Arnika";"Detractor";1;0;0;1
+"164";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"25.01 - 50 ha";"powyżej 60";6;"Arnika";"Detractor";1;0;0;1
+"165";"Wyższe rolnicze";"Agronom ekspert";"50.01 - 100 ha";"31 - 40";1;"Arnika";"Detractor";1;0;0;1
+"166";"Średnie techniczne";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";7;"Arnika";"Neutral";0;1;0;1
+"167";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";10;"Arnika";"Promoter";0;0;1;1
+"168";"Wyższe";"Agronom ekspert";"mniej niż 25 ha";"41 - 50";3;"Arnika";"Detractor";1;0;0;1
+"169";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"41 - 50";8;"Arnika";"Neutral";0;1;0;1
+"170";"Wyższe";"Agronom ekspert";"50.01 - 100 ha";"powyżej 60";3;"Arnika";"Detractor";1;0;0;1
+"171";"Średnie techniczne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"51 - 60";8;"Arnika";"Neutral";0;1;0;1
+"172";"Wyższe";"Główny agronom";"100.01 - 250 ha";"mniej niż 30";8;"Arnika";"Neutral";0;1;0;1
+"174";"Średnie ogólne";"Główny agronom";"100.01 - 250 ha";"powyżej 60";3;"Arnika";"Detractor";1;0;0;1
+"175";"Wyższe rolnicze";"Właściciel";"25.01 - 50 ha";"powyżej 60";9;"Arnika";"Promoter";0;0;1;1
+"176";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";4;"Arnika";"Detractor";1;0;0;1
+"177";"Wyższe";"Główny agronom";"100.01 - 250 ha";"powyżej 60";9;"Arnika";"Promoter";0;0;1;1
+"178";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"41 - 50";3;"Arnika";"Detractor";1;0;0;1
+"179";"Średnie ogólne";"Główny agronom";"więcej niż 250 ha";"41 - 50";10;"Arnika";"Promoter";0;0;1;1
+"180";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"powyżej 60";9;"Arnika";"Promoter";0;0;1;1
+"181";"Średnie techniczne";"Agronom ekspert";"mniej niż 25 ha";"powyżej 60";8;"Arnika";"Neutral";0;1;0;1
+"182";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"51 - 60";1;"Arnika";"Detractor";1;0;0;1
+"183";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"51 - 60";2;"Arnika";"Detractor";1;0;0;1
+"184";"Wyższe rolnicze";"Agronom ekspert";"więcej niż 250 ha";"mniej niż 30";6;"Arnika";"Detractor";1;0;0;1
+"185";"Wyższe";"Główny agronom";"więcej niż 250 ha";"31 - 40";2;"Arnika";"Detractor";1;0;0;1
+"186";"Średnie techniczne";"Agronom ekspert";"więcej niż 250 ha";"mniej niż 30";8;"Arnika";"Neutral";0;1;0;1
+"187";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"powyżej 60";3;"Arnika";"Detractor";1;0;0;1
+"188";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"51 - 60";3;"Arnika";"Detractor";1;0;0;1
+"189";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"31 - 40";5;"Arnika";"Detractor";1;0;0;1
+"191";"Średnie ogólne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"31 - 40";3;"Arnika";"Detractor";1;0;0;1
+"192";"Wyższe";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";2;"Arnika";"Detractor";1;0;0;1
+"193";"Wyższe rolnicze";"Właściciel";"więcej niż 250 ha";"powyżej 60";1;"Arnika";"Detractor";1;0;0;1
+"194";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"51 - 60";7;"Arnika";"Neutral";0;1;0;1
+"195";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"mniej niż 30";1;"Arnika";"Detractor";1;0;0;1
+"196";"Średnie techniczne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";0;"Arnika";"Detractor";1;0;0;1
+"197";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"51 - 60";5;"Babka";"Detractor";1;0;0;1
+"198";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"31 - 40";5;"Babka";"Detractor";1;0;0;1
+"199";"Średnie ogólne";"Główny agronom";"100.01 - 250 ha";"mniej niż 30";5;"Babka";"Detractor";1;0;0;1
+"200";"Średnie ogólne";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";4;"Babka";"Detractor";1;0;0;1
+"201";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"31 - 40";9;"Babka";"Promoter";0;0;1;1
+"202";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"mniej niż 30";0;"Babka";"Detractor";1;0;0;1
+"203";"Wyższe";"Główny agronom";"100.01 - 250 ha";"41 - 50";7;"Babka";"Neutral";0;1;0;1
+"204";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"41 - 50";7;"Babka";"Neutral";0;1;0;1
+"205";"Średnie techniczne";"Właściciel";"więcej niż 250 ha";"powyżej 60";5;"Babka";"Detractor";1;0;0;1
+"206";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"31 - 40";10;"Babka";"Promoter";0;0;1;1
+"207";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";9;"Babka";"Promoter";0;0;1;1
+"208";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"41 - 50";6;"Babka";"Detractor";1;0;0;1
+"209";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"41 - 50";7;"Babka";"Neutral";0;1;0;1
+"210";"Średnie ogólne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"mniej niż 30";8;"Babka";"Neutral";0;1;0;1
+"211";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"31 - 40";8;"Babka";"Neutral";0;1;0;1
+"212";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"31 - 40";5;"Babka";"Detractor";1;0;0;1
+"213";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"31 - 40";8;"Babka";"Neutral";0;1;0;1
+"214";"Średnie ogólne";"Agronom ekspert";"100.01 - 250 ha";"51 - 60";3;"Babka";"Detractor";1;0;0;1
+"215";"Średnie techniczne";"Właściciel";"50.01 - 100 ha";"powyżej 60";8;"Babka";"Neutral";0;1;0;1
+"216";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";6;"Babka";"Detractor";1;0;0;1
+"217";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"mniej niż 30";7;"Babka";"Neutral";0;1;0;1
+"218";"Średnie ogólne";"Główny agronom";"więcej niż 250 ha";"41 - 50";6;"Babka";"Detractor";1;0;0;1
+"219";"Średnie ogólne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"powyżej 60";5;"Babka";"Detractor";1;0;0;1
+"220";"Średnie ogólne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"51 - 60";10;"Babka";"Promoter";0;0;1;1
+"221";"Średnie techniczne";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"51 - 60";4;"Babka";"Detractor";1;0;0;1
+"222";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"41 - 50";9;"Babka";"Promoter";0;0;1;1
+"223";"Średnie techniczne";"Pracownik techniczny";"mniej niż 25 ha";"51 - 60";6;"Babka";"Detractor";1;0;0;1
+"224";"Średnie ogólne";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";9;"Babka";"Promoter";0;0;1;1
+"225";"Średnie ogólne";"Pracownik techniczny";"mniej niż 25 ha";"51 - 60";9;"Babka";"Promoter";0;0;1;1
+"226";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"mniej niż 30";1;"Babka";"Detractor";1;0;0;1
+"227";"Średnie ogólne";"Pracownik techniczny";"50.01 - 100 ha";"powyżej 60";8;"Babka";"Neutral";0;1;0;1
+"228";"Wyższe rolnicze";"Właściciel";"mniej niż 25 ha";"41 - 50";7;"Babka";"Neutral";0;1;0;1
+"229";"Wyższe";"Główny agronom";"więcej niż 250 ha";"51 - 60";4;"Babka";"Detractor";1;0;0;1
+"230";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"31 - 40";7;"Babka";"Neutral";0;1;0;1
+"231";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"31 - 40";9;"Babka";"Promoter";0;0;1;1
+"232";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";9;"Babka";"Promoter";0;0;1;1
+"233";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"51 - 60";2;"Babka";"Detractor";1;0;0;1
+"234";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"41 - 50";10;"Babka";"Promoter";0;0;1;1
+"235";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"51 - 60";2;"Babka";"Detractor";1;0;0;1
+"236";"Średnie techniczne";"Agronom ekspert";"25.01 - 50 ha";"51 - 60";8;"Babka";"Neutral";0;1;0;1
+"237";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";9;"Babka";"Promoter";0;0;1;1
+"238";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";9;"Babka";"Promoter";0;0;1;1
+"239";"Średnie techniczne";"Agronom ekspert";"100.01 - 250 ha";"41 - 50";10;"Babka";"Promoter";0;0;1;1
+"240";"Średnie techniczne";"Agronom ekspert";"25.01 - 50 ha";"31 - 40";7;"Babka";"Neutral";0;1;0;1
+"241";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"31 - 40";8;"Babka";"Neutral";0;1;0;1
+"242";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"powyżej 60";9;"Babka";"Promoter";0;0;1;1
+"244";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"41 - 50";3;"Babka";"Detractor";1;0;0;1
+"245";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"powyżej 60";7;"Babka";"Neutral";0;1;0;1
+"246";"Średnie ogólne";"Pracownik techniczny";"100.01 - 250 ha";"31 - 40";9;"Babka";"Promoter";0;0;1;1
+"247";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"31 - 40";2;"Babka";"Detractor";1;0;0;1
+"248";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"powyżej 60";10;"Babka";"Promoter";0;0;1;1
+"249";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"41 - 50";4;"Babka";"Detractor";1;0;0;1
+"250";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"31 - 40";10;"Babka";"Promoter";0;0;1;1
+"251";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"41 - 50";5;"Babka";"Detractor";1;0;0;1
+"252";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"51 - 60";1;"Babka";"Detractor";1;0;0;1
+"253";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"41 - 50";4;"Babka";"Detractor";1;0;0;1
+"254";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"31 - 40";10;"Babka";"Promoter";0;0;1;1
+"255";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"31 - 40";10;"Babka";"Promoter";0;0;1;1
+"256";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"51 - 60";7;"Babka";"Neutral";0;1;0;1
+"257";"Wyższe rolnicze";"Właściciel";"mniej niż 25 ha";"41 - 50";10;"Babka";"Promoter";0;0;1;1
+"258";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"powyżej 60";4;"Babka";"Detractor";1;0;0;1
+"259";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"51 - 60";9;"Babka";"Promoter";0;0;1;1
+"260";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"31 - 40";8;"Babka";"Neutral";0;1;0;1
+"261";"Średnie ogólne";"Pracownik techniczny";"100.01 - 250 ha";"31 - 40";9;"Babka";"Promoter";0;0;1;1
+"262";"Średnie ogólne";"Pracownik techniczny";"50.01 - 100 ha";"mniej niż 30";3;"Babka";"Detractor";1;0;0;1
+"263";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"31 - 40";2;"Babka";"Detractor";1;0;0;1
+"264";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"mniej niż 30";10;"Babka";"Promoter";0;0;1;1
+"265";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"41 - 50";5;"Babka";"Detractor";1;0;0;1
+"266";"Średnie ogólne";"Pracownik techniczny";"25.01 - 50 ha";"41 - 50";4;"Babka";"Detractor";1;0;0;1
+"267";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";4;"Babka";"Detractor";1;0;0;1
+"268";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";9;"Babka";"Promoter";0;0;1;1
+"269";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"31 - 40";9;"Babka";"Promoter";0;0;1;1
+"270";"Średnie ogólne";"Pracownik techniczny";"100.01 - 250 ha";"mniej niż 30";7;"Babka";"Neutral";0;1;0;1
+"271";"Średnie ogólne";"Pracownik techniczny";"50.01 - 100 ha";"mniej niż 30";7;"Babka";"Neutral";0;1;0;1
+"272";"Średnie techniczne";"Właściciel";"50.01 - 100 ha";"41 - 50";5;"Babka";"Detractor";1;0;0;1
+"273";"Średnie ogólne";"Główny agronom";"mniej niż 25 ha";"31 - 40";9;"Babka";"Promoter";0;0;1;1
+"274";"Średnie ogólne";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";7;"Babka";"Neutral";0;1;0;1
+"275";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";3;"Babka";"Detractor";1;0;0;1
+"276";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"51 - 60";8;"Babka";"Neutral";0;1;0;1
+"277";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";1;"Babka";"Detractor";1;0;0;1
+"278";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"41 - 50";5;"Babka";"Detractor";1;0;0;1
+"279";"Wyższe rolnicze";"Pracownik techniczny";"25.01 - 50 ha";"mniej niż 30";5;"Babka";"Detractor";1;0;0;1
+"280";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"mniej niż 30";9;"Babka";"Promoter";0;0;1;1
+"281";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";2;"Babka";"Detractor";1;0;0;1
+"282";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"mniej niż 30";1;"Babka";"Detractor";1;0;0;1
+"283";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"powyżej 60";3;"Babka";"Detractor";1;0;0;1
+"285";"Średnie techniczne";"Główny agronom";"50.01 - 100 ha";"powyżej 60";10;"Babka";"Promoter";0;0;1;1
+"287";"Wyższe rolnicze";"Właściciel";"więcej niż 250 ha";"51 - 60";4;"Babka";"Detractor";1;0;0;1
+"288";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"powyżej 60";1;"Babka";"Detractor";1;0;0;1
+"289";"Wyższe";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"31 - 40";9;"Babka";"Promoter";0;0;1;1
+"290";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"powyżej 60";5;"Babka";"Detractor";1;0;0;1
+"291";"Wyższe";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"41 - 50";4;"Babka";"Detractor";1;0;0;1
+"292";"Wyższe rolnicze";"Pracownik techniczny";"więcej niż 250 ha";"51 - 60";3;"Babka";"Detractor";1;0;0;1
+"293";"Wyższe rolnicze";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";2;"Babka";"Detractor";1;0;0;1
+"294";"Średnie ogólne";"Główny agronom";"50.01 - 100 ha";"powyżej 60";2;"Babka";"Detractor";1;0;0;1
+"295";"Wyższe";"Pracownik techniczny";"25.01 - 50 ha";"51 - 60";0;"Babka";"Detractor";1;0;0;1
+"296";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"powyżej 60";8;"Babka";"Neutral";0;1;0;1
+"297";"Średnie techniczne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";9;"Babka";"Promoter";0;0;1;1
+"298";"Średnie ogólne";"Główny agronom";"50.01 - 100 ha";"mniej niż 30";8;"Babka";"Neutral";0;1;0;1
+"299";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"51 - 60";1;"Babka";"Detractor";1;0;0;1
+"300";"Średnie ogólne";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";5;"Babka";"Detractor";1;0;0;1
+"301";"Wyższe";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"powyżej 60";7;"Babka";"Neutral";0;1;0;1
+"302";"Wyższe";"Dyrektor/wicedyrektor";"25.01 - 50 ha";"51 - 60";8;"Babka";"Neutral";0;1;0;1
+"304";"Średnie ogólne";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";2;"Babka";"Detractor";1;0;0;1
+"305";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"51 - 60";8;"Babka";"Neutral";0;1;0;1
+"306";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";3;"Babka";"Detractor";1;0;0;1
+"307";"Średnie techniczne";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";1;"Babka";"Detractor";1;0;0;1
+"308";"Wyższe rolnicze";"Agronom ekspert";"25.01 - 50 ha";"powyżej 60";9;"Babka";"Promoter";0;0;1;1
+"309";"Średnie techniczne";"Właściciel";"więcej niż 250 ha";"mniej niż 30";8;"Babka";"Neutral";0;1;0;1
+"310";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"41 - 50";1;"Babka";"Detractor";1;0;0;1
+"311";"Inne";"Pracownik techniczny";"50.01 - 100 ha";"mniej niż 30";2;"Babka";"Detractor";1;0;0;1
+"312";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"41 - 50";10;"Babka";"Promoter";0;0;1;1
+"313";"Średnie ogólne";"Pracownik techniczny";"25.01 - 50 ha";"powyżej 60";3;"Babka";"Detractor";1;0;0;1
+"314";"Średnie ogólne";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";6;"Babka";"Detractor";1;0;0;1
+"316";"Wyższe rolnicze";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";6;"Babka";"Detractor";1;0;0;1
+"318";"Wyższe";"Właściciel";"więcej niż 250 ha";"mniej niż 30";5;"Babka";"Detractor";1;0;0;1
+"319";"Wyższe";"Właściciel";"więcej niż 250 ha";"powyżej 60";5;"Babka";"Detractor";1;0;0;1
+"320";"Wyższe";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";6;"Babka";"Detractor";1;0;0;1
+"322";"Wyższe";"Główny agronom";"więcej niż 250 ha";"powyżej 60";10;"Babka";"Promoter";0;0;1;1
+"323";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"51 - 60";1;"Babka";"Detractor";1;0;0;1
+"324";"Średnie techniczne";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"51 - 60";3;"Babka";"Detractor";1;0;0;1
+"325";"Wyższe rolnicze";"Główny agronom";"50.01 - 100 ha";"powyżej 60";6;"Babka";"Detractor";1;0;0;1
+"326";"Średnie techniczne";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";1;"Babka";"Detractor";1;0;0;1
+"328";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"powyżej 60";7;"Babka";"Neutral";0;1;0;1
+"329";"Wyższe rolnicze";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";9;"Babka";"Promoter";0;0;1;1
+"330";"Wyższe rolnicze";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";1;"Babka";"Detractor";1;0;0;1
+"331";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"powyżej 60";5;"Babka";"Detractor";1;0;0;1
+"332";"Średnie techniczne";"Właściciel";"więcej niż 250 ha";"51 - 60";8;"Babka";"Neutral";0;1;0;1
+"333";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"51 - 60";1;"Babka";"Detractor";1;0;0;1
+"334";"Wyższe rolnicze";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";10;"Babka";"Promoter";0;0;1;1
+"335";"Wyższe rolnicze";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";9;"Babka";"Promoter";0;0;1;1
+"336";"Wyższe";"Pracownik techniczny";"100.01 - 250 ha";"powyżej 60";4;"Babka";"Detractor";1;0;0;1
+"337";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"41 - 50";5;"Babka";"Detractor";1;0;0;1
+"341";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"31 - 40";1;"Babka";"Detractor";1;0;0;1
+"342";"Wyższe";"Agronom ekspert";"50.01 - 100 ha";"31 - 40";6;"Babka";"Detractor";1;0;0;1
+"343";"Wyższe rolnicze";"Inna";"więcej niż 250 ha";"51 - 60";9;"Babka";"Promoter";0;0;1;1
+"345";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";3;"Babka";"Detractor";1;0;0;1
+"346";"Wyższe rolnicze";"Główny agronom";"100.01 - 250 ha";"powyżej 60";8;"Babka";"Neutral";0;1;0;1
+"347";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"powyżej 60";2;"Babka";"Detractor";1;0;0;1
+"348";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"31 - 40";2;"Babka";"Detractor";1;0;0;1
+"349";"Średnie techniczne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";1;"Babka";"Detractor";1;0;0;1
+"350";"Wyższe rolnicze";"Główny agronom";"więcej niż 250 ha";"41 - 50";0;"Babka";"Detractor";1;0;0;1
+"352";"Średnie ogólne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";7;"Babka";"Neutral";0;1;0;1
+"353";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";10;"Babka";"Promoter";0;0;1;1
+"354";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"41 - 50";10;"Babka";"Promoter";0;0;1;1
+"355";"Średnie techniczne";"Właściciel";"25.01 - 50 ha";"41 - 50";6;"Babka";"Detractor";1;0;0;1
+"356";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"powyżej 60";8;"Babka";"Neutral";0;1;0;1
+"357";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"powyżej 60";6;"Babka";"Detractor";1;0;0;1
+"358";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"51 - 60";9;"Babka";"Promoter";0;0;1;1
+"359";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"powyżej 60";9;"Babka";"Promoter";0;0;1;1
+"360";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"25.01 - 50 ha";"powyżej 60";9;"Babka";"Promoter";0;0;1;1
+"361";"Wyższe rolnicze";"Agronom ekspert";"50.01 - 100 ha";"31 - 40";8;"Babka";"Neutral";0;1;0;1
+"362";"Średnie techniczne";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";3;"Babka";"Detractor";1;0;0;1
+"363";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";4;"Babka";"Detractor";1;0;0;1
+"364";"Wyższe";"Agronom ekspert";"mniej niż 25 ha";"41 - 50";3;"Babka";"Detractor";1;0;0;1
+"365";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"41 - 50";8;"Babka";"Neutral";0;1;0;1
+"366";"Wyższe";"Agronom ekspert";"50.01 - 100 ha";"powyżej 60";7;"Babka";"Neutral";0;1;0;1
+"367";"Średnie techniczne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"51 - 60";3;"Babka";"Detractor";1;0;0;1
+"368";"Wyższe";"Główny agronom";"100.01 - 250 ha";"mniej niż 30";2;"Babka";"Detractor";1;0;0;1
+"369";"Średnie ogólne";"Główny agronom";"50.01 - 100 ha";"51 - 60";6;"Babka";"Detractor";1;0;0;1
+"370";"Średnie ogólne";"Główny agronom";"100.01 - 250 ha";"powyżej 60";9;"Babka";"Promoter";0;0;1;1
+"371";"Wyższe rolnicze";"Właściciel";"25.01 - 50 ha";"powyżej 60";5;"Babka";"Detractor";1;0;0;1
+"372";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";1;"Babka";"Detractor";1;0;0;1
+"373";"Wyższe";"Główny agronom";"100.01 - 250 ha";"powyżej 60";3;"Babka";"Detractor";1;0;0;1
+"375";"Średnie ogólne";"Główny agronom";"więcej niż 250 ha";"41 - 50";3;"Babka";"Detractor";1;0;0;1
+"377";"Średnie techniczne";"Agronom ekspert";"mniej niż 25 ha";"powyżej 60";1;"Babka";"Detractor";1;0;0;1
+"380";"Wyższe rolnicze";"Agronom ekspert";"więcej niż 250 ha";"mniej niż 30";4;"Babka";"Detractor";1;0;0;1
+"381";"Wyższe";"Główny agronom";"więcej niż 250 ha";"31 - 40";7;"Babka";"Neutral";0;1;0;1
+"382";"Średnie techniczne";"Agronom ekspert";"więcej niż 250 ha";"mniej niż 30";7;"Babka";"Neutral";0;1;0;1
+"383";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"powyżej 60";8;"Babka";"Neutral";0;1;0;1
+"384";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"51 - 60";2;"Babka";"Detractor";1;0;0;1
+"385";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"31 - 40";6;"Babka";"Detractor";1;0;0;1
+"388";"Wyższe";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";2;"Babka";"Detractor";1;0;0;1
+"389";"Wyższe rolnicze";"Właściciel";"więcej niż 250 ha";"powyżej 60";10;"Babka";"Promoter";0;0;1;1
+"391";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"mniej niż 30";2;"Babka";"Detractor";1;0;0;1
+"392";"Średnie techniczne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";4;"Babka";"Detractor";1;0;0;1
+"393";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"51 - 60";3;"Chaber";"Detractor";1;0;0;1
+"394";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"31 - 40";9;"Chaber";"Promoter";0;0;1;1
+"395";"Średnie ogólne";"Główny agronom";"100.01 - 250 ha";"mniej niż 30";9;"Chaber";"Promoter";0;0;1;1
+"396";"Średnie ogólne";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";9;"Chaber";"Promoter";0;0;1;1
+"397";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"31 - 40";8;"Chaber";"Neutral";0;1;0;1
+"398";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"mniej niż 30";7;"Chaber";"Neutral";0;1;0;1
+"399";"Wyższe";"Główny agronom";"100.01 - 250 ha";"41 - 50";9;"Chaber";"Promoter";0;0;1;1
+"400";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"41 - 50";3;"Chaber";"Detractor";1;0;0;1
+"401";"Średnie techniczne";"Właściciel";"więcej niż 250 ha";"powyżej 60";9;"Chaber";"Promoter";0;0;1;1
+"402";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"31 - 40";6;"Chaber";"Detractor";1;0;0;1
+"403";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";3;"Chaber";"Detractor";1;0;0;1
+"404";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"41 - 50";5;"Chaber";"Detractor";1;0;0;1
+"405";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"41 - 50";4;"Chaber";"Detractor";1;0;0;1
+"406";"Średnie ogólne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"mniej niż 30";5;"Chaber";"Detractor";1;0;0;1
+"407";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"31 - 40";10;"Chaber";"Promoter";0;0;1;1
+"408";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"31 - 40";1;"Chaber";"Detractor";1;0;0;1
+"409";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"31 - 40";8;"Chaber";"Neutral";0;1;0;1
+"410";"Średnie ogólne";"Agronom ekspert";"100.01 - 250 ha";"51 - 60";5;"Chaber";"Detractor";1;0;0;1
+"411";"Średnie techniczne";"Właściciel";"50.01 - 100 ha";"powyżej 60";6;"Chaber";"Detractor";1;0;0;1
+"412";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";9;"Chaber";"Promoter";0;0;1;1
+"413";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"mniej niż 30";0;"Chaber";"Detractor";1;0;0;1
+"414";"Średnie ogólne";"Główny agronom";"więcej niż 250 ha";"41 - 50";2;"Chaber";"Detractor";1;0;0;1
+"415";"Średnie ogólne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"powyżej 60";9;"Chaber";"Promoter";0;0;1;1
+"416";"Średnie ogólne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"51 - 60";3;"Chaber";"Detractor";1;0;0;1
+"417";"Średnie techniczne";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"51 - 60";2;"Chaber";"Detractor";1;0;0;1
+"418";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"41 - 50";10;"Chaber";"Promoter";0;0;1;1
+"419";"Średnie techniczne";"Pracownik techniczny";"mniej niż 25 ha";"51 - 60";1;"Chaber";"Detractor";1;0;0;1
+"420";"Średnie ogólne";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";6;"Chaber";"Detractor";1;0;0;1
+"421";"Średnie ogólne";"Pracownik techniczny";"mniej niż 25 ha";"51 - 60";8;"Chaber";"Neutral";0;1;0;1
+"422";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"mniej niż 30";1;"Chaber";"Detractor";1;0;0;1
+"423";"Średnie ogólne";"Pracownik techniczny";"50.01 - 100 ha";"powyżej 60";5;"Chaber";"Detractor";1;0;0;1
+"424";"Wyższe rolnicze";"Właściciel";"mniej niż 25 ha";"41 - 50";9;"Chaber";"Promoter";0;0;1;1
+"425";"Wyższe";"Główny agronom";"więcej niż 250 ha";"51 - 60";2;"Chaber";"Detractor";1;0;0;1
+"426";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"31 - 40";4;"Chaber";"Detractor";1;0;0;1
+"427";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"31 - 40";10;"Chaber";"Promoter";0;0;1;1
+"428";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";4;"Chaber";"Detractor";1;0;0;1
+"429";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"51 - 60";8;"Chaber";"Neutral";0;1;0;1
+"430";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"41 - 50";1;"Chaber";"Detractor";1;0;0;1
+"431";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"51 - 60";4;"Chaber";"Detractor";1;0;0;1
+"432";"Średnie techniczne";"Agronom ekspert";"25.01 - 50 ha";"51 - 60";6;"Chaber";"Detractor";1;0;0;1
+"433";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";1;"Chaber";"Detractor";1;0;0;1
+"434";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";9;"Chaber";"Promoter";0;0;1;1
+"435";"Średnie techniczne";"Agronom ekspert";"100.01 - 250 ha";"41 - 50";5;"Chaber";"Detractor";1;0;0;1
+"436";"Średnie techniczne";"Agronom ekspert";"25.01 - 50 ha";"31 - 40";4;"Chaber";"Detractor";1;0;0;1
+"437";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"31 - 40";9;"Chaber";"Promoter";0;0;1;1
+"438";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"powyżej 60";7;"Chaber";"Neutral";0;1;0;1
+"439";"Średnie ogólne";"Główny agronom";"100.01 - 250 ha";"51 - 60";9;"Chaber";"Promoter";0;0;1;1
+"440";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"41 - 50";2;"Chaber";"Detractor";1;0;0;1
+"441";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"powyżej 60";2;"Chaber";"Detractor";1;0;0;1
+"442";"Średnie ogólne";"Pracownik techniczny";"100.01 - 250 ha";"31 - 40";10;"Chaber";"Promoter";0;0;1;1
+"443";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"31 - 40";8;"Chaber";"Neutral";0;1;0;1
+"444";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"powyżej 60";4;"Chaber";"Detractor";1;0;0;1
+"445";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"41 - 50";3;"Chaber";"Detractor";1;0;0;1
+"446";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"31 - 40";5;"Chaber";"Detractor";1;0;0;1
+"447";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"41 - 50";8;"Chaber";"Neutral";0;1;0;1
+"448";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"51 - 60";9;"Chaber";"Promoter";0;0;1;1
+"449";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"41 - 50";7;"Chaber";"Neutral";0;1;0;1
+"450";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"31 - 40";4;"Chaber";"Detractor";1;0;0;1
+"451";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"31 - 40";9;"Chaber";"Promoter";0;0;1;1
+"452";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"51 - 60";7;"Chaber";"Neutral";0;1;0;1
+"453";"Wyższe rolnicze";"Właściciel";"mniej niż 25 ha";"41 - 50";7;"Chaber";"Neutral";0;1;0;1
+"454";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"powyżej 60";3;"Chaber";"Detractor";1;0;0;1
+"455";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"51 - 60";8;"Chaber";"Neutral";0;1;0;1
+"456";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"31 - 40";8;"Chaber";"Neutral";0;1;0;1
+"457";"Średnie ogólne";"Pracownik techniczny";"100.01 - 250 ha";"31 - 40";1;"Chaber";"Detractor";1;0;0;1
+"458";"Średnie ogólne";"Pracownik techniczny";"50.01 - 100 ha";"mniej niż 30";9;"Chaber";"Promoter";0;0;1;1
+"459";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"31 - 40";8;"Chaber";"Neutral";0;1;0;1
+"460";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"mniej niż 30";5;"Chaber";"Detractor";1;0;0;1
+"461";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"41 - 50";6;"Chaber";"Detractor";1;0;0;1
+"462";"Średnie ogólne";"Pracownik techniczny";"25.01 - 50 ha";"41 - 50";3;"Chaber";"Detractor";1;0;0;1
+"463";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";8;"Chaber";"Neutral";0;1;0;1
+"464";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";4;"Chaber";"Detractor";1;0;0;1
+"465";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"31 - 40";5;"Chaber";"Detractor";1;0;0;1
+"466";"Średnie ogólne";"Pracownik techniczny";"100.01 - 250 ha";"mniej niż 30";10;"Chaber";"Promoter";0;0;1;1
+"467";"Średnie ogólne";"Pracownik techniczny";"50.01 - 100 ha";"mniej niż 30";2;"Chaber";"Detractor";1;0;0;1
+"468";"Średnie techniczne";"Właściciel";"50.01 - 100 ha";"41 - 50";9;"Chaber";"Promoter";0;0;1;1
+"469";"Średnie ogólne";"Główny agronom";"mniej niż 25 ha";"31 - 40";9;"Chaber";"Promoter";0;0;1;1
+"470";"Średnie ogólne";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";4;"Chaber";"Detractor";1;0;0;1
+"471";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";3;"Chaber";"Detractor";1;0;0;1
+"472";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"51 - 60";8;"Chaber";"Neutral";0;1;0;1
+"473";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";8;"Chaber";"Neutral";0;1;0;1
+"474";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"41 - 50";3;"Chaber";"Detractor";1;0;0;1
+"475";"Wyższe rolnicze";"Pracownik techniczny";"25.01 - 50 ha";"mniej niż 30";3;"Chaber";"Detractor";1;0;0;1
+"476";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"mniej niż 30";9;"Chaber";"Promoter";0;0;1;1
+"477";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";5;"Chaber";"Detractor";1;0;0;1
+"479";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"powyżej 60";3;"Chaber";"Detractor";1;0;0;1
+"480";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"51 - 60";10;"Chaber";"Promoter";0;0;1;1
+"481";"Średnie techniczne";"Główny agronom";"50.01 - 100 ha";"powyżej 60";7;"Chaber";"Neutral";0;1;0;1
+"482";"Średnie ogólne";"Pracownik techniczny";"25.01 - 50 ha";"41 - 50";3;"Chaber";"Detractor";1;0;0;1
+"484";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"powyżej 60";5;"Chaber";"Detractor";1;0;0;1
+"486";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"powyżej 60";3;"Chaber";"Detractor";1;0;0;1
+"487";"Wyższe";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"41 - 50";2;"Chaber";"Detractor";1;0;0;1
+"488";"Wyższe rolnicze";"Pracownik techniczny";"więcej niż 250 ha";"51 - 60";9;"Chaber";"Promoter";0;0;1;1
+"489";"Wyższe rolnicze";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";1;"Chaber";"Detractor";1;0;0;1
+"490";"Średnie ogólne";"Główny agronom";"50.01 - 100 ha";"powyżej 60";6;"Chaber";"Detractor";1;0;0;1
+"491";"Wyższe";"Pracownik techniczny";"25.01 - 50 ha";"51 - 60";2;"Chaber";"Detractor";1;0;0;1
+"492";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"powyżej 60";2;"Chaber";"Detractor";1;0;0;1
+"493";"Średnie techniczne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";3;"Chaber";"Detractor";1;0;0;1
+"494";"Średnie ogólne";"Główny agronom";"50.01 - 100 ha";"mniej niż 30";2;"Chaber";"Detractor";1;0;0;1
+"495";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"51 - 60";4;"Chaber";"Detractor";1;0;0;1
+"496";"Średnie ogólne";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";1;"Chaber";"Detractor";1;0;0;1
+"497";"Wyższe";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"powyżej 60";9;"Chaber";"Promoter";0;0;1;1
+"499";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"mniej niż 30";1;"Chaber";"Detractor";1;0;0;1
+"500";"Średnie ogólne";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";2;"Chaber";"Detractor";1;0;0;1
+"501";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"51 - 60";5;"Chaber";"Detractor";1;0;0;1
+"502";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";8;"Chaber";"Neutral";0;1;0;1
+"503";"Średnie techniczne";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";4;"Chaber";"Detractor";1;0;0;1
+"504";"Wyższe rolnicze";"Agronom ekspert";"25.01 - 50 ha";"powyżej 60";1;"Chaber";"Detractor";1;0;0;1
+"505";"Średnie techniczne";"Właściciel";"więcej niż 250 ha";"mniej niż 30";4;"Chaber";"Detractor";1;0;0;1
+"506";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"41 - 50";3;"Chaber";"Detractor";1;0;0;1
+"507";"Inne";"Pracownik techniczny";"50.01 - 100 ha";"mniej niż 30";3;"Chaber";"Detractor";1;0;0;1
+"508";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"41 - 50";6;"Chaber";"Detractor";1;0;0;1
+"509";"Średnie ogólne";"Pracownik techniczny";"25.01 - 50 ha";"powyżej 60";2;"Chaber";"Detractor";1;0;0;1
+"510";"Średnie ogólne";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";8;"Chaber";"Neutral";0;1;0;1
+"511";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"mniej niż 30";4;"Chaber";"Detractor";1;0;0;1
+"512";"Wyższe rolnicze";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";2;"Chaber";"Detractor";1;0;0;1
+"513";"Średnie techniczne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";5;"Chaber";"Detractor";1;0;0;1
+"514";"Wyższe";"Właściciel";"więcej niż 250 ha";"mniej niż 30";6;"Chaber";"Detractor";1;0;0;1
+"515";"Wyższe";"Właściciel";"więcej niż 250 ha";"powyżej 60";10;"Chaber";"Promoter";0;0;1;1
+"516";"Wyższe";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";1;"Chaber";"Detractor";1;0;0;1
+"517";"Wyższe rolnicze";"Pracownik techniczny";"mniej niż 25 ha";"mniej niż 30";6;"Chaber";"Detractor";1;0;0;1
+"518";"Wyższe";"Główny agronom";"więcej niż 250 ha";"powyżej 60";9;"Chaber";"Promoter";0;0;1;1
+"519";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"51 - 60";3;"Chaber";"Detractor";1;0;0;1
+"520";"Średnie techniczne";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"51 - 60";8;"Chaber";"Neutral";0;1;0;1
+"521";"Wyższe rolnicze";"Główny agronom";"50.01 - 100 ha";"powyżej 60";9;"Chaber";"Promoter";0;0;1;1
+"522";"Średnie techniczne";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";2;"Chaber";"Detractor";1;0;0;1
+"523";"Średnie techniczne";"Główny agronom";"więcej niż 250 ha";"31 - 40";8;"Chaber";"Neutral";0;1;0;1
+"524";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"powyżej 60";1;"Chaber";"Detractor";1;0;0;1
+"525";"Wyższe rolnicze";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";5;"Chaber";"Detractor";1;0;0;1
+"526";"Wyższe rolnicze";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";3;"Chaber";"Detractor";1;0;0;1
+"527";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"powyżej 60";6;"Chaber";"Detractor";1;0;0;1
+"528";"Średnie techniczne";"Właściciel";"więcej niż 250 ha";"51 - 60";7;"Chaber";"Neutral";0;1;0;1
+"529";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"51 - 60";2;"Chaber";"Detractor";1;0;0;1
+"530";"Wyższe rolnicze";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";9;"Chaber";"Promoter";0;0;1;1
+"531";"Wyższe rolnicze";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";2;"Chaber";"Detractor";1;0;0;1
+"532";"Wyższe";"Pracownik techniczny";"100.01 - 250 ha";"powyżej 60";4;"Chaber";"Detractor";1;0;0;1
+"533";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"41 - 50";10;"Chaber";"Promoter";0;0;1;1
+"534";"Wyższe rolnicze";"Główny agronom";"100.01 - 250 ha";"41 - 50";2;"Chaber";"Detractor";1;0;0;1
+"536";"Średnie techniczne";"Agronom ekspert";"50.01 - 100 ha";"41 - 50";0;"Chaber";"Detractor";1;0;0;1
+"537";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"31 - 40";4;"Chaber";"Detractor";1;0;0;1
+"538";"Wyższe";"Agronom ekspert";"50.01 - 100 ha";"31 - 40";7;"Chaber";"Neutral";0;1;0;1
+"539";"Wyższe rolnicze";"Inna";"więcej niż 250 ha";"51 - 60";8;"Chaber";"Neutral";0;1;0;1
+"540";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"51 - 60";3;"Chaber";"Detractor";1;0;0;1
+"543";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"powyżej 60";10;"Chaber";"Promoter";0;0;1;1
+"544";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"31 - 40";9;"Chaber";"Promoter";0;0;1;1
+"545";"Średnie techniczne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";9;"Chaber";"Promoter";0;0;1;1
+"546";"Wyższe rolnicze";"Główny agronom";"więcej niż 250 ha";"41 - 50";1;"Chaber";"Detractor";1;0;0;1
+"547";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"powyżej 60";10;"Chaber";"Promoter";0;0;1;1
+"548";"Średnie ogólne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";8;"Chaber";"Neutral";0;1;0;1
+"549";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";2;"Chaber";"Detractor";1;0;0;1
+"550";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"41 - 50";4;"Chaber";"Detractor";1;0;0;1
+"551";"Średnie techniczne";"Właściciel";"25.01 - 50 ha";"41 - 50";10;"Chaber";"Promoter";0;0;1;1
+"552";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"powyżej 60";6;"Chaber";"Detractor";1;0;0;1
+"553";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"powyżej 60";9;"Chaber";"Promoter";0;0;1;1
+"554";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"51 - 60";3;"Chaber";"Detractor";1;0;0;1
+"555";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"powyżej 60";9;"Chaber";"Promoter";0;0;1;1
+"556";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"25.01 - 50 ha";"powyżej 60";9;"Chaber";"Promoter";0;0;1;1
+"557";"Wyższe rolnicze";"Agronom ekspert";"50.01 - 100 ha";"31 - 40";3;"Chaber";"Detractor";1;0;0;1
+"558";"Średnie techniczne";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";8;"Chaber";"Neutral";0;1;0;1
+"559";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";3;"Chaber";"Detractor";1;0;0;1
+"560";"Wyższe";"Agronom ekspert";"mniej niż 25 ha";"41 - 50";2;"Chaber";"Detractor";1;0;0;1
+"561";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"41 - 50";3;"Chaber";"Detractor";1;0;0;1
+"562";"Wyższe";"Agronom ekspert";"50.01 - 100 ha";"powyżej 60";0;"Chaber";"Detractor";1;0;0;1
+"563";"Średnie techniczne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"51 - 60";1;"Chaber";"Detractor";1;0;0;1
+"564";"Wyższe";"Główny agronom";"100.01 - 250 ha";"mniej niż 30";1;"Chaber";"Detractor";1;0;0;1
+"565";"Średnie ogólne";"Główny agronom";"50.01 - 100 ha";"51 - 60";1;"Chaber";"Detractor";1;0;0;1
+"566";"Średnie ogólne";"Główny agronom";"100.01 - 250 ha";"powyżej 60";6;"Chaber";"Detractor";1;0;0;1
+"567";"Wyższe rolnicze";"Właściciel";"25.01 - 50 ha";"powyżej 60";4;"Chaber";"Detractor";1;0;0;1
+"569";"Wyższe";"Główny agronom";"100.01 - 250 ha";"powyżej 60";3;"Chaber";"Detractor";1;0;0;1
+"570";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"41 - 50";10;"Chaber";"Promoter";0;0;1;1
+"571";"Średnie ogólne";"Główny agronom";"więcej niż 250 ha";"41 - 50";9;"Chaber";"Promoter";0;0;1;1
+"572";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"powyżej 60";8;"Chaber";"Neutral";0;1;0;1
+"573";"Średnie techniczne";"Agronom ekspert";"mniej niż 25 ha";"powyżej 60";3;"Chaber";"Detractor";1;0;0;1
+"574";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"51 - 60";1;"Chaber";"Detractor";1;0;0;1
+"575";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"51 - 60";10;"Chaber";"Promoter";0;0;1;1
+"576";"Wyższe rolnicze";"Agronom ekspert";"więcej niż 250 ha";"mniej niż 30";5;"Chaber";"Detractor";1;0;0;1
+"577";"Wyższe";"Główny agronom";"więcej niż 250 ha";"31 - 40";0;"Chaber";"Detractor";1;0;0;1
+"578";"Średnie techniczne";"Agronom ekspert";"więcej niż 250 ha";"mniej niż 30";9;"Chaber";"Promoter";0;0;1;1
+"579";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"powyżej 60";10;"Chaber";"Promoter";0;0;1;1
+"580";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"51 - 60";1;"Chaber";"Detractor";1;0;0;1
+"581";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"31 - 40";6;"Chaber";"Detractor";1;0;0;1
+"582";"Średnie techniczne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"51 - 60";6;"Chaber";"Detractor";1;0;0;1
+"583";"Średnie ogólne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"31 - 40";8;"Chaber";"Neutral";0;1;0;1
+"584";"Wyższe";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";7;"Chaber";"Neutral";0;1;0;1
+"585";"Wyższe rolnicze";"Właściciel";"więcej niż 250 ha";"powyżej 60";7;"Chaber";"Neutral";0;1;0;1
+"586";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"51 - 60";3;"Chaber";"Detractor";1;0;0;1
+"587";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"mniej niż 30";9;"Chaber";"Promoter";0;0;1;1
+"588";"Średnie techniczne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";4;"Chaber";"Detractor";1;0;0;1
+"589";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"51 - 60";9;"Dzwonek";"Promoter";0;0;1;1
+"590";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"31 - 40";6;"Dzwonek";"Detractor";1;0;0;1
+"591";"Średnie ogólne";"Główny agronom";"100.01 - 250 ha";"mniej niż 30";5;"Dzwonek";"Detractor";1;0;0;1
+"592";"Średnie ogólne";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";6;"Dzwonek";"Detractor";1;0;0;1
+"593";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"31 - 40";4;"Dzwonek";"Detractor";1;0;0;1
+"594";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"mniej niż 30";9;"Dzwonek";"Promoter";0;0;1;1
+"595";"Wyższe";"Główny agronom";"100.01 - 250 ha";"41 - 50";7;"Dzwonek";"Neutral";0;1;0;1
+"596";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"41 - 50";1;"Dzwonek";"Detractor";1;0;0;1
+"597";"Średnie techniczne";"Właściciel";"więcej niż 250 ha";"powyżej 60";4;"Dzwonek";"Detractor";1;0;0;1
+"598";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"31 - 40";3;"Dzwonek";"Detractor";1;0;0;1
+"599";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";4;"Dzwonek";"Detractor";1;0;0;1
+"600";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"41 - 50";4;"Dzwonek";"Detractor";1;0;0;1
+"601";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"41 - 50";2;"Dzwonek";"Detractor";1;0;0;1
+"602";"Średnie ogólne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"mniej niż 30";6;"Dzwonek";"Detractor";1;0;0;1
+"603";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"31 - 40";4;"Dzwonek";"Detractor";1;0;0;1
+"604";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"31 - 40";2;"Dzwonek";"Detractor";1;0;0;1
+"605";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"31 - 40";2;"Dzwonek";"Detractor";1;0;0;1
+"606";"Średnie ogólne";"Agronom ekspert";"100.01 - 250 ha";"51 - 60";7;"Dzwonek";"Neutral";0;1;0;1
+"607";"Średnie techniczne";"Właściciel";"50.01 - 100 ha";"powyżej 60";4;"Dzwonek";"Detractor";1;0;0;1
+"608";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";6;"Dzwonek";"Detractor";1;0;0;1
+"609";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"mniej niż 30";1;"Dzwonek";"Detractor";1;0;0;1
+"610";"Średnie ogólne";"Główny agronom";"więcej niż 250 ha";"41 - 50";6;"Dzwonek";"Detractor";1;0;0;1
+"611";"Średnie ogólne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"powyżej 60";8;"Dzwonek";"Neutral";0;1;0;1
+"612";"Średnie ogólne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"51 - 60";7;"Dzwonek";"Neutral";0;1;0;1
+"613";"Średnie techniczne";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"51 - 60";9;"Dzwonek";"Promoter";0;0;1;1
+"614";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"41 - 50";5;"Dzwonek";"Detractor";1;0;0;1
+"615";"Średnie techniczne";"Pracownik techniczny";"mniej niż 25 ha";"51 - 60";7;"Dzwonek";"Neutral";0;1;0;1
+"616";"Średnie ogólne";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";0;"Dzwonek";"Detractor";1;0;0;1
+"617";"Średnie ogólne";"Pracownik techniczny";"mniej niż 25 ha";"51 - 60";10;"Dzwonek";"Promoter";0;0;1;1
+"618";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"mniej niż 30";3;"Dzwonek";"Detractor";1;0;0;1
+"619";"Średnie ogólne";"Pracownik techniczny";"50.01 - 100 ha";"powyżej 60";2;"Dzwonek";"Detractor";1;0;0;1
+"620";"Wyższe rolnicze";"Właściciel";"mniej niż 25 ha";"41 - 50";0;"Dzwonek";"Detractor";1;0;0;1
+"621";"Wyższe";"Główny agronom";"więcej niż 250 ha";"51 - 60";9;"Dzwonek";"Promoter";0;0;1;1
+"622";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"31 - 40";6;"Dzwonek";"Detractor";1;0;0;1
+"623";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"31 - 40";0;"Dzwonek";"Detractor";1;0;0;1
+"624";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";4;"Dzwonek";"Detractor";1;0;0;1
+"625";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"51 - 60";10;"Dzwonek";"Promoter";0;0;1;1
+"626";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"41 - 50";1;"Dzwonek";"Detractor";1;0;0;1
+"627";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"51 - 60";8;"Dzwonek";"Neutral";0;1;0;1
+"628";"Średnie techniczne";"Agronom ekspert";"25.01 - 50 ha";"51 - 60";9;"Dzwonek";"Promoter";0;0;1;1
+"629";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";7;"Dzwonek";"Neutral";0;1;0;1
+"630";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";6;"Dzwonek";"Detractor";1;0;0;1
+"631";"Średnie techniczne";"Agronom ekspert";"100.01 - 250 ha";"41 - 50";1;"Dzwonek";"Detractor";1;0;0;1
+"632";"Średnie techniczne";"Agronom ekspert";"25.01 - 50 ha";"31 - 40";9;"Dzwonek";"Promoter";0;0;1;1
+"633";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"31 - 40";4;"Dzwonek";"Detractor";1;0;0;1
+"634";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"powyżej 60";3;"Dzwonek";"Detractor";1;0;0;1
+"635";"Średnie ogólne";"Główny agronom";"100.01 - 250 ha";"51 - 60";3;"Dzwonek";"Detractor";1;0;0;1
+"636";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"41 - 50";6;"Dzwonek";"Detractor";1;0;0;1
+"637";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"powyżej 60";9;"Dzwonek";"Promoter";0;0;1;1
+"638";"Średnie ogólne";"Pracownik techniczny";"100.01 - 250 ha";"31 - 40";6;"Dzwonek";"Detractor";1;0;0;1
+"639";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"31 - 40";5;"Dzwonek";"Detractor";1;0;0;1
+"640";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"powyżej 60";2;"Dzwonek";"Detractor";1;0;0;1
+"641";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"41 - 50";6;"Dzwonek";"Detractor";1;0;0;1
+"642";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"31 - 40";9;"Dzwonek";"Promoter";0;0;1;1
+"643";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"41 - 50";6;"Dzwonek";"Detractor";1;0;0;1
+"644";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"51 - 60";7;"Dzwonek";"Neutral";0;1;0;1
+"645";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"41 - 50";4;"Dzwonek";"Detractor";1;0;0;1
+"646";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"31 - 40";6;"Dzwonek";"Detractor";1;0;0;1
+"647";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"31 - 40";1;"Dzwonek";"Detractor";1;0;0;1
+"648";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"51 - 60";6;"Dzwonek";"Detractor";1;0;0;1
+"649";"Wyższe rolnicze";"Właściciel";"mniej niż 25 ha";"41 - 50";3;"Dzwonek";"Detractor";1;0;0;1
+"650";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"powyżej 60";10;"Dzwonek";"Promoter";0;0;1;1
+"651";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"51 - 60";2;"Dzwonek";"Detractor";1;0;0;1
+"652";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"31 - 40";5;"Dzwonek";"Detractor";1;0;0;1
+"653";"Średnie ogólne";"Pracownik techniczny";"100.01 - 250 ha";"31 - 40";3;"Dzwonek";"Detractor";1;0;0;1
+"654";"Średnie ogólne";"Pracownik techniczny";"50.01 - 100 ha";"mniej niż 30";10;"Dzwonek";"Promoter";0;0;1;1
+"655";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"31 - 40";6;"Dzwonek";"Detractor";1;0;0;1
+"656";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"mniej niż 30";6;"Dzwonek";"Detractor";1;0;0;1
+"657";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"41 - 50";4;"Dzwonek";"Detractor";1;0;0;1
+"658";"Średnie ogólne";"Pracownik techniczny";"25.01 - 50 ha";"41 - 50";6;"Dzwonek";"Detractor";1;0;0;1
+"659";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";4;"Dzwonek";"Detractor";1;0;0;1
+"660";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";1;"Dzwonek";"Detractor";1;0;0;1
+"661";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"31 - 40";2;"Dzwonek";"Detractor";1;0;0;1
+"662";"Średnie ogólne";"Pracownik techniczny";"100.01 - 250 ha";"mniej niż 30";3;"Dzwonek";"Detractor";1;0;0;1
+"663";"Średnie ogólne";"Pracownik techniczny";"50.01 - 100 ha";"mniej niż 30";1;"Dzwonek";"Detractor";1;0;0;1
+"664";"Średnie techniczne";"Właściciel";"50.01 - 100 ha";"41 - 50";5;"Dzwonek";"Detractor";1;0;0;1
+"665";"Średnie ogólne";"Główny agronom";"mniej niż 25 ha";"31 - 40";2;"Dzwonek";"Detractor";1;0;0;1
+"666";"Średnie ogólne";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";8;"Dzwonek";"Neutral";0;1;0;1
+"667";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";4;"Dzwonek";"Detractor";1;0;0;1
+"668";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"51 - 60";9;"Dzwonek";"Promoter";0;0;1;1
+"669";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";10;"Dzwonek";"Promoter";0;0;1;1
+"671";"Wyższe rolnicze";"Pracownik techniczny";"25.01 - 50 ha";"mniej niż 30";4;"Dzwonek";"Detractor";1;0;0;1
+"672";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"mniej niż 30";2;"Dzwonek";"Detractor";1;0;0;1
+"673";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";0;"Dzwonek";"Detractor";1;0;0;1
+"674";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"mniej niż 30";7;"Dzwonek";"Neutral";0;1;0;1
+"675";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"powyżej 60";9;"Dzwonek";"Promoter";0;0;1;1
+"676";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"51 - 60";4;"Dzwonek";"Detractor";1;0;0;1
+"677";"Średnie techniczne";"Główny agronom";"50.01 - 100 ha";"powyżej 60";4;"Dzwonek";"Detractor";1;0;0;1
+"678";"Średnie ogólne";"Pracownik techniczny";"25.01 - 50 ha";"41 - 50";2;"Dzwonek";"Detractor";1;0;0;1
+"680";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"powyżej 60";10;"Dzwonek";"Promoter";0;0;1;1
+"681";"Wyższe";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"31 - 40";4;"Dzwonek";"Detractor";1;0;0;1
+"682";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"powyżej 60";8;"Dzwonek";"Neutral";0;1;0;1
+"683";"Wyższe";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"41 - 50";4;"Dzwonek";"Detractor";1;0;0;1
+"684";"Wyższe rolnicze";"Pracownik techniczny";"więcej niż 250 ha";"51 - 60";6;"Dzwonek";"Detractor";1;0;0;1
+"685";"Wyższe rolnicze";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";7;"Dzwonek";"Neutral";0;1;0;1
+"686";"Średnie ogólne";"Główny agronom";"50.01 - 100 ha";"powyżej 60";5;"Dzwonek";"Detractor";1;0;0;1
+"687";"Wyższe";"Pracownik techniczny";"25.01 - 50 ha";"51 - 60";9;"Dzwonek";"Promoter";0;0;1;1
+"688";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"powyżej 60";7;"Dzwonek";"Neutral";0;1;0;1
+"689";"Średnie techniczne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";5;"Dzwonek";"Detractor";1;0;0;1
+"690";"Średnie ogólne";"Główny agronom";"50.01 - 100 ha";"mniej niż 30";9;"Dzwonek";"Promoter";0;0;1;1
+"691";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"51 - 60";8;"Dzwonek";"Neutral";0;1;0;1
+"693";"Wyższe";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"powyżej 60";0;"Dzwonek";"Detractor";1;0;0;1
+"694";"Wyższe";"Dyrektor/wicedyrektor";"25.01 - 50 ha";"51 - 60";6;"Dzwonek";"Detractor";1;0;0;1
+"697";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"51 - 60";7;"Dzwonek";"Neutral";0;1;0;1
+"699";"Średnie techniczne";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";7;"Dzwonek";"Neutral";0;1;0;1
+"700";"Wyższe rolnicze";"Agronom ekspert";"25.01 - 50 ha";"powyżej 60";6;"Dzwonek";"Detractor";1;0;0;1
+"701";"Średnie techniczne";"Właściciel";"więcej niż 250 ha";"mniej niż 30";10;"Dzwonek";"Promoter";0;0;1;1
+"702";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"41 - 50";4;"Dzwonek";"Detractor";1;0;0;1
+"703";"Inne";"Pracownik techniczny";"50.01 - 100 ha";"mniej niż 30";2;"Dzwonek";"Detractor";1;0;0;1
+"704";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"41 - 50";3;"Dzwonek";"Detractor";1;0;0;1
+"705";"Średnie ogólne";"Pracownik techniczny";"25.01 - 50 ha";"powyżej 60";5;"Dzwonek";"Detractor";1;0;0;1
+"706";"Średnie ogólne";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";6;"Dzwonek";"Detractor";1;0;0;1
+"707";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"mniej niż 30";3;"Dzwonek";"Detractor";1;0;0;1
+"708";"Wyższe rolnicze";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";4;"Dzwonek";"Detractor";1;0;0;1
+"709";"Średnie techniczne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";7;"Dzwonek";"Neutral";0;1;0;1
+"710";"Wyższe";"Właściciel";"więcej niż 250 ha";"mniej niż 30";1;"Dzwonek";"Detractor";1;0;0;1
+"711";"Wyższe";"Właściciel";"więcej niż 250 ha";"powyżej 60";0;"Dzwonek";"Detractor";1;0;0;1
+"712";"Wyższe";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";9;"Dzwonek";"Promoter";0;0;1;1
+"713";"Wyższe rolnicze";"Pracownik techniczny";"mniej niż 25 ha";"mniej niż 30";2;"Dzwonek";"Detractor";1;0;0;1
+"714";"Wyższe";"Główny agronom";"więcej niż 250 ha";"powyżej 60";9;"Dzwonek";"Promoter";0;0;1;1
+"715";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"51 - 60";3;"Dzwonek";"Detractor";1;0;0;1
+"716";"Średnie techniczne";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"51 - 60";10;"Dzwonek";"Promoter";0;0;1;1
+"718";"Średnie techniczne";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";5;"Dzwonek";"Detractor";1;0;0;1
+"720";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"powyżej 60";2;"Dzwonek";"Detractor";1;0;0;1
+"721";"Wyższe rolnicze";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";8;"Dzwonek";"Neutral";0;1;0;1
+"722";"Wyższe rolnicze";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";10;"Dzwonek";"Promoter";0;0;1;1
+"723";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"powyżej 60";8;"Dzwonek";"Neutral";0;1;0;1
+"724";"Średnie techniczne";"Właściciel";"więcej niż 250 ha";"51 - 60";1;"Dzwonek";"Detractor";1;0;0;1
+"725";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"51 - 60";6;"Dzwonek";"Detractor";1;0;0;1
+"726";"Wyższe rolnicze";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";7;"Dzwonek";"Neutral";0;1;0;1
+"727";"Wyższe rolnicze";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";7;"Dzwonek";"Neutral";0;1;0;1
+"728";"Wyższe";"Pracownik techniczny";"100.01 - 250 ha";"powyżej 60";6;"Dzwonek";"Detractor";1;0;0;1
+"729";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"41 - 50";3;"Dzwonek";"Detractor";1;0;0;1
+"730";"Wyższe rolnicze";"Główny agronom";"100.01 - 250 ha";"41 - 50";1;"Dzwonek";"Detractor";1;0;0;1
+"731";"Wyższe rolnicze";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";3;"Dzwonek";"Detractor";1;0;0;1
+"732";"Średnie techniczne";"Agronom ekspert";"50.01 - 100 ha";"41 - 50";8;"Dzwonek";"Neutral";0;1;0;1
+"733";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"31 - 40";4;"Dzwonek";"Detractor";1;0;0;1
+"734";"Wyższe";"Agronom ekspert";"50.01 - 100 ha";"31 - 40";8;"Dzwonek";"Neutral";0;1;0;1
+"735";"Wyższe rolnicze";"Inna";"więcej niż 250 ha";"51 - 60";1;"Dzwonek";"Detractor";1;0;0;1
+"736";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"51 - 60";6;"Dzwonek";"Detractor";1;0;0;1
+"737";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";9;"Dzwonek";"Promoter";0;0;1;1
+"738";"Wyższe rolnicze";"Główny agronom";"100.01 - 250 ha";"powyżej 60";1;"Dzwonek";"Detractor";1;0;0;1
+"739";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"powyżej 60";5;"Dzwonek";"Detractor";1;0;0;1
+"740";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"31 - 40";9;"Dzwonek";"Promoter";0;0;1;1
+"741";"Średnie techniczne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";2;"Dzwonek";"Detractor";1;0;0;1
+"742";"Wyższe rolnicze";"Główny agronom";"więcej niż 250 ha";"41 - 50";5;"Dzwonek";"Detractor";1;0;0;1
+"743";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"powyżej 60";5;"Dzwonek";"Detractor";1;0;0;1
+"744";"Średnie ogólne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";4;"Dzwonek";"Detractor";1;0;0;1
+"745";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";6;"Dzwonek";"Detractor";1;0;0;1
+"746";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"41 - 50";2;"Dzwonek";"Detractor";1;0;0;1
+"747";"Średnie techniczne";"Właściciel";"25.01 - 50 ha";"41 - 50";0;"Dzwonek";"Detractor";1;0;0;1
+"748";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"powyżej 60";2;"Dzwonek";"Detractor";1;0;0;1
+"749";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"powyżej 60";0;"Dzwonek";"Detractor";1;0;0;1
+"750";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"51 - 60";1;"Dzwonek";"Detractor";1;0;0;1
+"751";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"powyżej 60";1;"Dzwonek";"Detractor";1;0;0;1
+"752";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"25.01 - 50 ha";"powyżej 60";6;"Dzwonek";"Detractor";1;0;0;1
+"753";"Wyższe rolnicze";"Agronom ekspert";"50.01 - 100 ha";"31 - 40";5;"Dzwonek";"Detractor";1;0;0;1
+"754";"Średnie techniczne";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";10;"Dzwonek";"Promoter";0;0;1;1
+"755";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";2;"Dzwonek";"Detractor";1;0;0;1
+"756";"Wyższe";"Agronom ekspert";"mniej niż 25 ha";"41 - 50";1;"Dzwonek";"Detractor";1;0;0;1
+"757";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"41 - 50";10;"Dzwonek";"Promoter";0;0;1;1
+"758";"Wyższe";"Agronom ekspert";"50.01 - 100 ha";"powyżej 60";5;"Dzwonek";"Detractor";1;0;0;1
+"759";"Średnie techniczne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"51 - 60";0;"Dzwonek";"Detractor";1;0;0;1
+"760";"Wyższe";"Główny agronom";"100.01 - 250 ha";"mniej niż 30";8;"Dzwonek";"Neutral";0;1;0;1
+"761";"Średnie ogólne";"Główny agronom";"50.01 - 100 ha";"51 - 60";6;"Dzwonek";"Detractor";1;0;0;1
+"762";"Średnie ogólne";"Główny agronom";"100.01 - 250 ha";"powyżej 60";1;"Dzwonek";"Detractor";1;0;0;1
+"763";"Wyższe rolnicze";"Właściciel";"25.01 - 50 ha";"powyżej 60";10;"Dzwonek";"Promoter";0;0;1;1
+"764";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";5;"Dzwonek";"Detractor";1;0;0;1
+"765";"Wyższe";"Główny agronom";"100.01 - 250 ha";"powyżej 60";3;"Dzwonek";"Detractor";1;0;0;1
+"766";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"41 - 50";0;"Dzwonek";"Detractor";1;0;0;1
+"767";"Średnie ogólne";"Główny agronom";"więcej niż 250 ha";"41 - 50";4;"Dzwonek";"Detractor";1;0;0;1
+"768";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"powyżej 60";0;"Dzwonek";"Detractor";1;0;0;1
+"769";"Średnie techniczne";"Agronom ekspert";"mniej niż 25 ha";"powyżej 60";10;"Dzwonek";"Promoter";0;0;1;1
+"770";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"51 - 60";6;"Dzwonek";"Detractor";1;0;0;1
+"771";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"51 - 60";6;"Dzwonek";"Detractor";1;0;0;1
+"772";"Wyższe rolnicze";"Agronom ekspert";"więcej niż 250 ha";"mniej niż 30";8;"Dzwonek";"Neutral";0;1;0;1
+"773";"Wyższe";"Główny agronom";"więcej niż 250 ha";"31 - 40";2;"Dzwonek";"Detractor";1;0;0;1
+"774";"Średnie techniczne";"Agronom ekspert";"więcej niż 250 ha";"mniej niż 30";1;"Dzwonek";"Detractor";1;0;0;1
+"775";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"powyżej 60";2;"Dzwonek";"Detractor";1;0;0;1
+"776";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"51 - 60";5;"Dzwonek";"Detractor";1;0;0;1
+"777";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"31 - 40";7;"Dzwonek";"Neutral";0;1;0;1
+"778";"Średnie techniczne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"51 - 60";7;"Dzwonek";"Neutral";0;1;0;1
+"779";"Średnie ogólne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"31 - 40";3;"Dzwonek";"Detractor";1;0;0;1
+"780";"Wyższe";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";4;"Dzwonek";"Detractor";1;0;0;1
+"781";"Wyższe rolnicze";"Właściciel";"więcej niż 250 ha";"powyżej 60";5;"Dzwonek";"Detractor";1;0;0;1
+"782";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"51 - 60";3;"Dzwonek";"Detractor";1;0;0;1
+"783";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"mniej niż 30";2;"Dzwonek";"Detractor";1;0;0;1
+"784";"Średnie techniczne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";7;"Dzwonek";"Neutral";0;1;0;1
+"785";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"51 - 60";5;"Fiołek";"Detractor";1;0;0;1
+"786";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"31 - 40";6;"Fiołek";"Detractor";1;0;0;1
+"787";"Średnie ogólne";"Główny agronom";"100.01 - 250 ha";"mniej niż 30";8;"Fiołek";"Neutral";0;1;0;1
+"788";"Średnie ogólne";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";7;"Fiołek";"Neutral";0;1;0;1
+"789";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"31 - 40";9;"Fiołek";"Promoter";0;0;1;1
+"790";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"mniej niż 30";7;"Fiołek";"Neutral";0;1;0;1
+"791";"Wyższe";"Główny agronom";"100.01 - 250 ha";"41 - 50";4;"Fiołek";"Detractor";1;0;0;1
+"792";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"41 - 50";3;"Fiołek";"Detractor";1;0;0;1
+"793";"Średnie techniczne";"Właściciel";"więcej niż 250 ha";"powyżej 60";8;"Fiołek";"Neutral";0;1;0;1
+"794";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"31 - 40";5;"Fiołek";"Detractor";1;0;0;1
+"795";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";9;"Fiołek";"Promoter";0;0;1;1
+"796";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"41 - 50";9;"Fiołek";"Promoter";0;0;1;1
+"797";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"41 - 50";6;"Fiołek";"Detractor";1;0;0;1
+"798";"Średnie ogólne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"mniej niż 30";6;"Fiołek";"Detractor";1;0;0;1
+"799";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"31 - 40";7;"Fiołek";"Neutral";0;1;0;1
+"800";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"31 - 40";4;"Fiołek";"Detractor";1;0;0;1
+"801";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"31 - 40";7;"Fiołek";"Neutral";0;1;0;1
+"802";"Średnie ogólne";"Agronom ekspert";"100.01 - 250 ha";"51 - 60";9;"Fiołek";"Promoter";0;0;1;1
+"803";"Średnie techniczne";"Właściciel";"50.01 - 100 ha";"powyżej 60";4;"Fiołek";"Detractor";1;0;0;1
+"804";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";8;"Fiołek";"Neutral";0;1;0;1
+"805";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"mniej niż 30";6;"Fiołek";"Detractor";1;0;0;1
+"806";"Średnie ogólne";"Główny agronom";"więcej niż 250 ha";"41 - 50";9;"Fiołek";"Promoter";0;0;1;1
+"807";"Średnie ogólne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"powyżej 60";5;"Fiołek";"Detractor";1;0;0;1
+"808";"Średnie ogólne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"51 - 60";2;"Fiołek";"Detractor";1;0;0;1
+"809";"Średnie techniczne";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"51 - 60";9;"Fiołek";"Promoter";0;0;1;1
+"810";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"41 - 50";4;"Fiołek";"Detractor";1;0;0;1
+"811";"Średnie techniczne";"Pracownik techniczny";"mniej niż 25 ha";"51 - 60";7;"Fiołek";"Neutral";0;1;0;1
+"812";"Średnie ogólne";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";5;"Fiołek";"Detractor";1;0;0;1
+"813";"Średnie ogólne";"Pracownik techniczny";"mniej niż 25 ha";"51 - 60";1;"Fiołek";"Detractor";1;0;0;1
+"814";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"mniej niż 30";8;"Fiołek";"Neutral";0;1;0;1
+"815";"Średnie ogólne";"Pracownik techniczny";"50.01 - 100 ha";"powyżej 60";9;"Fiołek";"Promoter";0;0;1;1
+"816";"Wyższe rolnicze";"Właściciel";"mniej niż 25 ha";"41 - 50";3;"Fiołek";"Detractor";1;0;0;1
+"817";"Wyższe";"Główny agronom";"więcej niż 250 ha";"51 - 60";9;"Fiołek";"Promoter";0;0;1;1
+"818";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"31 - 40";9;"Fiołek";"Promoter";0;0;1;1
+"819";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"31 - 40";7;"Fiołek";"Neutral";0;1;0;1
+"820";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";8;"Fiołek";"Neutral";0;1;0;1
+"821";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"51 - 60";4;"Fiołek";"Detractor";1;0;0;1
+"822";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"41 - 50";10;"Fiołek";"Promoter";0;0;1;1
+"823";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"51 - 60";6;"Fiołek";"Detractor";1;0;0;1
+"824";"Średnie techniczne";"Agronom ekspert";"25.01 - 50 ha";"51 - 60";8;"Fiołek";"Neutral";0;1;0;1
+"825";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";10;"Fiołek";"Promoter";0;0;1;1
+"826";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";4;"Fiołek";"Detractor";1;0;0;1
+"827";"Średnie techniczne";"Agronom ekspert";"100.01 - 250 ha";"41 - 50";1;"Fiołek";"Detractor";1;0;0;1
+"828";"Średnie techniczne";"Agronom ekspert";"25.01 - 50 ha";"31 - 40";9;"Fiołek";"Promoter";0;0;1;1
+"829";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"31 - 40";6;"Fiołek";"Detractor";1;0;0;1
+"830";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"powyżej 60";10;"Fiołek";"Promoter";0;0;1;1
+"831";"Średnie ogólne";"Główny agronom";"100.01 - 250 ha";"51 - 60";5;"Fiołek";"Detractor";1;0;0;1
+"832";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"41 - 50";6;"Fiołek";"Detractor";1;0;0;1
+"833";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"powyżej 60";7;"Fiołek";"Neutral";0;1;0;1
+"834";"Średnie ogólne";"Pracownik techniczny";"100.01 - 250 ha";"31 - 40";1;"Fiołek";"Detractor";1;0;0;1
+"835";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"31 - 40";0;"Fiołek";"Detractor";1;0;0;1
+"836";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"powyżej 60";0;"Fiołek";"Detractor";1;0;0;1
+"837";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"41 - 50";6;"Fiołek";"Detractor";1;0;0;1
+"838";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"31 - 40";1;"Fiołek";"Detractor";1;0;0;1
+"839";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"41 - 50";0;"Fiołek";"Detractor";1;0;0;1
+"840";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"51 - 60";4;"Fiołek";"Detractor";1;0;0;1
+"841";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"41 - 50";5;"Fiołek";"Detractor";1;0;0;1
+"842";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"31 - 40";8;"Fiołek";"Neutral";0;1;0;1
+"843";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"31 - 40";7;"Fiołek";"Neutral";0;1;0;1
+"844";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"51 - 60";9;"Fiołek";"Promoter";0;0;1;1
+"845";"Wyższe rolnicze";"Właściciel";"mniej niż 25 ha";"41 - 50";10;"Fiołek";"Promoter";0;0;1;1
+"846";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"powyżej 60";4;"Fiołek";"Detractor";1;0;0;1
+"847";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"51 - 60";9;"Fiołek";"Promoter";0;0;1;1
+"848";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"31 - 40";8;"Fiołek";"Neutral";0;1;0;1
+"849";"Średnie ogólne";"Pracownik techniczny";"100.01 - 250 ha";"31 - 40";9;"Fiołek";"Promoter";0;0;1;1
+"850";"Średnie ogólne";"Pracownik techniczny";"50.01 - 100 ha";"mniej niż 30";6;"Fiołek";"Detractor";1;0;0;1
+"851";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"31 - 40";9;"Fiołek";"Promoter";0;0;1;1
+"852";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"mniej niż 30";10;"Fiołek";"Promoter";0;0;1;1
+"853";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"41 - 50";9;"Fiołek";"Promoter";0;0;1;1
+"854";"Średnie ogólne";"Pracownik techniczny";"25.01 - 50 ha";"41 - 50";1;"Fiołek";"Detractor";1;0;0;1
+"855";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";2;"Fiołek";"Detractor";1;0;0;1
+"856";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";8;"Fiołek";"Neutral";0;1;0;1
+"857";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"31 - 40";3;"Fiołek";"Detractor";1;0;0;1
+"858";"Średnie ogólne";"Pracownik techniczny";"100.01 - 250 ha";"mniej niż 30";3;"Fiołek";"Detractor";1;0;0;1
+"859";"Średnie ogólne";"Pracownik techniczny";"50.01 - 100 ha";"mniej niż 30";5;"Fiołek";"Detractor";1;0;0;1
+"860";"Średnie techniczne";"Właściciel";"50.01 - 100 ha";"41 - 50";4;"Fiołek";"Detractor";1;0;0;1
+"861";"Średnie ogólne";"Główny agronom";"mniej niż 25 ha";"31 - 40";6;"Fiołek";"Detractor";1;0;0;1
+"862";"Średnie ogólne";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";8;"Fiołek";"Neutral";0;1;0;1
+"864";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"51 - 60";6;"Fiołek";"Detractor";1;0;0;1
+"865";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";3;"Fiołek";"Detractor";1;0;0;1
+"866";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"41 - 50";0;"Fiołek";"Detractor";1;0;0;1
+"867";"Wyższe rolnicze";"Pracownik techniczny";"25.01 - 50 ha";"mniej niż 30";1;"Fiołek";"Detractor";1;0;0;1
+"868";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"mniej niż 30";10;"Fiołek";"Promoter";0;0;1;1
+"869";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";1;"Fiołek";"Detractor";1;0;0;1
+"870";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"mniej niż 30";4;"Fiołek";"Detractor";1;0;0;1
+"871";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"powyżej 60";4;"Fiołek";"Detractor";1;0;0;1
+"872";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"51 - 60";9;"Fiołek";"Promoter";0;0;1;1
+"873";"Średnie techniczne";"Główny agronom";"50.01 - 100 ha";"powyżej 60";5;"Fiołek";"Detractor";1;0;0;1
+"874";"Średnie ogólne";"Pracownik techniczny";"25.01 - 50 ha";"41 - 50";9;"Fiołek";"Promoter";0;0;1;1
+"875";"Wyższe rolnicze";"Właściciel";"więcej niż 250 ha";"51 - 60";6;"Fiołek";"Detractor";1;0;0;1
+"876";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"powyżej 60";6;"Fiołek";"Detractor";1;0;0;1
+"877";"Wyższe";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"31 - 40";3;"Fiołek";"Detractor";1;0;0;1
+"878";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"powyżej 60";0;"Fiołek";"Detractor";1;0;0;1
+"879";"Wyższe";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"41 - 50";6;"Fiołek";"Detractor";1;0;0;1
+"880";"Wyższe rolnicze";"Pracownik techniczny";"więcej niż 250 ha";"51 - 60";6;"Fiołek";"Detractor";1;0;0;1
+"881";"Wyższe rolnicze";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";6;"Fiołek";"Detractor";1;0;0;1
+"882";"Średnie ogólne";"Główny agronom";"50.01 - 100 ha";"powyżej 60";0;"Fiołek";"Detractor";1;0;0;1
+"883";"Wyższe";"Pracownik techniczny";"25.01 - 50 ha";"51 - 60";1;"Fiołek";"Detractor";1;0;0;1
+"884";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"powyżej 60";1;"Fiołek";"Detractor";1;0;0;1
+"885";"Średnie techniczne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";6;"Fiołek";"Detractor";1;0;0;1
+"886";"Średnie ogólne";"Główny agronom";"50.01 - 100 ha";"mniej niż 30";4;"Fiołek";"Detractor";1;0;0;1
+"887";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"51 - 60";4;"Fiołek";"Detractor";1;0;0;1
+"888";"Średnie ogólne";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";9;"Fiołek";"Promoter";0;0;1;1
+"889";"Wyższe";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"powyżej 60";9;"Fiołek";"Promoter";0;0;1;1
+"890";"Wyższe";"Dyrektor/wicedyrektor";"25.01 - 50 ha";"51 - 60";9;"Fiołek";"Promoter";0;0;1;1
+"892";"Średnie ogólne";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";9;"Fiołek";"Promoter";0;0;1;1
+"893";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"51 - 60";1;"Fiołek";"Detractor";1;0;0;1
+"894";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";2;"Fiołek";"Detractor";1;0;0;1
+"895";"Średnie techniczne";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";5;"Fiołek";"Detractor";1;0;0;1
+"896";"Wyższe rolnicze";"Agronom ekspert";"25.01 - 50 ha";"powyżej 60";7;"Fiołek";"Neutral";0;1;0;1
+"897";"Średnie techniczne";"Właściciel";"więcej niż 250 ha";"mniej niż 30";3;"Fiołek";"Detractor";1;0;0;1
+"898";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"41 - 50";0;"Fiołek";"Detractor";1;0;0;1
+"899";"Inne";"Pracownik techniczny";"50.01 - 100 ha";"mniej niż 30";6;"Fiołek";"Detractor";1;0;0;1
+"900";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"41 - 50";6;"Fiołek";"Detractor";1;0;0;1
+"901";"Średnie ogólne";"Pracownik techniczny";"25.01 - 50 ha";"powyżej 60";10;"Fiołek";"Promoter";0;0;1;1
+"902";"Średnie ogólne";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";4;"Fiołek";"Detractor";1;0;0;1
+"903";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"mniej niż 30";0;"Fiołek";"Detractor";1;0;0;1
+"904";"Wyższe rolnicze";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";5;"Fiołek";"Detractor";1;0;0;1
+"905";"Średnie techniczne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";7;"Fiołek";"Neutral";0;1;0;1
+"906";"Wyższe";"Właściciel";"więcej niż 250 ha";"mniej niż 30";10;"Fiołek";"Promoter";0;0;1;1
+"907";"Wyższe";"Właściciel";"więcej niż 250 ha";"powyżej 60";7;"Fiołek";"Neutral";0;1;0;1
+"908";"Wyższe";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";6;"Fiołek";"Detractor";1;0;0;1
+"909";"Wyższe rolnicze";"Pracownik techniczny";"mniej niż 25 ha";"mniej niż 30";10;"Fiołek";"Promoter";0;0;1;1
+"910";"Wyższe";"Główny agronom";"więcej niż 250 ha";"powyżej 60";10;"Fiołek";"Promoter";0;0;1;1
+"911";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"51 - 60";1;"Fiołek";"Detractor";1;0;0;1
+"912";"Średnie techniczne";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"51 - 60";4;"Fiołek";"Detractor";1;0;0;1
+"913";"Wyższe rolnicze";"Główny agronom";"50.01 - 100 ha";"powyżej 60";5;"Fiołek";"Detractor";1;0;0;1
+"914";"Średnie techniczne";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";0;"Fiołek";"Detractor";1;0;0;1
+"915";"Średnie techniczne";"Główny agronom";"więcej niż 250 ha";"31 - 40";9;"Fiołek";"Promoter";0;0;1;1
+"916";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"powyżej 60";7;"Fiołek";"Neutral";0;1;0;1
+"917";"Wyższe rolnicze";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";10;"Fiołek";"Promoter";0;0;1;1
+"918";"Wyższe rolnicze";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";9;"Fiołek";"Promoter";0;0;1;1
+"919";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"powyżej 60";5;"Fiołek";"Detractor";1;0;0;1
+"920";"Średnie techniczne";"Właściciel";"więcej niż 250 ha";"51 - 60";5;"Fiołek";"Detractor";1;0;0;1
+"921";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"51 - 60";7;"Fiołek";"Neutral";0;1;0;1
+"922";"Wyższe rolnicze";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";3;"Fiołek";"Detractor";1;0;0;1
+"923";"Wyższe rolnicze";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";10;"Fiołek";"Promoter";0;0;1;1
+"924";"Wyższe";"Pracownik techniczny";"100.01 - 250 ha";"powyżej 60";2;"Fiołek";"Detractor";1;0;0;1
+"925";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"41 - 50";2;"Fiołek";"Detractor";1;0;0;1
+"927";"Wyższe rolnicze";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";9;"Fiołek";"Promoter";0;0;1;1
+"928";"Średnie techniczne";"Agronom ekspert";"50.01 - 100 ha";"41 - 50";5;"Fiołek";"Detractor";1;0;0;1
+"929";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"31 - 40";10;"Fiołek";"Promoter";0;0;1;1
+"930";"Wyższe";"Agronom ekspert";"50.01 - 100 ha";"31 - 40";7;"Fiołek";"Neutral";0;1;0;1
+"931";"Wyższe rolnicze";"Inna";"więcej niż 250 ha";"51 - 60";0;"Fiołek";"Detractor";1;0;0;1
+"932";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"51 - 60";10;"Fiołek";"Promoter";0;0;1;1
+"933";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";8;"Fiołek";"Neutral";0;1;0;1
+"934";"Wyższe rolnicze";"Główny agronom";"100.01 - 250 ha";"powyżej 60";7;"Fiołek";"Neutral";0;1;0;1
+"935";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"powyżej 60";10;"Fiołek";"Promoter";0;0;1;1
+"936";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"31 - 40";0;"Fiołek";"Detractor";1;0;0;1
+"937";"Średnie techniczne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";0;"Fiołek";"Detractor";1;0;0;1
+"938";"Wyższe rolnicze";"Główny agronom";"więcej niż 250 ha";"41 - 50";4;"Fiołek";"Detractor";1;0;0;1
+"939";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"powyżej 60";5;"Fiołek";"Detractor";1;0;0;1
+"940";"Średnie ogólne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";4;"Fiołek";"Detractor";1;0;0;1
+"941";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";0;"Fiołek";"Detractor";1;0;0;1
+"942";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"41 - 50";4;"Fiołek";"Detractor";1;0;0;1
+"943";"Średnie techniczne";"Właściciel";"25.01 - 50 ha";"41 - 50";6;"Fiołek";"Detractor";1;0;0;1
+"944";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"powyżej 60";9;"Fiołek";"Promoter";0;0;1;1
+"945";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"powyżej 60";10;"Fiołek";"Promoter";0;0;1;1
+"946";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"51 - 60";3;"Fiołek";"Detractor";1;0;0;1
+"947";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"powyżej 60";4;"Fiołek";"Detractor";1;0;0;1
+"948";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"25.01 - 50 ha";"powyżej 60";8;"Fiołek";"Neutral";0;1;0;1
+"949";"Wyższe rolnicze";"Agronom ekspert";"50.01 - 100 ha";"31 - 40";0;"Fiołek";"Detractor";1;0;0;1
+"951";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";8;"Fiołek";"Neutral";0;1;0;1
+"953";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"41 - 50";1;"Fiołek";"Detractor";1;0;0;1
+"954";"Wyższe";"Agronom ekspert";"50.01 - 100 ha";"powyżej 60";0;"Fiołek";"Detractor";1;0;0;1
+"955";"Średnie techniczne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"51 - 60";0;"Fiołek";"Detractor";1;0;0;1
+"956";"Wyższe";"Główny agronom";"100.01 - 250 ha";"mniej niż 30";4;"Fiołek";"Detractor";1;0;0;1
+"957";"Średnie ogólne";"Główny agronom";"50.01 - 100 ha";"51 - 60";8;"Fiołek";"Neutral";0;1;0;1
+"958";"Średnie ogólne";"Główny agronom";"100.01 - 250 ha";"powyżej 60";7;"Fiołek";"Neutral";0;1;0;1
+"959";"Wyższe rolnicze";"Właściciel";"25.01 - 50 ha";"powyżej 60";4;"Fiołek";"Detractor";1;0;0;1
+"960";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";4;"Fiołek";"Detractor";1;0;0;1
+"962";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"41 - 50";1;"Fiołek";"Detractor";1;0;0;1
+"963";"Średnie ogólne";"Główny agronom";"więcej niż 250 ha";"41 - 50";1;"Fiołek";"Detractor";1;0;0;1
+"964";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"powyżej 60";9;"Fiołek";"Promoter";0;0;1;1
+"965";"Średnie techniczne";"Agronom ekspert";"mniej niż 25 ha";"powyżej 60";10;"Fiołek";"Promoter";0;0;1;1
+"966";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"51 - 60";1;"Fiołek";"Detractor";1;0;0;1
+"968";"Wyższe rolnicze";"Agronom ekspert";"więcej niż 250 ha";"mniej niż 30";5;"Fiołek";"Detractor";1;0;0;1
+"969";"Wyższe";"Główny agronom";"więcej niż 250 ha";"31 - 40";3;"Fiołek";"Detractor";1;0;0;1
+"970";"Średnie techniczne";"Agronom ekspert";"więcej niż 250 ha";"mniej niż 30";9;"Fiołek";"Promoter";0;0;1;1
+"971";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"powyżej 60";0;"Fiołek";"Detractor";1;0;0;1
+"972";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"51 - 60";1;"Fiołek";"Detractor";1;0;0;1
+"973";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"31 - 40";0;"Fiołek";"Detractor";1;0;0;1
+"974";"Średnie techniczne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"51 - 60";5;"Fiołek";"Detractor";1;0;0;1
+"975";"Średnie ogólne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"31 - 40";6;"Fiołek";"Detractor";1;0;0;1
+"977";"Wyższe rolnicze";"Właściciel";"więcej niż 250 ha";"powyżej 60";1;"Fiołek";"Detractor";1;0;0;1
+"978";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"51 - 60";5;"Fiołek";"Detractor";1;0;0;1
+"979";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"mniej niż 30";10;"Fiołek";"Promoter";0;0;1;1
+"980";"Średnie techniczne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";5;"Fiołek";"Detractor";1;0;0;1
+"981";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"51 - 60";10;"Goździk";"Promoter";0;0;1;1
+"982";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"31 - 40";4;"Goździk";"Detractor";1;0;0;1
+"983";"Średnie ogólne";"Główny agronom";"100.01 - 250 ha";"mniej niż 30";4;"Goździk";"Detractor";1;0;0;1
+"984";"Średnie ogólne";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";5;"Goździk";"Detractor";1;0;0;1
+"985";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"31 - 40";4;"Goździk";"Detractor";1;0;0;1
+"986";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"mniej niż 30";4;"Goździk";"Detractor";1;0;0;1
+"987";"Wyższe";"Główny agronom";"100.01 - 250 ha";"41 - 50";9;"Goździk";"Promoter";0;0;1;1
+"988";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"41 - 50";6;"Goździk";"Detractor";1;0;0;1
+"989";"Średnie techniczne";"Właściciel";"więcej niż 250 ha";"powyżej 60";9;"Goździk";"Promoter";0;0;1;1
+"990";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"31 - 40";3;"Goździk";"Detractor";1;0;0;1
+"991";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";1;"Goździk";"Detractor";1;0;0;1
+"992";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"41 - 50";9;"Goździk";"Promoter";0;0;1;1
+"993";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"41 - 50";0;"Goździk";"Detractor";1;0;0;1
+"994";"Średnie ogólne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"mniej niż 30";10;"Goździk";"Promoter";0;0;1;1
+"995";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"31 - 40";8;"Goździk";"Neutral";0;1;0;1
+"996";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"31 - 40";8;"Goździk";"Neutral";0;1;0;1
+"997";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"31 - 40";5;"Goździk";"Detractor";1;0;0;1
+"998";"Średnie ogólne";"Agronom ekspert";"100.01 - 250 ha";"51 - 60";9;"Goździk";"Promoter";0;0;1;1
+"999";"Średnie techniczne";"Właściciel";"50.01 - 100 ha";"powyżej 60";7;"Goździk";"Neutral";0;1;0;1
+"1000";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";8;"Goździk";"Neutral";0;1;0;1
+"1001";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"mniej niż 30";9;"Goździk";"Promoter";0;0;1;1
+"1002";"Średnie ogólne";"Główny agronom";"więcej niż 250 ha";"41 - 50";9;"Goździk";"Promoter";0;0;1;1
+"1003";"Średnie ogólne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"powyżej 60";10;"Goździk";"Promoter";0;0;1;1
+"1004";"Średnie ogólne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"51 - 60";8;"Goździk";"Neutral";0;1;0;1
+"1005";"Średnie techniczne";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"51 - 60";10;"Goździk";"Promoter";0;0;1;1
+"1006";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"41 - 50";10;"Goździk";"Promoter";0;0;1;1
+"1007";"Średnie techniczne";"Pracownik techniczny";"mniej niż 25 ha";"51 - 60";9;"Goździk";"Promoter";0;0;1;1
+"1008";"Średnie ogólne";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";1;"Goździk";"Detractor";1;0;0;1
+"1009";"Średnie ogólne";"Pracownik techniczny";"mniej niż 25 ha";"51 - 60";5;"Goździk";"Detractor";1;0;0;1
+"1010";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"mniej niż 30";10;"Goździk";"Promoter";0;0;1;1
+"1011";"Średnie ogólne";"Pracownik techniczny";"50.01 - 100 ha";"powyżej 60";2;"Goździk";"Detractor";1;0;0;1
+"1012";"Wyższe rolnicze";"Właściciel";"mniej niż 25 ha";"41 - 50";8;"Goździk";"Neutral";0;1;0;1
+"1013";"Wyższe";"Główny agronom";"więcej niż 250 ha";"51 - 60";2;"Goździk";"Detractor";1;0;0;1
+"1014";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"31 - 40";5;"Goździk";"Detractor";1;0;0;1
+"1015";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"31 - 40";3;"Goździk";"Detractor";1;0;0;1
+"1016";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";2;"Goździk";"Detractor";1;0;0;1
+"1017";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"51 - 60";5;"Goździk";"Detractor";1;0;0;1
+"1018";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"41 - 50";8;"Goździk";"Neutral";0;1;0;1
+"1019";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"51 - 60";10;"Goździk";"Promoter";0;0;1;1
+"1020";"Średnie techniczne";"Agronom ekspert";"25.01 - 50 ha";"51 - 60";10;"Goździk";"Promoter";0;0;1;1
+"1021";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";2;"Goździk";"Detractor";1;0;0;1
+"1022";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";3;"Goździk";"Detractor";1;0;0;1
+"1023";"Średnie techniczne";"Agronom ekspert";"100.01 - 250 ha";"41 - 50";10;"Goździk";"Promoter";0;0;1;1
+"1024";"Średnie techniczne";"Agronom ekspert";"25.01 - 50 ha";"31 - 40";9;"Goździk";"Promoter";0;0;1;1
+"1025";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"31 - 40";8;"Goździk";"Neutral";0;1;0;1
+"1026";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"powyżej 60";9;"Goździk";"Promoter";0;0;1;1
+"1027";"Średnie ogólne";"Główny agronom";"100.01 - 250 ha";"51 - 60";10;"Goździk";"Promoter";0;0;1;1
+"1028";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"41 - 50";6;"Goździk";"Detractor";1;0;0;1
+"1029";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"powyżej 60";9;"Goździk";"Promoter";0;0;1;1
+"1030";"Średnie ogólne";"Pracownik techniczny";"100.01 - 250 ha";"31 - 40";9;"Goździk";"Promoter";0;0;1;1
+"1031";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"31 - 40";6;"Goździk";"Detractor";1;0;0;1
+"1032";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"powyżej 60";3;"Goździk";"Detractor";1;0;0;1
+"1033";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"41 - 50";9;"Goździk";"Promoter";0;0;1;1
+"1034";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"31 - 40";6;"Goździk";"Detractor";1;0;0;1
+"1035";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"41 - 50";7;"Goździk";"Neutral";0;1;0;1
+"1036";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"51 - 60";9;"Goździk";"Promoter";0;0;1;1
+"1037";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"41 - 50";9;"Goździk";"Promoter";0;0;1;1
+"1038";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"31 - 40";9;"Goździk";"Promoter";0;0;1;1
+"1039";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"31 - 40";8;"Goździk";"Neutral";0;1;0;1
+"1040";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"51 - 60";4;"Goździk";"Detractor";1;0;0;1
+"1041";"Wyższe rolnicze";"Właściciel";"mniej niż 25 ha";"41 - 50";9;"Goździk";"Promoter";0;0;1;1
+"1042";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"powyżej 60";10;"Goździk";"Promoter";0;0;1;1
+"1043";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"51 - 60";9;"Goździk";"Promoter";0;0;1;1
+"1044";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"31 - 40";10;"Goździk";"Promoter";0;0;1;1
+"1045";"Średnie ogólne";"Pracownik techniczny";"100.01 - 250 ha";"31 - 40";3;"Goździk";"Detractor";1;0;0;1
+"1046";"Średnie ogólne";"Pracownik techniczny";"50.01 - 100 ha";"mniej niż 30";8;"Goździk";"Neutral";0;1;0;1
+"1047";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"31 - 40";9;"Goździk";"Promoter";0;0;1;1
+"1048";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"mniej niż 30";10;"Goździk";"Promoter";0;0;1;1
+"1049";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"41 - 50";7;"Goździk";"Neutral";0;1;0;1
+"1050";"Średnie ogólne";"Pracownik techniczny";"25.01 - 50 ha";"41 - 50";2;"Goździk";"Detractor";1;0;0;1
+"1051";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";10;"Goździk";"Promoter";0;0;1;1
+"1052";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";4;"Goździk";"Detractor";1;0;0;1
+"1053";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"31 - 40";5;"Goździk";"Detractor";1;0;0;1
+"1054";"Średnie ogólne";"Pracownik techniczny";"100.01 - 250 ha";"mniej niż 30";7;"Goździk";"Neutral";0;1;0;1
+"1055";"Średnie ogólne";"Pracownik techniczny";"50.01 - 100 ha";"mniej niż 30";7;"Goździk";"Neutral";0;1;0;1
+"1056";"Średnie techniczne";"Właściciel";"50.01 - 100 ha";"41 - 50";9;"Goździk";"Promoter";0;0;1;1
+"1057";"Średnie ogólne";"Główny agronom";"mniej niż 25 ha";"31 - 40";9;"Goździk";"Promoter";0;0;1;1
+"1058";"Średnie ogólne";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";7;"Goździk";"Neutral";0;1;0;1
+"1059";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";8;"Goździk";"Neutral";0;1;0;1
+"1060";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"51 - 60";0;"Goździk";"Detractor";1;0;0;1
+"1061";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";4;"Goździk";"Detractor";1;0;0;1
+"1062";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"41 - 50";5;"Goździk";"Detractor";1;0;0;1
+"1063";"Wyższe rolnicze";"Pracownik techniczny";"25.01 - 50 ha";"mniej niż 30";6;"Goździk";"Detractor";1;0;0;1
+"1064";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"mniej niż 30";9;"Goździk";"Promoter";0;0;1;1
+"1065";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";5;"Goździk";"Detractor";1;0;0;1
+"1066";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"mniej niż 30";7;"Goździk";"Neutral";0;1;0;1
+"1067";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"powyżej 60";10;"Goździk";"Promoter";0;0;1;1
+"1068";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"51 - 60";10;"Goździk";"Promoter";0;0;1;1
+"1069";"Średnie techniczne";"Główny agronom";"50.01 - 100 ha";"powyżej 60";7;"Goździk";"Neutral";0;1;0;1
+"1070";"Średnie ogólne";"Pracownik techniczny";"25.01 - 50 ha";"41 - 50";2;"Goździk";"Detractor";1;0;0;1
+"1071";"Wyższe rolnicze";"Właściciel";"więcej niż 250 ha";"51 - 60";0;"Goździk";"Detractor";1;0;0;1
+"1072";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"powyżej 60";5;"Goździk";"Detractor";1;0;0;1
+"1073";"Wyższe";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"31 - 40";7;"Goździk";"Neutral";0;1;0;1
+"1074";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"powyżej 60";1;"Goździk";"Detractor";1;0;0;1
+"1075";"Wyższe";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"41 - 50";8;"Goździk";"Neutral";0;1;0;1
+"1076";"Wyższe rolnicze";"Pracownik techniczny";"więcej niż 250 ha";"51 - 60";9;"Goździk";"Promoter";0;0;1;1
+"1077";"Wyższe rolnicze";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";7;"Goździk";"Neutral";0;1;0;1
+"1079";"Wyższe";"Pracownik techniczny";"25.01 - 50 ha";"51 - 60";6;"Goździk";"Detractor";1;0;0;1
+"1080";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"powyżej 60";5;"Goździk";"Detractor";1;0;0;1
+"1081";"Średnie techniczne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";6;"Goździk";"Detractor";1;0;0;1
+"1082";"Średnie ogólne";"Główny agronom";"50.01 - 100 ha";"mniej niż 30";8;"Goździk";"Neutral";0;1;0;1
+"1083";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"51 - 60";0;"Goździk";"Detractor";1;0;0;1
+"1084";"Średnie ogólne";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";4;"Goździk";"Detractor";1;0;0;1
+"1085";"Wyższe";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"powyżej 60";0;"Goździk";"Detractor";1;0;0;1
+"1086";"Wyższe";"Dyrektor/wicedyrektor";"25.01 - 50 ha";"51 - 60";9;"Goździk";"Promoter";0;0;1;1
+"1087";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"mniej niż 30";10;"Goździk";"Promoter";0;0;1;1
+"1089";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"51 - 60";5;"Goździk";"Detractor";1;0;0;1
+"1090";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";0;"Goździk";"Detractor";1;0;0;1
+"1091";"Średnie techniczne";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";5;"Goździk";"Detractor";1;0;0;1
+"1092";"Wyższe rolnicze";"Agronom ekspert";"25.01 - 50 ha";"powyżej 60";8;"Goździk";"Neutral";0;1;0;1
+"1093";"Średnie techniczne";"Właściciel";"więcej niż 250 ha";"mniej niż 30";0;"Goździk";"Detractor";1;0;0;1
+"1094";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"41 - 50";9;"Goździk";"Promoter";0;0;1;1
+"1097";"Średnie ogólne";"Pracownik techniczny";"25.01 - 50 ha";"powyżej 60";2;"Goździk";"Detractor";1;0;0;1
+"1098";"Średnie ogólne";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";6;"Goździk";"Detractor";1;0;0;1
+"1099";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"mniej niż 30";10;"Goździk";"Promoter";0;0;1;1
+"1100";"Wyższe rolnicze";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";6;"Goździk";"Detractor";1;0;0;1
+"1101";"Średnie techniczne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";0;"Goździk";"Detractor";1;0;0;1
+"1102";"Wyższe";"Właściciel";"więcej niż 250 ha";"mniej niż 30";4;"Goździk";"Detractor";1;0;0;1
+"1103";"Wyższe";"Właściciel";"więcej niż 250 ha";"powyżej 60";9;"Goździk";"Promoter";0;0;1;1
+"1104";"Wyższe";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";7;"Goździk";"Neutral";0;1;0;1
+"1105";"Wyższe rolnicze";"Pracownik techniczny";"mniej niż 25 ha";"mniej niż 30";7;"Goździk";"Neutral";0;1;0;1
+"1106";"Wyższe";"Główny agronom";"więcej niż 250 ha";"powyżej 60";7;"Goździk";"Neutral";0;1;0;1
+"1107";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"51 - 60";7;"Goździk";"Neutral";0;1;0;1
+"1108";"Średnie techniczne";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"51 - 60";4;"Goździk";"Detractor";1;0;0;1
+"1109";"Wyższe rolnicze";"Główny agronom";"50.01 - 100 ha";"powyżej 60";9;"Goździk";"Promoter";0;0;1;1
+"1110";"Średnie techniczne";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";1;"Goździk";"Detractor";1;0;0;1
+"1111";"Średnie techniczne";"Główny agronom";"więcej niż 250 ha";"31 - 40";0;"Goździk";"Detractor";1;0;0;1
+"1112";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"powyżej 60";8;"Goździk";"Neutral";0;1;0;1
+"1113";"Wyższe rolnicze";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";8;"Goździk";"Neutral";0;1;0;1
+"1115";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"powyżej 60";6;"Goździk";"Detractor";1;0;0;1
+"1116";"Średnie techniczne";"Właściciel";"więcej niż 250 ha";"51 - 60";10;"Goździk";"Promoter";0;0;1;1
+"1117";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"51 - 60";10;"Goździk";"Promoter";0;0;1;1
+"1119";"Wyższe rolnicze";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";3;"Goździk";"Detractor";1;0;0;1
+"1120";"Wyższe";"Pracownik techniczny";"100.01 - 250 ha";"powyżej 60";5;"Goździk";"Detractor";1;0;0;1
+"1121";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"41 - 50";10;"Goździk";"Promoter";0;0;1;1
+"1122";"Wyższe rolnicze";"Główny agronom";"100.01 - 250 ha";"41 - 50";9;"Goździk";"Promoter";0;0;1;1
+"1123";"Wyższe rolnicze";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";6;"Goździk";"Detractor";1;0;0;1
+"1124";"Średnie techniczne";"Agronom ekspert";"50.01 - 100 ha";"41 - 50";7;"Goździk";"Neutral";0;1;0;1
+"1125";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"31 - 40";1;"Goździk";"Detractor";1;0;0;1
+"1126";"Wyższe";"Agronom ekspert";"50.01 - 100 ha";"31 - 40";2;"Goździk";"Detractor";1;0;0;1
+"1127";"Wyższe rolnicze";"Inna";"więcej niż 250 ha";"51 - 60";2;"Goździk";"Detractor";1;0;0;1
+"1128";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"51 - 60";1;"Goździk";"Detractor";1;0;0;1
+"1129";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";2;"Goździk";"Detractor";1;0;0;1
+"1130";"Wyższe rolnicze";"Główny agronom";"100.01 - 250 ha";"powyżej 60";0;"Goździk";"Detractor";1;0;0;1
+"1131";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"powyżej 60";5;"Goździk";"Detractor";1;0;0;1
+"1132";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"31 - 40";9;"Goździk";"Promoter";0;0;1;1
+"1133";"Średnie techniczne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";5;"Goździk";"Detractor";1;0;0;1
+"1134";"Wyższe rolnicze";"Główny agronom";"więcej niż 250 ha";"41 - 50";2;"Goździk";"Detractor";1;0;0;1
+"1135";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"powyżej 60";5;"Goździk";"Detractor";1;0;0;1
+"1136";"Średnie ogólne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";0;"Goździk";"Detractor";1;0;0;1
+"1137";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";9;"Goździk";"Promoter";0;0;1;1
+"1138";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"41 - 50";7;"Goździk";"Neutral";0;1;0;1
+"1139";"Średnie techniczne";"Właściciel";"25.01 - 50 ha";"41 - 50";1;"Goździk";"Detractor";1;0;0;1
+"1140";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"powyżej 60";9;"Goździk";"Promoter";0;0;1;1
+"1141";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"powyżej 60";9;"Goździk";"Promoter";0;0;1;1
+"1142";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"51 - 60";8;"Goździk";"Neutral";0;1;0;1
+"1143";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"powyżej 60";3;"Goździk";"Detractor";1;0;0;1
+"1144";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"25.01 - 50 ha";"powyżej 60";6;"Goździk";"Detractor";1;0;0;1
+"1145";"Wyższe rolnicze";"Agronom ekspert";"50.01 - 100 ha";"31 - 40";9;"Goździk";"Promoter";0;0;1;1
+"1146";"Średnie techniczne";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";3;"Goździk";"Detractor";1;0;0;1
+"1147";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";10;"Goździk";"Promoter";0;0;1;1
+"1148";"Wyższe";"Agronom ekspert";"mniej niż 25 ha";"41 - 50";8;"Goździk";"Neutral";0;1;0;1
+"1149";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"41 - 50";5;"Goździk";"Detractor";1;0;0;1
+"1150";"Wyższe";"Agronom ekspert";"50.01 - 100 ha";"powyżej 60";10;"Goździk";"Promoter";0;0;1;1
+"1151";"Średnie techniczne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"51 - 60";4;"Goździk";"Detractor";1;0;0;1
+"1152";"Wyższe";"Główny agronom";"100.01 - 250 ha";"mniej niż 30";5;"Goździk";"Detractor";1;0;0;1
+"1153";"Średnie ogólne";"Główny agronom";"50.01 - 100 ha";"51 - 60";9;"Goździk";"Promoter";0;0;1;1
+"1154";"Średnie ogólne";"Główny agronom";"100.01 - 250 ha";"powyżej 60";2;"Goździk";"Detractor";1;0;0;1
+"1155";"Wyższe rolnicze";"Właściciel";"25.01 - 50 ha";"powyżej 60";7;"Goździk";"Neutral";0;1;0;1
+"1156";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";10;"Goździk";"Promoter";0;0;1;1
+"1157";"Wyższe";"Główny agronom";"100.01 - 250 ha";"powyżej 60";10;"Goździk";"Promoter";0;0;1;1
+"1158";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"41 - 50";5;"Goździk";"Detractor";1;0;0;1
+"1159";"Średnie ogólne";"Główny agronom";"więcej niż 250 ha";"41 - 50";5;"Goździk";"Detractor";1;0;0;1
+"1160";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"powyżej 60";9;"Goździk";"Promoter";0;0;1;1
+"1161";"Średnie techniczne";"Agronom ekspert";"mniej niż 25 ha";"powyżej 60";7;"Goździk";"Neutral";0;1;0;1
+"1162";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"51 - 60";3;"Goździk";"Detractor";1;0;0;1
+"1163";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"51 - 60";1;"Goździk";"Detractor";1;0;0;1
+"1164";"Wyższe rolnicze";"Agronom ekspert";"więcej niż 250 ha";"mniej niż 30";9;"Goździk";"Promoter";0;0;1;1
+"1165";"Wyższe";"Główny agronom";"więcej niż 250 ha";"31 - 40";8;"Goździk";"Neutral";0;1;0;1
+"1166";"Średnie techniczne";"Agronom ekspert";"więcej niż 250 ha";"mniej niż 30";7;"Goździk";"Neutral";0;1;0;1
+"1167";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"powyżej 60";1;"Goździk";"Detractor";1;0;0;1
+"1168";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"51 - 60";1;"Goździk";"Detractor";1;0;0;1
+"1169";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"31 - 40";6;"Goździk";"Detractor";1;0;0;1
+"1170";"Średnie techniczne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"51 - 60";7;"Goździk";"Neutral";0;1;0;1
+"1171";"Średnie ogólne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"31 - 40";6;"Goździk";"Detractor";1;0;0;1
+"1172";"Wyższe";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";7;"Goździk";"Neutral";0;1;0;1
+"1173";"Wyższe rolnicze";"Właściciel";"więcej niż 250 ha";"powyżej 60";10;"Goździk";"Promoter";0;0;1;1
+"1174";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"51 - 60";7;"Goździk";"Neutral";0;1;0;1
+"1175";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"mniej niż 30";5;"Goździk";"Detractor";1;0;0;1
+"1176";"Średnie techniczne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";1;"Goździk";"Detractor";1;0;0;1
+"1177";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"51 - 60";10;"Jaskier";"Promoter";0;0;1;1
+"1178";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"31 - 40";9;"Jaskier";"Promoter";0;0;1;1
+"1179";"Średnie ogólne";"Główny agronom";"100.01 - 250 ha";"mniej niż 30";9;"Jaskier";"Promoter";0;0;1;1
+"1180";"Średnie ogólne";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";9;"Jaskier";"Promoter";0;0;1;1
+"1181";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"31 - 40";4;"Jaskier";"Detractor";1;0;0;1
+"1182";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"mniej niż 30";8;"Jaskier";"Neutral";0;1;0;1
+"1183";"Wyższe";"Główny agronom";"100.01 - 250 ha";"41 - 50";9;"Jaskier";"Promoter";0;0;1;1
+"1184";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"41 - 50";3;"Jaskier";"Detractor";1;0;0;1
+"1185";"Średnie techniczne";"Właściciel";"więcej niż 250 ha";"powyżej 60";10;"Jaskier";"Promoter";0;0;1;1
+"1186";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"31 - 40";4;"Jaskier";"Detractor";1;0;0;1
+"1187";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";5;"Jaskier";"Detractor";1;0;0;1
+"1188";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"41 - 50";9;"Jaskier";"Promoter";0;0;1;1
+"1189";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"41 - 50";7;"Jaskier";"Neutral";0;1;0;1
+"1190";"Średnie ogólne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"mniej niż 30";9;"Jaskier";"Promoter";0;0;1;1
+"1191";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"31 - 40";7;"Jaskier";"Neutral";0;1;0;1
+"1192";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"31 - 40";2;"Jaskier";"Detractor";1;0;0;1
+"1193";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"31 - 40";9;"Jaskier";"Promoter";0;0;1;1
+"1194";"Średnie ogólne";"Agronom ekspert";"100.01 - 250 ha";"51 - 60";7;"Jaskier";"Neutral";0;1;0;1
+"1195";"Średnie techniczne";"Właściciel";"50.01 - 100 ha";"powyżej 60";7;"Jaskier";"Neutral";0;1;0;1
+"1196";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";7;"Jaskier";"Neutral";0;1;0;1
+"1197";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"mniej niż 30";1;"Jaskier";"Detractor";1;0;0;1
+"1198";"Średnie ogólne";"Główny agronom";"więcej niż 250 ha";"41 - 50";4;"Jaskier";"Detractor";1;0;0;1
+"1199";"Średnie ogólne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"powyżej 60";0;"Jaskier";"Detractor";1;0;0;1
+"1200";"Średnie ogólne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"51 - 60";3;"Jaskier";"Detractor";1;0;0;1
+"1201";"Średnie techniczne";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"51 - 60";9;"Jaskier";"Promoter";0;0;1;1
+"1202";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"41 - 50";2;"Jaskier";"Detractor";1;0;0;1
+"1203";"Średnie techniczne";"Pracownik techniczny";"mniej niż 25 ha";"51 - 60";5;"Jaskier";"Detractor";1;0;0;1
+"1204";"Średnie ogólne";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";7;"Jaskier";"Neutral";0;1;0;1
+"1205";"Średnie ogólne";"Pracownik techniczny";"mniej niż 25 ha";"51 - 60";4;"Jaskier";"Detractor";1;0;0;1
+"1206";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"mniej niż 30";6;"Jaskier";"Detractor";1;0;0;1
+"1207";"Średnie ogólne";"Pracownik techniczny";"50.01 - 100 ha";"powyżej 60";7;"Jaskier";"Neutral";0;1;0;1
+"1208";"Wyższe rolnicze";"Właściciel";"mniej niż 25 ha";"41 - 50";10;"Jaskier";"Promoter";0;0;1;1
+"1209";"Wyższe";"Główny agronom";"więcej niż 250 ha";"51 - 60";10;"Jaskier";"Promoter";0;0;1;1
+"1210";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"31 - 40";7;"Jaskier";"Neutral";0;1;0;1
+"1211";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"31 - 40";1;"Jaskier";"Detractor";1;0;0;1
+"1212";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";2;"Jaskier";"Detractor";1;0;0;1
+"1213";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"51 - 60";4;"Jaskier";"Detractor";1;0;0;1
+"1214";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"41 - 50";7;"Jaskier";"Neutral";0;1;0;1
+"1215";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"51 - 60";9;"Jaskier";"Promoter";0;0;1;1
+"1216";"Średnie techniczne";"Agronom ekspert";"25.01 - 50 ha";"51 - 60";1;"Jaskier";"Detractor";1;0;0;1
+"1217";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";9;"Jaskier";"Promoter";0;0;1;1
+"1218";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";7;"Jaskier";"Neutral";0;1;0;1
+"1219";"Średnie techniczne";"Agronom ekspert";"100.01 - 250 ha";"41 - 50";3;"Jaskier";"Detractor";1;0;0;1
+"1220";"Średnie techniczne";"Agronom ekspert";"25.01 - 50 ha";"31 - 40";7;"Jaskier";"Neutral";0;1;0;1
+"1221";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"31 - 40";9;"Jaskier";"Promoter";0;0;1;1
+"1222";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"powyżej 60";3;"Jaskier";"Detractor";1;0;0;1
+"1223";"Średnie ogólne";"Główny agronom";"100.01 - 250 ha";"51 - 60";2;"Jaskier";"Detractor";1;0;0;1
+"1224";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"41 - 50";8;"Jaskier";"Neutral";0;1;0;1
+"1225";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"powyżej 60";10;"Jaskier";"Promoter";0;0;1;1
+"1226";"Średnie ogólne";"Pracownik techniczny";"100.01 - 250 ha";"31 - 40";4;"Jaskier";"Detractor";1;0;0;1
+"1227";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"31 - 40";1;"Jaskier";"Detractor";1;0;0;1
+"1228";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"powyżej 60";6;"Jaskier";"Detractor";1;0;0;1
+"1229";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"41 - 50";9;"Jaskier";"Promoter";0;0;1;1
+"1230";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"31 - 40";9;"Jaskier";"Promoter";0;0;1;1
+"1231";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"41 - 50";3;"Jaskier";"Detractor";1;0;0;1
+"1232";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"51 - 60";9;"Jaskier";"Promoter";0;0;1;1
+"1233";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"41 - 50";6;"Jaskier";"Detractor";1;0;0;1
+"1234";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"31 - 40";7;"Jaskier";"Neutral";0;1;0;1
+"1235";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"31 - 40";5;"Jaskier";"Detractor";1;0;0;1
+"1236";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"51 - 60";8;"Jaskier";"Neutral";0;1;0;1
+"1237";"Wyższe rolnicze";"Właściciel";"mniej niż 25 ha";"41 - 50";3;"Jaskier";"Detractor";1;0;0;1
+"1238";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"powyżej 60";6;"Jaskier";"Detractor";1;0;0;1
+"1239";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"51 - 60";9;"Jaskier";"Promoter";0;0;1;1
+"1240";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"31 - 40";4;"Jaskier";"Detractor";1;0;0;1
+"1241";"Średnie ogólne";"Pracownik techniczny";"100.01 - 250 ha";"31 - 40";9;"Jaskier";"Promoter";0;0;1;1
+"1242";"Średnie ogólne";"Pracownik techniczny";"50.01 - 100 ha";"mniej niż 30";10;"Jaskier";"Promoter";0;0;1;1
+"1243";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"31 - 40";10;"Jaskier";"Promoter";0;0;1;1
+"1244";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"mniej niż 30";8;"Jaskier";"Neutral";0;1;0;1
+"1245";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"41 - 50";6;"Jaskier";"Detractor";1;0;0;1
+"1246";"Średnie ogólne";"Pracownik techniczny";"25.01 - 50 ha";"41 - 50";3;"Jaskier";"Detractor";1;0;0;1
+"1247";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";2;"Jaskier";"Detractor";1;0;0;1
+"1248";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";9;"Jaskier";"Promoter";0;0;1;1
+"1249";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"31 - 40";9;"Jaskier";"Promoter";0;0;1;1
+"1250";"Średnie ogólne";"Pracownik techniczny";"100.01 - 250 ha";"mniej niż 30";10;"Jaskier";"Promoter";0;0;1;1
+"1251";"Średnie ogólne";"Pracownik techniczny";"50.01 - 100 ha";"mniej niż 30";9;"Jaskier";"Promoter";0;0;1;1
+"1252";"Średnie techniczne";"Właściciel";"50.01 - 100 ha";"41 - 50";7;"Jaskier";"Neutral";0;1;0;1
+"1253";"Średnie ogólne";"Główny agronom";"mniej niż 25 ha";"31 - 40";3;"Jaskier";"Detractor";1;0;0;1
+"1254";"Średnie ogólne";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";10;"Jaskier";"Promoter";0;0;1;1
+"1255";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";2;"Jaskier";"Detractor";1;0;0;1
+"1256";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"51 - 60";9;"Jaskier";"Promoter";0;0;1;1
+"1257";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";4;"Jaskier";"Detractor";1;0;0;1
+"1258";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"41 - 50";2;"Jaskier";"Detractor";1;0;0;1
+"1259";"Wyższe rolnicze";"Pracownik techniczny";"25.01 - 50 ha";"mniej niż 30";2;"Jaskier";"Detractor";1;0;0;1
+"1260";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"mniej niż 30";9;"Jaskier";"Promoter";0;0;1;1
+"1261";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";5;"Jaskier";"Detractor";1;0;0;1
+"1262";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"mniej niż 30";8;"Jaskier";"Neutral";0;1;0;1
+"1263";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"powyżej 60";1;"Jaskier";"Detractor";1;0;0;1
+"1264";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"51 - 60";2;"Jaskier";"Detractor";1;0;0;1
+"1265";"Średnie techniczne";"Główny agronom";"50.01 - 100 ha";"powyżej 60";7;"Jaskier";"Neutral";0;1;0;1
+"1266";"Średnie ogólne";"Pracownik techniczny";"25.01 - 50 ha";"41 - 50";7;"Jaskier";"Neutral";0;1;0;1
+"1267";"Wyższe rolnicze";"Właściciel";"więcej niż 250 ha";"51 - 60";2;"Jaskier";"Detractor";1;0;0;1
+"1268";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"powyżej 60";3;"Jaskier";"Detractor";1;0;0;1
+"1269";"Wyższe";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"31 - 40";9;"Jaskier";"Promoter";0;0;1;1
+"1270";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"powyżej 60";10;"Jaskier";"Promoter";0;0;1;1
+"1271";"Wyższe";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"41 - 50";6;"Jaskier";"Detractor";1;0;0;1
+"1272";"Wyższe rolnicze";"Pracownik techniczny";"więcej niż 250 ha";"51 - 60";7;"Jaskier";"Neutral";0;1;0;1
+"1273";"Wyższe rolnicze";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";5;"Jaskier";"Detractor";1;0;0;1
+"1274";"Średnie ogólne";"Główny agronom";"50.01 - 100 ha";"powyżej 60";8;"Jaskier";"Neutral";0;1;0;1
+"1275";"Wyższe";"Pracownik techniczny";"25.01 - 50 ha";"51 - 60";1;"Jaskier";"Detractor";1;0;0;1
+"1276";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"powyżej 60";7;"Jaskier";"Neutral";0;1;0;1
+"1277";"Średnie techniczne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";0;"Jaskier";"Detractor";1;0;0;1
+"1278";"Średnie ogólne";"Główny agronom";"50.01 - 100 ha";"mniej niż 30";3;"Jaskier";"Detractor";1;0;0;1
+"1279";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"51 - 60";4;"Jaskier";"Detractor";1;0;0;1
+"1280";"Średnie ogólne";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";4;"Jaskier";"Detractor";1;0;0;1
+"1281";"Wyższe";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"powyżej 60";6;"Jaskier";"Detractor";1;0;0;1
+"1282";"Wyższe";"Dyrektor/wicedyrektor";"25.01 - 50 ha";"51 - 60";10;"Jaskier";"Promoter";0;0;1;1
+"1283";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"mniej niż 30";2;"Jaskier";"Detractor";1;0;0;1
+"1284";"Średnie ogólne";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";4;"Jaskier";"Detractor";1;0;0;1
+"1285";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"51 - 60";10;"Jaskier";"Promoter";0;0;1;1
+"1286";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";7;"Jaskier";"Neutral";0;1;0;1
+"1287";"Średnie techniczne";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";10;"Jaskier";"Promoter";0;0;1;1
+"1288";"Wyższe rolnicze";"Agronom ekspert";"25.01 - 50 ha";"powyżej 60";2;"Jaskier";"Detractor";1;0;0;1
+"1289";"Średnie techniczne";"Właściciel";"więcej niż 250 ha";"mniej niż 30";2;"Jaskier";"Detractor";1;0;0;1
+"1290";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"41 - 50";7;"Jaskier";"Neutral";0;1;0;1
+"1291";"Inne";"Pracownik techniczny";"50.01 - 100 ha";"mniej niż 30";0;"Jaskier";"Detractor";1;0;0;1
+"1292";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"41 - 50";4;"Jaskier";"Detractor";1;0;0;1
+"1293";"Średnie ogólne";"Pracownik techniczny";"25.01 - 50 ha";"powyżej 60";8;"Jaskier";"Neutral";0;1;0;1
+"1294";"Średnie ogólne";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";3;"Jaskier";"Detractor";1;0;0;1
+"1295";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"mniej niż 30";7;"Jaskier";"Neutral";0;1;0;1
+"1296";"Wyższe rolnicze";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";6;"Jaskier";"Detractor";1;0;0;1
+"1297";"Średnie techniczne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";2;"Jaskier";"Detractor";1;0;0;1
+"1298";"Wyższe";"Właściciel";"więcej niż 250 ha";"mniej niż 30";6;"Jaskier";"Detractor";1;0;0;1
+"1299";"Wyższe";"Właściciel";"więcej niż 250 ha";"powyżej 60";4;"Jaskier";"Detractor";1;0;0;1
+"1300";"Wyższe";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";8;"Jaskier";"Neutral";0;1;0;1
+"1301";"Wyższe rolnicze";"Pracownik techniczny";"mniej niż 25 ha";"mniej niż 30";9;"Jaskier";"Promoter";0;0;1;1
+"1302";"Wyższe";"Główny agronom";"więcej niż 250 ha";"powyżej 60";9;"Jaskier";"Promoter";0;0;1;1
+"1303";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"51 - 60";8;"Jaskier";"Neutral";0;1;0;1
+"1304";"Średnie techniczne";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"51 - 60";5;"Jaskier";"Detractor";1;0;0;1
+"1305";"Wyższe rolnicze";"Główny agronom";"50.01 - 100 ha";"powyżej 60";5;"Jaskier";"Detractor";1;0;0;1
+"1306";"Średnie techniczne";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";6;"Jaskier";"Detractor";1;0;0;1
+"1307";"Średnie techniczne";"Główny agronom";"więcej niż 250 ha";"31 - 40";10;"Jaskier";"Promoter";0;0;1;1
+"1308";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"powyżej 60";7;"Jaskier";"Neutral";0;1;0;1
+"1309";"Wyższe rolnicze";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";6;"Jaskier";"Detractor";1;0;0;1
+"1310";"Wyższe rolnicze";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";5;"Jaskier";"Detractor";1;0;0;1
+"1311";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"powyżej 60";1;"Jaskier";"Detractor";1;0;0;1
+"1312";"Średnie techniczne";"Właściciel";"więcej niż 250 ha";"51 - 60";5;"Jaskier";"Detractor";1;0;0;1
+"1313";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"51 - 60";1;"Jaskier";"Detractor";1;0;0;1
+"1314";"Wyższe rolnicze";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";3;"Jaskier";"Detractor";1;0;0;1
+"1315";"Wyższe rolnicze";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";6;"Jaskier";"Detractor";1;0;0;1
+"1316";"Wyższe";"Pracownik techniczny";"100.01 - 250 ha";"powyżej 60";2;"Jaskier";"Detractor";1;0;0;1
+"1317";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"41 - 50";4;"Jaskier";"Detractor";1;0;0;1
+"1318";"Wyższe rolnicze";"Główny agronom";"100.01 - 250 ha";"41 - 50";7;"Jaskier";"Neutral";0;1;0;1
+"1319";"Wyższe rolnicze";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";3;"Jaskier";"Detractor";1;0;0;1
+"1320";"Średnie techniczne";"Agronom ekspert";"50.01 - 100 ha";"41 - 50";6;"Jaskier";"Detractor";1;0;0;1
+"1321";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"31 - 40";10;"Jaskier";"Promoter";0;0;1;1
+"1322";"Wyższe";"Agronom ekspert";"50.01 - 100 ha";"31 - 40";4;"Jaskier";"Detractor";1;0;0;1
+"1323";"Wyższe rolnicze";"Inna";"więcej niż 250 ha";"51 - 60";9;"Jaskier";"Promoter";0;0;1;1
+"1324";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"51 - 60";4;"Jaskier";"Detractor";1;0;0;1
+"1325";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";7;"Jaskier";"Neutral";0;1;0;1
+"1326";"Wyższe rolnicze";"Główny agronom";"100.01 - 250 ha";"powyżej 60";3;"Jaskier";"Detractor";1;0;0;1
+"1327";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"powyżej 60";5;"Jaskier";"Detractor";1;0;0;1
+"1328";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"31 - 40";3;"Jaskier";"Detractor";1;0;0;1
+"1329";"Średnie techniczne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";4;"Jaskier";"Detractor";1;0;0;1
+"1330";"Wyższe rolnicze";"Główny agronom";"więcej niż 250 ha";"41 - 50";10;"Jaskier";"Promoter";0;0;1;1
+"1331";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"powyżej 60";10;"Jaskier";"Promoter";0;0;1;1
+"1332";"Średnie ogólne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";0;"Jaskier";"Detractor";1;0;0;1
+"1333";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";4;"Jaskier";"Detractor";1;0;0;1
+"1334";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"41 - 50";2;"Jaskier";"Detractor";1;0;0;1
+"1335";"Średnie techniczne";"Właściciel";"25.01 - 50 ha";"41 - 50";8;"Jaskier";"Neutral";0;1;0;1
+"1336";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"powyżej 60";5;"Jaskier";"Detractor";1;0;0;1
+"1337";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"powyżej 60";5;"Jaskier";"Detractor";1;0;0;1
+"1338";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"51 - 60";10;"Jaskier";"Promoter";0;0;1;1
+"1339";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"powyżej 60";7;"Jaskier";"Neutral";0;1;0;1
+"1340";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"25.01 - 50 ha";"powyżej 60";9;"Jaskier";"Promoter";0;0;1;1
+"1341";"Wyższe rolnicze";"Agronom ekspert";"50.01 - 100 ha";"31 - 40";9;"Jaskier";"Promoter";0;0;1;1
+"1342";"Średnie techniczne";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";5;"Jaskier";"Detractor";1;0;0;1
+"1343";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";7;"Jaskier";"Neutral";0;1;0;1
+"1344";"Wyższe";"Agronom ekspert";"mniej niż 25 ha";"41 - 50";9;"Jaskier";"Promoter";0;0;1;1
+"1345";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"41 - 50";6;"Jaskier";"Detractor";1;0;0;1
+"1346";"Wyższe";"Agronom ekspert";"50.01 - 100 ha";"powyżej 60";6;"Jaskier";"Detractor";1;0;0;1
+"1347";"Średnie techniczne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"51 - 60";3;"Jaskier";"Detractor";1;0;0;1
+"1348";"Wyższe";"Główny agronom";"100.01 - 250 ha";"mniej niż 30";7;"Jaskier";"Neutral";0;1;0;1
+"1349";"Średnie ogólne";"Główny agronom";"50.01 - 100 ha";"51 - 60";6;"Jaskier";"Detractor";1;0;0;1
+"1350";"Średnie ogólne";"Główny agronom";"100.01 - 250 ha";"powyżej 60";4;"Jaskier";"Detractor";1;0;0;1
+"1351";"Wyższe rolnicze";"Właściciel";"25.01 - 50 ha";"powyżej 60";6;"Jaskier";"Detractor";1;0;0;1
+"1352";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";4;"Jaskier";"Detractor";1;0;0;1
+"1353";"Wyższe";"Główny agronom";"100.01 - 250 ha";"powyżej 60";5;"Jaskier";"Detractor";1;0;0;1
+"1354";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"41 - 50";5;"Jaskier";"Detractor";1;0;0;1
+"1355";"Średnie ogólne";"Główny agronom";"więcej niż 250 ha";"41 - 50";7;"Jaskier";"Neutral";0;1;0;1
+"1356";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"powyżej 60";10;"Jaskier";"Promoter";0;0;1;1
+"1357";"Średnie techniczne";"Agronom ekspert";"mniej niż 25 ha";"powyżej 60";9;"Jaskier";"Promoter";0;0;1;1
+"1358";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"51 - 60";4;"Jaskier";"Detractor";1;0;0;1
+"1359";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"51 - 60";2;"Jaskier";"Detractor";1;0;0;1
+"1360";"Wyższe rolnicze";"Agronom ekspert";"więcej niż 250 ha";"mniej niż 30";4;"Jaskier";"Detractor";1;0;0;1
+"1361";"Wyższe";"Główny agronom";"więcej niż 250 ha";"31 - 40";3;"Jaskier";"Detractor";1;0;0;1
+"1362";"Średnie techniczne";"Agronom ekspert";"więcej niż 250 ha";"mniej niż 30";6;"Jaskier";"Detractor";1;0;0;1
+"1363";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"powyżej 60";3;"Jaskier";"Detractor";1;0;0;1
+"1364";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"51 - 60";7;"Jaskier";"Neutral";0;1;0;1
+"1365";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"31 - 40";9;"Jaskier";"Promoter";0;0;1;1
+"1366";"Średnie techniczne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"51 - 60";6;"Jaskier";"Detractor";1;0;0;1
+"1367";"Średnie ogólne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"31 - 40";2;"Jaskier";"Detractor";1;0;0;1
+"1369";"Wyższe rolnicze";"Właściciel";"więcej niż 250 ha";"powyżej 60";5;"Jaskier";"Detractor";1;0;0;1
+"1370";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"51 - 60";6;"Jaskier";"Detractor";1;0;0;1
+"1371";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"mniej niż 30";5;"Jaskier";"Detractor";1;0;0;1
+"1372";"Średnie techniczne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";4;"Jaskier";"Detractor";1;0;0;1
+"1373";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"51 - 60";2;"Łubin";"Detractor";1;0;0;1
+"1374";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"31 - 40";7;"Łubin";"Neutral";0;1;0;1
+"1375";"Średnie ogólne";"Główny agronom";"100.01 - 250 ha";"mniej niż 30";2;"Łubin";"Detractor";1;0;0;1
+"1376";"Średnie ogólne";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";4;"Łubin";"Detractor";1;0;0;1
+"1377";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"31 - 40";10;"Łubin";"Promoter";0;0;1;1
+"1378";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"mniej niż 30";3;"Łubin";"Detractor";1;0;0;1
+"1379";"Wyższe";"Główny agronom";"100.01 - 250 ha";"41 - 50";4;"Łubin";"Detractor";1;0;0;1
+"1380";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"41 - 50";9;"Łubin";"Promoter";0;0;1;1
+"1381";"Średnie techniczne";"Właściciel";"więcej niż 250 ha";"powyżej 60";2;"Łubin";"Detractor";1;0;0;1
+"1382";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"31 - 40";5;"Łubin";"Detractor";1;0;0;1
+"1383";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";9;"Łubin";"Promoter";0;0;1;1
+"1384";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"41 - 50";6;"Łubin";"Detractor";1;0;0;1
+"1385";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"41 - 50";5;"Łubin";"Detractor";1;0;0;1
+"1386";"Średnie ogólne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"mniej niż 30";8;"Łubin";"Neutral";0;1;0;1
+"1387";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"31 - 40";9;"Łubin";"Promoter";0;0;1;1
+"1388";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"31 - 40";8;"Łubin";"Neutral";0;1;0;1
+"1389";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"31 - 40";0;"Łubin";"Detractor";1;0;0;1
+"1390";"Średnie ogólne";"Agronom ekspert";"100.01 - 250 ha";"51 - 60";9;"Łubin";"Promoter";0;0;1;1
+"1391";"Średnie techniczne";"Właściciel";"50.01 - 100 ha";"powyżej 60";2;"Łubin";"Detractor";1;0;0;1
+"1392";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";4;"Łubin";"Detractor";1;0;0;1
+"1393";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"mniej niż 30";8;"Łubin";"Neutral";0;1;0;1
+"1394";"Średnie ogólne";"Główny agronom";"więcej niż 250 ha";"41 - 50";10;"Łubin";"Promoter";0;0;1;1
+"1395";"Średnie ogólne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"powyżej 60";7;"Łubin";"Neutral";0;1;0;1
+"1396";"Średnie ogólne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"51 - 60";2;"Łubin";"Detractor";1;0;0;1
+"1397";"Średnie techniczne";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"51 - 60";9;"Łubin";"Promoter";0;0;1;1
+"1398";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"41 - 50";3;"Łubin";"Detractor";1;0;0;1
+"1399";"Średnie techniczne";"Pracownik techniczny";"mniej niż 25 ha";"51 - 60";5;"Łubin";"Detractor";1;0;0;1
+"1400";"Średnie ogólne";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";5;"Łubin";"Detractor";1;0;0;1
+"1401";"Średnie ogólne";"Pracownik techniczny";"mniej niż 25 ha";"51 - 60";8;"Łubin";"Neutral";0;1;0;1
+"1402";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"mniej niż 30";5;"Łubin";"Detractor";1;0;0;1
+"1403";"Średnie ogólne";"Pracownik techniczny";"50.01 - 100 ha";"powyżej 60";1;"Łubin";"Detractor";1;0;0;1
+"1404";"Wyższe rolnicze";"Właściciel";"mniej niż 25 ha";"41 - 50";4;"Łubin";"Detractor";1;0;0;1
+"1405";"Wyższe";"Główny agronom";"więcej niż 250 ha";"51 - 60";2;"Łubin";"Detractor";1;0;0;1
+"1406";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"31 - 40";7;"Łubin";"Neutral";0;1;0;1
+"1407";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"31 - 40";9;"Łubin";"Promoter";0;0;1;1
+"1408";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";4;"Łubin";"Detractor";1;0;0;1
+"1409";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"51 - 60";6;"Łubin";"Detractor";1;0;0;1
+"1410";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"41 - 50";6;"Łubin";"Detractor";1;0;0;1
+"1411";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"51 - 60";7;"Łubin";"Neutral";0;1;0;1
+"1412";"Średnie techniczne";"Agronom ekspert";"25.01 - 50 ha";"51 - 60";1;"Łubin";"Detractor";1;0;0;1
+"1413";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";1;"Łubin";"Detractor";1;0;0;1
+"1414";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";3;"Łubin";"Detractor";1;0;0;1
+"1415";"Średnie techniczne";"Agronom ekspert";"100.01 - 250 ha";"41 - 50";1;"Łubin";"Detractor";1;0;0;1
+"1416";"Średnie techniczne";"Agronom ekspert";"25.01 - 50 ha";"31 - 40";9;"Łubin";"Promoter";0;0;1;1
+"1417";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"31 - 40";0;"Łubin";"Detractor";1;0;0;1
+"1418";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"powyżej 60";10;"Łubin";"Promoter";0;0;1;1
+"1419";"Średnie ogólne";"Główny agronom";"100.01 - 250 ha";"51 - 60";5;"Łubin";"Detractor";1;0;0;1
+"1420";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"41 - 50";8;"Łubin";"Neutral";0;1;0;1
+"1421";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"powyżej 60";2;"Łubin";"Detractor";1;0;0;1
+"1422";"Średnie ogólne";"Pracownik techniczny";"100.01 - 250 ha";"31 - 40";4;"Łubin";"Detractor";1;0;0;1
+"1423";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"31 - 40";9;"Łubin";"Promoter";0;0;1;1
+"1424";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"powyżej 60";4;"Łubin";"Detractor";1;0;0;1
+"1425";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"41 - 50";9;"Łubin";"Promoter";0;0;1;1
+"1426";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"31 - 40";8;"Łubin";"Neutral";0;1;0;1
+"1427";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"41 - 50";4;"Łubin";"Detractor";1;0;0;1
+"1428";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"51 - 60";7;"Łubin";"Neutral";0;1;0;1
+"1429";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"41 - 50";1;"Łubin";"Detractor";1;0;0;1
+"1430";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"31 - 40";8;"Łubin";"Neutral";0;1;0;1
+"1431";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"31 - 40";0;"Łubin";"Detractor";1;0;0;1
+"1432";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"51 - 60";6;"Łubin";"Detractor";1;0;0;1
+"1433";"Wyższe rolnicze";"Właściciel";"mniej niż 25 ha";"41 - 50";10;"Łubin";"Promoter";0;0;1;1
+"1434";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"powyżej 60";4;"Łubin";"Detractor";1;0;0;1
+"1435";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"51 - 60";9;"Łubin";"Promoter";0;0;1;1
+"1436";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"31 - 40";8;"Łubin";"Neutral";0;1;0;1
+"1437";"Średnie ogólne";"Pracownik techniczny";"100.01 - 250 ha";"31 - 40";3;"Łubin";"Detractor";1;0;0;1
+"1438";"Średnie ogólne";"Pracownik techniczny";"50.01 - 100 ha";"mniej niż 30";4;"Łubin";"Detractor";1;0;0;1
+"1439";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"31 - 40";5;"Łubin";"Detractor";1;0;0;1
+"1440";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"mniej niż 30";9;"Łubin";"Promoter";0;0;1;1
+"1441";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"41 - 50";4;"Łubin";"Detractor";1;0;0;1
+"1442";"Średnie ogólne";"Pracownik techniczny";"25.01 - 50 ha";"41 - 50";4;"Łubin";"Detractor";1;0;0;1
+"1443";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";6;"Łubin";"Detractor";1;0;0;1
+"1444";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";9;"Łubin";"Promoter";0;0;1;1
+"1445";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"31 - 40";9;"Łubin";"Promoter";0;0;1;1
+"1446";"Średnie ogólne";"Pracownik techniczny";"100.01 - 250 ha";"mniej niż 30";10;"Łubin";"Promoter";0;0;1;1
+"1447";"Średnie ogólne";"Pracownik techniczny";"50.01 - 100 ha";"mniej niż 30";9;"Łubin";"Promoter";0;0;1;1
+"1448";"Średnie techniczne";"Właściciel";"50.01 - 100 ha";"41 - 50";8;"Łubin";"Neutral";0;1;0;1
+"1449";"Średnie ogólne";"Główny agronom";"mniej niż 25 ha";"31 - 40";10;"Łubin";"Promoter";0;0;1;1
+"1450";"Średnie ogólne";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";9;"Łubin";"Promoter";0;0;1;1
+"1451";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";1;"Łubin";"Detractor";1;0;0;1
+"1452";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"51 - 60";3;"Łubin";"Detractor";1;0;0;1
+"1453";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";2;"Łubin";"Detractor";1;0;0;1
+"1454";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"41 - 50";3;"Łubin";"Detractor";1;0;0;1
+"1455";"Wyższe rolnicze";"Pracownik techniczny";"25.01 - 50 ha";"mniej niż 30";1;"Łubin";"Detractor";1;0;0;1
+"1456";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"mniej niż 30";3;"Łubin";"Detractor";1;0;0;1
+"1457";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";9;"Łubin";"Promoter";0;0;1;1
+"1458";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"mniej niż 30";1;"Łubin";"Detractor";1;0;0;1
+"1459";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"powyżej 60";4;"Łubin";"Detractor";1;0;0;1
+"1460";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"51 - 60";4;"Łubin";"Detractor";1;0;0;1
+"1461";"Średnie techniczne";"Główny agronom";"50.01 - 100 ha";"powyżej 60";4;"Łubin";"Detractor";1;0;0;1
+"1462";"Średnie ogólne";"Pracownik techniczny";"25.01 - 50 ha";"41 - 50";9;"Łubin";"Promoter";0;0;1;1
+"1463";"Wyższe rolnicze";"Właściciel";"więcej niż 250 ha";"51 - 60";4;"Łubin";"Detractor";1;0;0;1
+"1464";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"powyżej 60";2;"Łubin";"Detractor";1;0;0;1
+"1465";"Wyższe";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"31 - 40";8;"Łubin";"Neutral";0;1;0;1
+"1466";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"powyżej 60";5;"Łubin";"Detractor";1;0;0;1
+"1467";"Wyższe";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"41 - 50";3;"Łubin";"Detractor";1;0;0;1
+"1468";"Wyższe rolnicze";"Pracownik techniczny";"więcej niż 250 ha";"51 - 60";8;"Łubin";"Neutral";0;1;0;1
+"1469";"Wyższe rolnicze";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";3;"Łubin";"Detractor";1;0;0;1
+"1470";"Średnie ogólne";"Główny agronom";"50.01 - 100 ha";"powyżej 60";5;"Łubin";"Detractor";1;0;0;1
+"1471";"Wyższe";"Pracownik techniczny";"25.01 - 50 ha";"51 - 60";4;"Łubin";"Detractor";1;0;0;1
+"1472";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"powyżej 60";9;"Łubin";"Promoter";0;0;1;1
+"1473";"Średnie techniczne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";9;"Łubin";"Promoter";0;0;1;1
+"1474";"Średnie ogólne";"Główny agronom";"50.01 - 100 ha";"mniej niż 30";6;"Łubin";"Detractor";1;0;0;1
+"1475";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"51 - 60";5;"Łubin";"Detractor";1;0;0;1
+"1476";"Średnie ogólne";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";4;"Łubin";"Detractor";1;0;0;1
+"1477";"Wyższe";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"powyżej 60";4;"Łubin";"Detractor";1;0;0;1
+"1478";"Wyższe";"Dyrektor/wicedyrektor";"25.01 - 50 ha";"51 - 60";4;"Łubin";"Detractor";1;0;0;1
+"1479";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"mniej niż 30";7;"Łubin";"Neutral";0;1;0;1
+"1480";"Średnie ogólne";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";9;"Łubin";"Promoter";0;0;1;1
+"1481";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"51 - 60";0;"Łubin";"Detractor";1;0;0;1
+"1482";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";5;"Łubin";"Detractor";1;0;0;1
+"1483";"Średnie techniczne";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";8;"Łubin";"Neutral";0;1;0;1
+"1484";"Wyższe rolnicze";"Agronom ekspert";"25.01 - 50 ha";"powyżej 60";8;"Łubin";"Neutral";0;1;0;1
+"1485";"Średnie techniczne";"Właściciel";"więcej niż 250 ha";"mniej niż 30";4;"Łubin";"Detractor";1;0;0;1
+"1486";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"41 - 50";7;"Łubin";"Neutral";0;1;0;1
+"1487";"Inne";"Pracownik techniczny";"50.01 - 100 ha";"mniej niż 30";10;"Łubin";"Promoter";0;0;1;1
+"1488";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"41 - 50";10;"Łubin";"Promoter";0;0;1;1
+"1489";"Średnie ogólne";"Pracownik techniczny";"25.01 - 50 ha";"powyżej 60";0;"Łubin";"Detractor";1;0;0;1
+"1490";"Średnie ogólne";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";9;"Łubin";"Promoter";0;0;1;1
+"1491";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"mniej niż 30";10;"Łubin";"Promoter";0;0;1;1
+"1492";"Wyższe rolnicze";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";7;"Łubin";"Neutral";0;1;0;1
+"1493";"Średnie techniczne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";1;"Łubin";"Detractor";1;0;0;1
+"1494";"Wyższe";"Właściciel";"więcej niż 250 ha";"mniej niż 30";0;"Łubin";"Detractor";1;0;0;1
+"1495";"Wyższe";"Właściciel";"więcej niż 250 ha";"powyżej 60";5;"Łubin";"Detractor";1;0;0;1
+"1496";"Wyższe";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";8;"Łubin";"Neutral";0;1;0;1
+"1497";"Wyższe rolnicze";"Pracownik techniczny";"mniej niż 25 ha";"mniej niż 30";4;"Łubin";"Detractor";1;0;0;1
+"1498";"Wyższe";"Główny agronom";"więcej niż 250 ha";"powyżej 60";8;"Łubin";"Neutral";0;1;0;1
+"1499";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"51 - 60";7;"Łubin";"Neutral";0;1;0;1
+"1500";"Średnie techniczne";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"51 - 60";8;"Łubin";"Neutral";0;1;0;1
+"1501";"Wyższe rolnicze";"Główny agronom";"50.01 - 100 ha";"powyżej 60";5;"Łubin";"Detractor";1;0;0;1
+"1502";"Średnie techniczne";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";1;"Łubin";"Detractor";1;0;0;1
+"1503";"Średnie techniczne";"Główny agronom";"więcej niż 250 ha";"31 - 40";1;"Łubin";"Detractor";1;0;0;1
+"1504";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"powyżej 60";5;"Łubin";"Detractor";1;0;0;1
+"1505";"Wyższe rolnicze";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";6;"Łubin";"Detractor";1;0;0;1
+"1506";"Wyższe rolnicze";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";10;"Łubin";"Promoter";0;0;1;1
+"1507";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"powyżej 60";5;"Łubin";"Detractor";1;0;0;1
+"1508";"Średnie techniczne";"Właściciel";"więcej niż 250 ha";"51 - 60";2;"Łubin";"Detractor";1;0;0;1
+"1509";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"51 - 60";2;"Łubin";"Detractor";1;0;0;1
+"1510";"Wyższe rolnicze";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";7;"Łubin";"Neutral";0;1;0;1
+"1511";"Wyższe rolnicze";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";5;"Łubin";"Detractor";1;0;0;1
+"1512";"Wyższe";"Pracownik techniczny";"100.01 - 250 ha";"powyżej 60";5;"Łubin";"Detractor";1;0;0;1
+"1513";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"41 - 50";2;"Łubin";"Detractor";1;0;0;1
+"1514";"Wyższe rolnicze";"Główny agronom";"100.01 - 250 ha";"41 - 50";6;"Łubin";"Detractor";1;0;0;1
+"1515";"Wyższe rolnicze";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";2;"Łubin";"Detractor";1;0;0;1
+"1516";"Średnie techniczne";"Agronom ekspert";"50.01 - 100 ha";"41 - 50";10;"Łubin";"Promoter";0;0;1;1
+"1517";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"31 - 40";8;"Łubin";"Neutral";0;1;0;1
+"1518";"Wyższe";"Agronom ekspert";"50.01 - 100 ha";"31 - 40";7;"Łubin";"Neutral";0;1;0;1
+"1519";"Wyższe rolnicze";"Inna";"więcej niż 250 ha";"51 - 60";5;"Łubin";"Detractor";1;0;0;1
+"1520";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"51 - 60";1;"Łubin";"Detractor";1;0;0;1
+"1521";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";10;"Łubin";"Promoter";0;0;1;1
+"1522";"Wyższe rolnicze";"Główny agronom";"100.01 - 250 ha";"powyżej 60";10;"Łubin";"Promoter";0;0;1;1
+"1523";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"powyżej 60";9;"Łubin";"Promoter";0;0;1;1
+"1524";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"31 - 40";8;"Łubin";"Neutral";0;1;0;1
+"1525";"Średnie techniczne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";6;"Łubin";"Detractor";1;0;0;1
+"1526";"Wyższe rolnicze";"Główny agronom";"więcej niż 250 ha";"41 - 50";3;"Łubin";"Detractor";1;0;0;1
+"1527";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"powyżej 60";9;"Łubin";"Promoter";0;0;1;1
+"1528";"Średnie ogólne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";8;"Łubin";"Neutral";0;1;0;1
+"1529";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";2;"Łubin";"Detractor";1;0;0;1
+"1530";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"41 - 50";6;"Łubin";"Detractor";1;0;0;1
+"1531";"Średnie techniczne";"Właściciel";"25.01 - 50 ha";"41 - 50";0;"Łubin";"Detractor";1;0;0;1
+"1532";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"powyżej 60";1;"Łubin";"Detractor";1;0;0;1
+"1533";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"powyżej 60";4;"Łubin";"Detractor";1;0;0;1
+"1534";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"51 - 60";8;"Łubin";"Neutral";0;1;0;1
+"1535";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"powyżej 60";2;"Łubin";"Detractor";1;0;0;1
+"1536";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"25.01 - 50 ha";"powyżej 60";0;"Łubin";"Detractor";1;0;0;1
+"1537";"Wyższe rolnicze";"Agronom ekspert";"50.01 - 100 ha";"31 - 40";5;"Łubin";"Detractor";1;0;0;1
+"1538";"Średnie techniczne";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";3;"Łubin";"Detractor";1;0;0;1
+"1539";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";7;"Łubin";"Neutral";0;1;0;1
+"1540";"Wyższe";"Agronom ekspert";"mniej niż 25 ha";"41 - 50";5;"Łubin";"Detractor";1;0;0;1
+"1541";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"41 - 50";10;"Łubin";"Promoter";0;0;1;1
+"1542";"Wyższe";"Agronom ekspert";"50.01 - 100 ha";"powyżej 60";5;"Łubin";"Detractor";1;0;0;1
+"1543";"Średnie techniczne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"51 - 60";4;"Łubin";"Detractor";1;0;0;1
+"1544";"Wyższe";"Główny agronom";"100.01 - 250 ha";"mniej niż 30";10;"Łubin";"Promoter";0;0;1;1
+"1545";"Średnie ogólne";"Główny agronom";"50.01 - 100 ha";"51 - 60";4;"Łubin";"Detractor";1;0;0;1
+"1546";"Średnie ogólne";"Główny agronom";"100.01 - 250 ha";"powyżej 60";1;"Łubin";"Detractor";1;0;0;1
+"1547";"Wyższe rolnicze";"Właściciel";"25.01 - 50 ha";"powyżej 60";7;"Łubin";"Neutral";0;1;0;1
+"1548";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";6;"Łubin";"Detractor";1;0;0;1
+"1549";"Wyższe";"Główny agronom";"100.01 - 250 ha";"powyżej 60";0;"Łubin";"Detractor";1;0;0;1
+"1550";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"41 - 50";4;"Łubin";"Detractor";1;0;0;1
+"1551";"Średnie ogólne";"Główny agronom";"więcej niż 250 ha";"41 - 50";9;"Łubin";"Promoter";0;0;1;1
+"1552";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"powyżej 60";8;"Łubin";"Neutral";0;1;0;1
+"1553";"Średnie techniczne";"Agronom ekspert";"mniej niż 25 ha";"powyżej 60";9;"Łubin";"Promoter";0;0;1;1
+"1554";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"51 - 60";7;"Łubin";"Neutral";0;1;0;1
+"1555";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"51 - 60";1;"Łubin";"Detractor";1;0;0;1
+"1556";"Wyższe rolnicze";"Agronom ekspert";"więcej niż 250 ha";"mniej niż 30";6;"Łubin";"Detractor";1;0;0;1
+"1557";"Wyższe";"Główny agronom";"więcej niż 250 ha";"31 - 40";10;"Łubin";"Promoter";0;0;1;1
+"1558";"Średnie techniczne";"Agronom ekspert";"więcej niż 250 ha";"mniej niż 30";0;"Łubin";"Detractor";1;0;0;1
+"1559";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"powyżej 60";7;"Łubin";"Neutral";0;1;0;1
+"1560";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"51 - 60";4;"Łubin";"Detractor";1;0;0;1
+"1561";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"31 - 40";6;"Łubin";"Detractor";1;0;0;1
+"1562";"Średnie techniczne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"51 - 60";4;"Łubin";"Detractor";1;0;0;1
+"1563";"Średnie ogólne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"31 - 40";3;"Łubin";"Detractor";1;0;0;1
+"1564";"Wyższe";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";8;"Łubin";"Neutral";0;1;0;1
+"1565";"Wyższe rolnicze";"Właściciel";"więcej niż 250 ha";"powyżej 60";9;"Łubin";"Promoter";0;0;1;1
+"1566";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"51 - 60";1;"Łubin";"Detractor";1;0;0;1
+"1567";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"mniej niż 30";10;"Łubin";"Promoter";0;0;1;1
+"1568";"Średnie techniczne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";8;"Łubin";"Neutral";0;1;0;1
+"1569";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"51 - 60";1;"Mięta";"Detractor";1;0;0;1
+"1570";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"31 - 40";6;"Mięta";"Detractor";1;0;0;1
+"1571";"Średnie ogólne";"Główny agronom";"100.01 - 250 ha";"mniej niż 30";8;"Mięta";"Neutral";0;1;0;1
+"1572";"Średnie ogólne";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";9;"Mięta";"Promoter";0;0;1;1
+"1573";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"31 - 40";9;"Mięta";"Promoter";0;0;1;1
+"1574";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"mniej niż 30";2;"Mięta";"Detractor";1;0;0;1
+"1575";"Wyższe";"Główny agronom";"100.01 - 250 ha";"41 - 50";2;"Mięta";"Detractor";1;0;0;1
+"1576";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"41 - 50";10;"Mięta";"Promoter";0;0;1;1
+"1577";"Średnie techniczne";"Właściciel";"więcej niż 250 ha";"powyżej 60";6;"Mięta";"Detractor";1;0;0;1
+"1578";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"31 - 40";3;"Mięta";"Detractor";1;0;0;1
+"1579";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";3;"Mięta";"Detractor";1;0;0;1
+"1580";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"41 - 50";4;"Mięta";"Detractor";1;0;0;1
+"1581";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"41 - 50";4;"Mięta";"Detractor";1;0;0;1
+"1582";"Średnie ogólne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"mniej niż 30";10;"Mięta";"Promoter";0;0;1;1
+"1583";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"31 - 40";10;"Mięta";"Promoter";0;0;1;1
+"1584";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"31 - 40";8;"Mięta";"Neutral";0;1;0;1
+"1585";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"31 - 40";9;"Mięta";"Promoter";0;0;1;1
+"1586";"Średnie ogólne";"Agronom ekspert";"100.01 - 250 ha";"51 - 60";2;"Mięta";"Detractor";1;0;0;1
+"1587";"Średnie techniczne";"Właściciel";"50.01 - 100 ha";"powyżej 60";5;"Mięta";"Detractor";1;0;0;1
+"1588";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";2;"Mięta";"Detractor";1;0;0;1
+"1589";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"mniej niż 30";9;"Mięta";"Promoter";0;0;1;1
+"1590";"Średnie ogólne";"Główny agronom";"więcej niż 250 ha";"41 - 50";9;"Mięta";"Promoter";0;0;1;1
+"1591";"Średnie ogólne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"powyżej 60";5;"Mięta";"Detractor";1;0;0;1
+"1592";"Średnie ogólne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"51 - 60";3;"Mięta";"Detractor";1;0;0;1
+"1593";"Średnie techniczne";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"51 - 60";10;"Mięta";"Promoter";0;0;1;1
+"1594";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"41 - 50";3;"Mięta";"Detractor";1;0;0;1
+"1595";"Średnie techniczne";"Pracownik techniczny";"mniej niż 25 ha";"51 - 60";5;"Mięta";"Detractor";1;0;0;1
+"1596";"Średnie ogólne";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";8;"Mięta";"Neutral";0;1;0;1
+"1597";"Średnie ogólne";"Pracownik techniczny";"mniej niż 25 ha";"51 - 60";3;"Mięta";"Detractor";1;0;0;1
+"1598";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"mniej niż 30";10;"Mięta";"Promoter";0;0;1;1
+"1599";"Średnie ogólne";"Pracownik techniczny";"50.01 - 100 ha";"powyżej 60";5;"Mięta";"Detractor";1;0;0;1
+"1600";"Wyższe rolnicze";"Właściciel";"mniej niż 25 ha";"41 - 50";5;"Mięta";"Detractor";1;0;0;1
+"1601";"Wyższe";"Główny agronom";"więcej niż 250 ha";"51 - 60";0;"Mięta";"Detractor";1;0;0;1
+"1602";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"31 - 40";0;"Mięta";"Detractor";1;0;0;1
+"1603";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"31 - 40";4;"Mięta";"Detractor";1;0;0;1
+"1604";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";4;"Mięta";"Detractor";1;0;0;1
+"1605";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"51 - 60";1;"Mięta";"Detractor";1;0;0;1
+"1606";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"41 - 50";5;"Mięta";"Detractor";1;0;0;1
+"1607";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"51 - 60";6;"Mięta";"Detractor";1;0;0;1
+"1608";"Średnie techniczne";"Agronom ekspert";"25.01 - 50 ha";"51 - 60";3;"Mięta";"Detractor";1;0;0;1
+"1609";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";6;"Mięta";"Detractor";1;0;0;1
+"1610";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";0;"Mięta";"Detractor";1;0;0;1
+"1611";"Średnie techniczne";"Agronom ekspert";"100.01 - 250 ha";"41 - 50";10;"Mięta";"Promoter";0;0;1;1
+"1612";"Średnie techniczne";"Agronom ekspert";"25.01 - 50 ha";"31 - 40";9;"Mięta";"Promoter";0;0;1;1
+"1613";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"31 - 40";8;"Mięta";"Neutral";0;1;0;1
+"1614";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"powyżej 60";1;"Mięta";"Detractor";1;0;0;1
+"1615";"Średnie ogólne";"Główny agronom";"100.01 - 250 ha";"51 - 60";7;"Mięta";"Neutral";0;1;0;1
+"1616";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"41 - 50";7;"Mięta";"Neutral";0;1;0;1
+"1617";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"powyżej 60";0;"Mięta";"Detractor";1;0;0;1
+"1618";"Średnie ogólne";"Pracownik techniczny";"100.01 - 250 ha";"31 - 40";9;"Mięta";"Promoter";0;0;1;1
+"1619";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"31 - 40";10;"Mięta";"Promoter";0;0;1;1
+"1620";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"powyżej 60";7;"Mięta";"Neutral";0;1;0;1
+"1621";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"41 - 50";10;"Mięta";"Promoter";0;0;1;1
+"1622";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"31 - 40";2;"Mięta";"Detractor";1;0;0;1
+"1623";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"41 - 50";2;"Mięta";"Detractor";1;0;0;1
+"1624";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"51 - 60";8;"Mięta";"Neutral";0;1;0;1
+"1625";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"41 - 50";10;"Mięta";"Promoter";0;0;1;1
+"1626";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"31 - 40";6;"Mięta";"Detractor";1;0;0;1
+"1627";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"31 - 40";1;"Mięta";"Detractor";1;0;0;1
+"1628";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"51 - 60";6;"Mięta";"Detractor";1;0;0;1
+"1629";"Wyższe rolnicze";"Właściciel";"mniej niż 25 ha";"41 - 50";7;"Mięta";"Neutral";0;1;0;1
+"1630";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"powyżej 60";9;"Mięta";"Promoter";0;0;1;1
+"1631";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"51 - 60";6;"Mięta";"Detractor";1;0;0;1
+"1632";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"31 - 40";4;"Mięta";"Detractor";1;0;0;1
+"1633";"Średnie ogólne";"Pracownik techniczny";"100.01 - 250 ha";"31 - 40";5;"Mięta";"Detractor";1;0;0;1
+"1634";"Średnie ogólne";"Pracownik techniczny";"50.01 - 100 ha";"mniej niż 30";10;"Mięta";"Promoter";0;0;1;1
+"1635";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"31 - 40";0;"Mięta";"Detractor";1;0;0;1
+"1636";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"mniej niż 30";4;"Mięta";"Detractor";1;0;0;1
+"1637";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"41 - 50";2;"Mięta";"Detractor";1;0;0;1
+"1638";"Średnie ogólne";"Pracownik techniczny";"25.01 - 50 ha";"41 - 50";1;"Mięta";"Detractor";1;0;0;1
+"1639";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";7;"Mięta";"Neutral";0;1;0;1
+"1640";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";6;"Mięta";"Detractor";1;0;0;1
+"1641";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"31 - 40";3;"Mięta";"Detractor";1;0;0;1
+"1642";"Średnie ogólne";"Pracownik techniczny";"100.01 - 250 ha";"mniej niż 30";9;"Mięta";"Promoter";0;0;1;1
+"1643";"Średnie ogólne";"Pracownik techniczny";"50.01 - 100 ha";"mniej niż 30";10;"Mięta";"Promoter";0;0;1;1
+"1644";"Średnie techniczne";"Właściciel";"50.01 - 100 ha";"41 - 50";2;"Mięta";"Detractor";1;0;0;1
+"1645";"Średnie ogólne";"Główny agronom";"mniej niż 25 ha";"31 - 40";8;"Mięta";"Neutral";0;1;0;1
+"1646";"Średnie ogólne";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";9;"Mięta";"Promoter";0;0;1;1
+"1647";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";7;"Mięta";"Neutral";0;1;0;1
+"1648";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"51 - 60";0;"Mięta";"Detractor";1;0;0;1
+"1649";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";2;"Mięta";"Detractor";1;0;0;1
+"1650";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"41 - 50";4;"Mięta";"Detractor";1;0;0;1
+"1651";"Wyższe rolnicze";"Pracownik techniczny";"25.01 - 50 ha";"mniej niż 30";3;"Mięta";"Detractor";1;0;0;1
+"1652";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"mniej niż 30";6;"Mięta";"Detractor";1;0;0;1
+"1653";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";2;"Mięta";"Detractor";1;0;0;1
+"1654";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"mniej niż 30";5;"Mięta";"Detractor";1;0;0;1
+"1655";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"powyżej 60";8;"Mięta";"Neutral";0;1;0;1
+"1656";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"51 - 60";2;"Mięta";"Detractor";1;0;0;1
+"1657";"Średnie techniczne";"Główny agronom";"50.01 - 100 ha";"powyżej 60";8;"Mięta";"Neutral";0;1;0;1
+"1658";"Średnie ogólne";"Pracownik techniczny";"25.01 - 50 ha";"41 - 50";6;"Mięta";"Detractor";1;0;0;1
+"1659";"Wyższe rolnicze";"Właściciel";"więcej niż 250 ha";"51 - 60";6;"Mięta";"Detractor";1;0;0;1
+"1660";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"powyżej 60";1;"Mięta";"Detractor";1;0;0;1
+"1661";"Wyższe";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"31 - 40";8;"Mięta";"Neutral";0;1;0;1
+"1662";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"powyżej 60";4;"Mięta";"Detractor";1;0;0;1
+"1663";"Wyższe";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"41 - 50";4;"Mięta";"Detractor";1;0;0;1
+"1664";"Wyższe rolnicze";"Pracownik techniczny";"więcej niż 250 ha";"51 - 60";7;"Mięta";"Neutral";0;1;0;1
+"1665";"Wyższe rolnicze";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";7;"Mięta";"Neutral";0;1;0;1
+"1666";"Średnie ogólne";"Główny agronom";"50.01 - 100 ha";"powyżej 60";1;"Mięta";"Detractor";1;0;0;1
+"1667";"Wyższe";"Pracownik techniczny";"25.01 - 50 ha";"51 - 60";3;"Mięta";"Detractor";1;0;0;1
+"1668";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"powyżej 60";5;"Mięta";"Detractor";1;0;0;1
+"1669";"Średnie techniczne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";8;"Mięta";"Neutral";0;1;0;1
+"1670";"Średnie ogólne";"Główny agronom";"50.01 - 100 ha";"mniej niż 30";1;"Mięta";"Detractor";1;0;0;1
+"1671";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"51 - 60";4;"Mięta";"Detractor";1;0;0;1
+"1672";"Średnie ogólne";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";8;"Mięta";"Neutral";0;1;0;1
+"1673";"Wyższe";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"powyżej 60";5;"Mięta";"Detractor";1;0;0;1
+"1674";"Wyższe";"Dyrektor/wicedyrektor";"25.01 - 50 ha";"51 - 60";2;"Mięta";"Detractor";1;0;0;1
+"1675";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"mniej niż 30";5;"Mięta";"Detractor";1;0;0;1
+"1676";"Średnie ogólne";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";0;"Mięta";"Detractor";1;0;0;1
+"1677";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"51 - 60";2;"Mięta";"Detractor";1;0;0;1
+"1678";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";9;"Mięta";"Promoter";0;0;1;1
+"1679";"Średnie techniczne";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";2;"Mięta";"Detractor";1;0;0;1
+"1680";"Wyższe rolnicze";"Agronom ekspert";"25.01 - 50 ha";"powyżej 60";7;"Mięta";"Neutral";0;1;0;1
+"1681";"Średnie techniczne";"Właściciel";"więcej niż 250 ha";"mniej niż 30";5;"Mięta";"Detractor";1;0;0;1
+"1682";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"41 - 50";2;"Mięta";"Detractor";1;0;0;1
+"1683";"Inne";"Pracownik techniczny";"50.01 - 100 ha";"mniej niż 30";7;"Mięta";"Neutral";0;1;0;1
+"1684";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"41 - 50";10;"Mięta";"Promoter";0;0;1;1
+"1685";"Średnie ogólne";"Pracownik techniczny";"25.01 - 50 ha";"powyżej 60";4;"Mięta";"Detractor";1;0;0;1
+"1686";"Średnie ogólne";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";1;"Mięta";"Detractor";1;0;0;1
+"1687";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"mniej niż 30";9;"Mięta";"Promoter";0;0;1;1
+"1688";"Wyższe rolnicze";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";4;"Mięta";"Detractor";1;0;0;1
+"1689";"Średnie techniczne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";3;"Mięta";"Detractor";1;0;0;1
+"1690";"Wyższe";"Właściciel";"więcej niż 250 ha";"mniej niż 30";10;"Mięta";"Promoter";0;0;1;1
+"1691";"Wyższe";"Właściciel";"więcej niż 250 ha";"powyżej 60";10;"Mięta";"Promoter";0;0;1;1
+"1692";"Wyższe";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";0;"Mięta";"Detractor";1;0;0;1
+"1693";"Wyższe rolnicze";"Pracownik techniczny";"mniej niż 25 ha";"mniej niż 30";3;"Mięta";"Detractor";1;0;0;1
+"1694";"Wyższe";"Główny agronom";"więcej niż 250 ha";"powyżej 60";9;"Mięta";"Promoter";0;0;1;1
+"1695";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"51 - 60";0;"Mięta";"Detractor";1;0;0;1
+"1696";"Średnie techniczne";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"51 - 60";7;"Mięta";"Neutral";0;1;0;1
+"1697";"Wyższe rolnicze";"Główny agronom";"50.01 - 100 ha";"powyżej 60";0;"Mięta";"Detractor";1;0;0;1
+"1698";"Średnie techniczne";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";10;"Mięta";"Promoter";0;0;1;1
+"1699";"Średnie techniczne";"Główny agronom";"więcej niż 250 ha";"31 - 40";10;"Mięta";"Promoter";0;0;1;1
+"1700";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"powyżej 60";10;"Mięta";"Promoter";0;0;1;1
+"1701";"Wyższe rolnicze";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";1;"Mięta";"Detractor";1;0;0;1
+"1702";"Wyższe rolnicze";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";4;"Mięta";"Detractor";1;0;0;1
+"1703";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"powyżej 60";10;"Mięta";"Promoter";0;0;1;1
+"1704";"Średnie techniczne";"Właściciel";"więcej niż 250 ha";"51 - 60";8;"Mięta";"Neutral";0;1;0;1
+"1705";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"51 - 60";0;"Mięta";"Detractor";1;0;0;1
+"1706";"Wyższe rolnicze";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";0;"Mięta";"Detractor";1;0;0;1
+"1707";"Wyższe rolnicze";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";1;"Mięta";"Detractor";1;0;0;1
+"1708";"Wyższe";"Pracownik techniczny";"100.01 - 250 ha";"powyżej 60";8;"Mięta";"Neutral";0;1;0;1
+"1709";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"41 - 50";5;"Mięta";"Detractor";1;0;0;1
+"1710";"Wyższe rolnicze";"Główny agronom";"100.01 - 250 ha";"41 - 50";9;"Mięta";"Promoter";0;0;1;1
+"1711";"Wyższe rolnicze";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";0;"Mięta";"Detractor";1;0;0;1
+"1712";"Średnie techniczne";"Agronom ekspert";"50.01 - 100 ha";"41 - 50";5;"Mięta";"Detractor";1;0;0;1
+"1713";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"31 - 40";8;"Mięta";"Neutral";0;1;0;1
+"1714";"Wyższe";"Agronom ekspert";"50.01 - 100 ha";"31 - 40";7;"Mięta";"Neutral";0;1;0;1
+"1715";"Wyższe rolnicze";"Inna";"więcej niż 250 ha";"51 - 60";8;"Mięta";"Neutral";0;1;0;1
+"1716";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"51 - 60";8;"Mięta";"Neutral";0;1;0;1
+"1717";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";1;"Mięta";"Detractor";1;0;0;1
+"1718";"Wyższe rolnicze";"Główny agronom";"100.01 - 250 ha";"powyżej 60";3;"Mięta";"Detractor";1;0;0;1
+"1719";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"powyżej 60";0;"Mięta";"Detractor";1;0;0;1
+"1720";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"31 - 40";6;"Mięta";"Detractor";1;0;0;1
+"1721";"Średnie techniczne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";1;"Mięta";"Detractor";1;0;0;1
+"1722";"Wyższe rolnicze";"Główny agronom";"więcej niż 250 ha";"41 - 50";6;"Mięta";"Detractor";1;0;0;1
+"1723";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"powyżej 60";9;"Mięta";"Promoter";0;0;1;1
+"1724";"Średnie ogólne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";4;"Mięta";"Detractor";1;0;0;1
+"1725";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";0;"Mięta";"Detractor";1;0;0;1
+"1726";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"41 - 50";8;"Mięta";"Neutral";0;1;0;1
+"1727";"Średnie techniczne";"Właściciel";"25.01 - 50 ha";"41 - 50";5;"Mięta";"Detractor";1;0;0;1
+"1728";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"powyżej 60";4;"Mięta";"Detractor";1;0;0;1
+"1729";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"powyżej 60";3;"Mięta";"Detractor";1;0;0;1
+"1730";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"51 - 60";10;"Mięta";"Promoter";0;0;1;1
+"1731";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"powyżej 60";9;"Mięta";"Promoter";0;0;1;1
+"1732";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"25.01 - 50 ha";"powyżej 60";0;"Mięta";"Detractor";1;0;0;1
+"1733";"Wyższe rolnicze";"Agronom ekspert";"50.01 - 100 ha";"31 - 40";3;"Mięta";"Detractor";1;0;0;1
+"1734";"Średnie techniczne";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";8;"Mięta";"Neutral";0;1;0;1
+"1735";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";0;"Mięta";"Detractor";1;0;0;1
+"1736";"Wyższe";"Agronom ekspert";"mniej niż 25 ha";"41 - 50";3;"Mięta";"Detractor";1;0;0;1
+"1737";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"41 - 50";2;"Mięta";"Detractor";1;0;0;1
+"1738";"Wyższe";"Agronom ekspert";"50.01 - 100 ha";"powyżej 60";1;"Mięta";"Detractor";1;0;0;1
+"1739";"Średnie techniczne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"51 - 60";8;"Mięta";"Neutral";0;1;0;1
+"1740";"Wyższe";"Główny agronom";"100.01 - 250 ha";"mniej niż 30";9;"Mięta";"Promoter";0;0;1;1
+"1741";"Średnie ogólne";"Główny agronom";"50.01 - 100 ha";"51 - 60";10;"Mięta";"Promoter";0;0;1;1
+"1742";"Średnie ogólne";"Główny agronom";"100.01 - 250 ha";"powyżej 60";8;"Mięta";"Neutral";0;1;0;1
+"1743";"Wyższe rolnicze";"Właściciel";"25.01 - 50 ha";"powyżej 60";9;"Mięta";"Promoter";0;0;1;1
+"1744";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";0;"Mięta";"Detractor";1;0;0;1
+"1745";"Wyższe";"Główny agronom";"100.01 - 250 ha";"powyżej 60";0;"Mięta";"Detractor";1;0;0;1
+"1746";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"41 - 50";7;"Mięta";"Neutral";0;1;0;1
+"1747";"Średnie ogólne";"Główny agronom";"więcej niż 250 ha";"41 - 50";0;"Mięta";"Detractor";1;0;0;1
+"1748";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"powyżej 60";10;"Mięta";"Promoter";0;0;1;1
+"1749";"Średnie techniczne";"Agronom ekspert";"mniej niż 25 ha";"powyżej 60";4;"Mięta";"Detractor";1;0;0;1
+"1750";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"51 - 60";0;"Mięta";"Detractor";1;0;0;1
+"1751";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"51 - 60";0;"Mięta";"Detractor";1;0;0;1
+"1752";"Wyższe rolnicze";"Agronom ekspert";"więcej niż 250 ha";"mniej niż 30";4;"Mięta";"Detractor";1;0;0;1
+"1753";"Wyższe";"Główny agronom";"więcej niż 250 ha";"31 - 40";3;"Mięta";"Detractor";1;0;0;1
+"1754";"Średnie techniczne";"Agronom ekspert";"więcej niż 250 ha";"mniej niż 30";3;"Mięta";"Detractor";1;0;0;1
+"1755";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"powyżej 60";2;"Mięta";"Detractor";1;0;0;1
+"1756";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"51 - 60";2;"Mięta";"Detractor";1;0;0;1
+"1757";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"31 - 40";9;"Mięta";"Promoter";0;0;1;1
+"1758";"Średnie techniczne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"51 - 60";3;"Mięta";"Detractor";1;0;0;1
+"1759";"Średnie ogólne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"31 - 40";5;"Mięta";"Detractor";1;0;0;1
+"1760";"Wyższe";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";3;"Mięta";"Detractor";1;0;0;1
+"1761";"Wyższe rolnicze";"Właściciel";"więcej niż 250 ha";"powyżej 60";4;"Mięta";"Detractor";1;0;0;1
+"1762";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"51 - 60";5;"Mięta";"Detractor";1;0;0;1
+"1763";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"mniej niż 30";8;"Mięta";"Neutral";0;1;0;1
+"1764";"Średnie techniczne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";4;"Mięta";"Detractor";1;0;0;1
+"1765";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"51 - 60";6;"Narcyz";"Detractor";1;0;0;1
+"1766";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"31 - 40";2;"Narcyz";"Detractor";1;0;0;1
+"1767";"Średnie ogólne";"Główny agronom";"100.01 - 250 ha";"mniej niż 30";7;"Narcyz";"Neutral";0;1;0;1
+"1768";"Średnie ogólne";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";7;"Narcyz";"Neutral";0;1;0;1
+"1769";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"31 - 40";2;"Narcyz";"Detractor";1;0;0;1
+"1770";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"mniej niż 30";1;"Narcyz";"Detractor";1;0;0;1
+"1771";"Wyższe";"Główny agronom";"100.01 - 250 ha";"41 - 50";7;"Narcyz";"Neutral";0;1;0;1
+"1772";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"41 - 50";3;"Narcyz";"Detractor";1;0;0;1
+"1773";"Średnie techniczne";"Właściciel";"więcej niż 250 ha";"powyżej 60";2;"Narcyz";"Detractor";1;0;0;1
+"1774";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"31 - 40";8;"Narcyz";"Neutral";0;1;0;1
+"1775";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";6;"Narcyz";"Detractor";1;0;0;1
+"1776";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"41 - 50";1;"Narcyz";"Detractor";1;0;0;1
+"1777";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"41 - 50";6;"Narcyz";"Detractor";1;0;0;1
+"1778";"Średnie ogólne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"mniej niż 30";7;"Narcyz";"Neutral";0;1;0;1
+"1779";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"31 - 40";5;"Narcyz";"Detractor";1;0;0;1
+"1780";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"31 - 40";5;"Narcyz";"Detractor";1;0;0;1
+"1781";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"31 - 40";9;"Narcyz";"Promoter";0;0;1;1
+"1782";"Średnie ogólne";"Agronom ekspert";"100.01 - 250 ha";"51 - 60";3;"Narcyz";"Detractor";1;0;0;1
+"1783";"Średnie techniczne";"Właściciel";"50.01 - 100 ha";"powyżej 60";1;"Narcyz";"Detractor";1;0;0;1
+"1784";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";8;"Narcyz";"Neutral";0;1;0;1
+"1786";"Średnie ogólne";"Główny agronom";"więcej niż 250 ha";"41 - 50";9;"Narcyz";"Promoter";0;0;1;1
+"1787";"Średnie ogólne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"powyżej 60";1;"Narcyz";"Detractor";1;0;0;1
+"1788";"Średnie ogólne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"51 - 60";4;"Narcyz";"Detractor";1;0;0;1
+"1789";"Średnie techniczne";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"51 - 60";6;"Narcyz";"Detractor";1;0;0;1
+"1790";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"41 - 50";10;"Narcyz";"Promoter";0;0;1;1
+"1791";"Średnie techniczne";"Pracownik techniczny";"mniej niż 25 ha";"51 - 60";7;"Narcyz";"Neutral";0;1;0;1
+"1792";"Średnie ogólne";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";6;"Narcyz";"Detractor";1;0;0;1
+"1793";"Średnie ogólne";"Pracownik techniczny";"mniej niż 25 ha";"51 - 60";8;"Narcyz";"Neutral";0;1;0;1
+"1794";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"mniej niż 30";10;"Narcyz";"Promoter";0;0;1;1
+"1795";"Średnie ogólne";"Pracownik techniczny";"50.01 - 100 ha";"powyżej 60";1;"Narcyz";"Detractor";1;0;0;1
+"1796";"Wyższe rolnicze";"Właściciel";"mniej niż 25 ha";"41 - 50";4;"Narcyz";"Detractor";1;0;0;1
+"1797";"Wyższe";"Główny agronom";"więcej niż 250 ha";"51 - 60";9;"Narcyz";"Promoter";0;0;1;1
+"1798";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"31 - 40";10;"Narcyz";"Promoter";0;0;1;1
+"1799";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"31 - 40";9;"Narcyz";"Promoter";0;0;1;1
+"1800";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";0;"Narcyz";"Detractor";1;0;0;1
+"1801";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"51 - 60";0;"Narcyz";"Detractor";1;0;0;1
+"1802";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"41 - 50";2;"Narcyz";"Detractor";1;0;0;1
+"1803";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"51 - 60";3;"Narcyz";"Detractor";1;0;0;1
+"1804";"Średnie techniczne";"Agronom ekspert";"25.01 - 50 ha";"51 - 60";7;"Narcyz";"Neutral";0;1;0;1
+"1805";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";8;"Narcyz";"Neutral";0;1;0;1
+"1806";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";5;"Narcyz";"Detractor";1;0;0;1
+"1807";"Średnie techniczne";"Agronom ekspert";"100.01 - 250 ha";"41 - 50";9;"Narcyz";"Promoter";0;0;1;1
+"1808";"Średnie techniczne";"Agronom ekspert";"25.01 - 50 ha";"31 - 40";8;"Narcyz";"Neutral";0;1;0;1
+"1809";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"31 - 40";4;"Narcyz";"Detractor";1;0;0;1
+"1810";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"powyżej 60";2;"Narcyz";"Detractor";1;0;0;1
+"1811";"Średnie ogólne";"Główny agronom";"100.01 - 250 ha";"51 - 60";10;"Narcyz";"Promoter";0;0;1;1
+"1812";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"41 - 50";5;"Narcyz";"Detractor";1;0;0;1
+"1813";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"powyżej 60";10;"Narcyz";"Promoter";0;0;1;1
+"1814";"Średnie ogólne";"Pracownik techniczny";"100.01 - 250 ha";"31 - 40";10;"Narcyz";"Promoter";0;0;1;1
+"1815";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"31 - 40";6;"Narcyz";"Detractor";1;0;0;1
+"1816";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"powyżej 60";9;"Narcyz";"Promoter";0;0;1;1
+"1817";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"41 - 50";5;"Narcyz";"Detractor";1;0;0;1
+"1818";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"31 - 40";10;"Narcyz";"Promoter";0;0;1;1
+"1819";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"41 - 50";7;"Narcyz";"Neutral";0;1;0;1
+"1820";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"51 - 60";6;"Narcyz";"Detractor";1;0;0;1
+"1821";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"41 - 50";6;"Narcyz";"Detractor";1;0;0;1
+"1822";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"31 - 40";6;"Narcyz";"Detractor";1;0;0;1
+"1823";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"31 - 40";8;"Narcyz";"Neutral";0;1;0;1
+"1824";"Średnie ogólne";"Właściciel";"100.01 - 250 ha";"51 - 60";2;"Narcyz";"Detractor";1;0;0;1
+"1825";"Wyższe rolnicze";"Właściciel";"mniej niż 25 ha";"41 - 50";10;"Narcyz";"Promoter";0;0;1;1
+"1826";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"powyżej 60";1;"Narcyz";"Detractor";1;0;0;1
+"1827";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"51 - 60";7;"Narcyz";"Neutral";0;1;0;1
+"1828";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"31 - 40";5;"Narcyz";"Detractor";1;0;0;1
+"1829";"Średnie ogólne";"Pracownik techniczny";"100.01 - 250 ha";"31 - 40";8;"Narcyz";"Neutral";0;1;0;1
+"1830";"Średnie ogólne";"Pracownik techniczny";"50.01 - 100 ha";"mniej niż 30";6;"Narcyz";"Detractor";1;0;0;1
+"1831";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"31 - 40";6;"Narcyz";"Detractor";1;0;0;1
+"1832";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"mniej niż 30";5;"Narcyz";"Detractor";1;0;0;1
+"1833";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"41 - 50";5;"Narcyz";"Detractor";1;0;0;1
+"1834";"Średnie ogólne";"Pracownik techniczny";"25.01 - 50 ha";"41 - 50";8;"Narcyz";"Neutral";0;1;0;1
+"1835";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";8;"Narcyz";"Neutral";0;1;0;1
+"1836";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";8;"Narcyz";"Neutral";0;1;0;1
+"1837";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"31 - 40";5;"Narcyz";"Detractor";1;0;0;1
+"1838";"Średnie ogólne";"Pracownik techniczny";"100.01 - 250 ha";"mniej niż 30";3;"Narcyz";"Detractor";1;0;0;1
+"1839";"Średnie ogólne";"Pracownik techniczny";"50.01 - 100 ha";"mniej niż 30";1;"Narcyz";"Detractor";1;0;0;1
+"1840";"Średnie techniczne";"Właściciel";"50.01 - 100 ha";"41 - 50";0;"Narcyz";"Detractor";1;0;0;1
+"1841";"Średnie ogólne";"Główny agronom";"mniej niż 25 ha";"31 - 40";6;"Narcyz";"Detractor";1;0;0;1
+"1842";"Średnie ogólne";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";8;"Narcyz";"Neutral";0;1;0;1
+"1843";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";5;"Narcyz";"Detractor";1;0;0;1
+"1844";"Średnie ogólne";"Właściciel";"25.01 - 50 ha";"51 - 60";0;"Narcyz";"Detractor";1;0;0;1
+"1845";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";4;"Narcyz";"Detractor";1;0;0;1
+"1846";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"41 - 50";5;"Narcyz";"Detractor";1;0;0;1
+"1847";"Wyższe rolnicze";"Pracownik techniczny";"25.01 - 50 ha";"mniej niż 30";10;"Narcyz";"Promoter";0;0;1;1
+"1848";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"mniej niż 30";9;"Narcyz";"Promoter";0;0;1;1
+"1849";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";9;"Narcyz";"Promoter";0;0;1;1
+"1850";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"mniej niż 30";1;"Narcyz";"Detractor";1;0;0;1
+"1851";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"powyżej 60";9;"Narcyz";"Promoter";0;0;1;1
+"1852";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"51 - 60";5;"Narcyz";"Detractor";1;0;0;1
+"1853";"Średnie techniczne";"Główny agronom";"50.01 - 100 ha";"powyżej 60";4;"Narcyz";"Detractor";1;0;0;1
+"1854";"Średnie ogólne";"Pracownik techniczny";"25.01 - 50 ha";"41 - 50";10;"Narcyz";"Promoter";0;0;1;1
+"1855";"Wyższe rolnicze";"Właściciel";"więcej niż 250 ha";"51 - 60";9;"Narcyz";"Promoter";0;0;1;1
+"1856";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"powyżej 60";2;"Narcyz";"Detractor";1;0;0;1
+"1857";"Wyższe";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"31 - 40";1;"Narcyz";"Detractor";1;0;0;1
+"1858";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"powyżej 60";9;"Narcyz";"Promoter";0;0;1;1
+"1859";"Wyższe";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"41 - 50";2;"Narcyz";"Detractor";1;0;0;1
+"1860";"Wyższe rolnicze";"Pracownik techniczny";"więcej niż 250 ha";"51 - 60";10;"Narcyz";"Promoter";0;0;1;1
+"1861";"Wyższe rolnicze";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";6;"Narcyz";"Detractor";1;0;0;1
+"1862";"Średnie ogólne";"Główny agronom";"50.01 - 100 ha";"powyżej 60";7;"Narcyz";"Neutral";0;1;0;1
+"1863";"Wyższe";"Pracownik techniczny";"25.01 - 50 ha";"51 - 60";4;"Narcyz";"Detractor";1;0;0;1
+"1864";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"powyżej 60";0;"Narcyz";"Detractor";1;0;0;1
+"1865";"Średnie techniczne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";2;"Narcyz";"Detractor";1;0;0;1
+"1866";"Średnie ogólne";"Główny agronom";"50.01 - 100 ha";"mniej niż 30";5;"Narcyz";"Detractor";1;0;0;1
+"1867";"Średnie ogólne";"Agronom ekspert";"mniej niż 25 ha";"51 - 60";2;"Narcyz";"Detractor";1;0;0;1
+"1868";"Średnie ogólne";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";7;"Narcyz";"Neutral";0;1;0;1
+"1869";"Wyższe";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"powyżej 60";9;"Narcyz";"Promoter";0;0;1;1
+"1870";"Wyższe";"Dyrektor/wicedyrektor";"25.01 - 50 ha";"51 - 60";2;"Narcyz";"Detractor";1;0;0;1
+"1871";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"mniej niż 30";10;"Narcyz";"Promoter";0;0;1;1
+"1872";"Średnie ogólne";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";0;"Narcyz";"Detractor";1;0;0;1
+"1873";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"51 - 60";10;"Narcyz";"Promoter";0;0;1;1
+"1874";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";9;"Narcyz";"Promoter";0;0;1;1
+"1875";"Średnie techniczne";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";3;"Narcyz";"Detractor";1;0;0;1
+"1876";"Wyższe rolnicze";"Agronom ekspert";"25.01 - 50 ha";"powyżej 60";4;"Narcyz";"Detractor";1;0;0;1
+"1877";"Średnie techniczne";"Właściciel";"więcej niż 250 ha";"mniej niż 30";10;"Narcyz";"Promoter";0;0;1;1
+"1878";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"41 - 50";10;"Narcyz";"Promoter";0;0;1;1
+"1879";"Inne";"Pracownik techniczny";"50.01 - 100 ha";"mniej niż 30";4;"Narcyz";"Detractor";1;0;0;1
+"1880";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"41 - 50";10;"Narcyz";"Promoter";0;0;1;1
+"1881";"Średnie ogólne";"Pracownik techniczny";"25.01 - 50 ha";"powyżej 60";9;"Narcyz";"Promoter";0;0;1;1
+"1882";"Średnie ogólne";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";10;"Narcyz";"Promoter";0;0;1;1
+"1883";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"mniej niż 30";5;"Narcyz";"Detractor";1;0;0;1
+"1884";"Wyższe rolnicze";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";3;"Narcyz";"Detractor";1;0;0;1
+"1885";"Średnie techniczne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";3;"Narcyz";"Detractor";1;0;0;1
+"1886";"Wyższe";"Właściciel";"więcej niż 250 ha";"mniej niż 30";1;"Narcyz";"Detractor";1;0;0;1
+"1887";"Wyższe";"Właściciel";"więcej niż 250 ha";"powyżej 60";4;"Narcyz";"Detractor";1;0;0;1
+"1888";"Wyższe";"Dyrektor/wicedyrektor";"mniej niż 25 ha";"51 - 60";5;"Narcyz";"Detractor";1;0;0;1
+"1889";"Wyższe rolnicze";"Pracownik techniczny";"mniej niż 25 ha";"mniej niż 30";8;"Narcyz";"Neutral";0;1;0;1
+"1890";"Wyższe";"Główny agronom";"więcej niż 250 ha";"powyżej 60";4;"Narcyz";"Detractor";1;0;0;1
+"1891";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"51 - 60";9;"Narcyz";"Promoter";0;0;1;1
+"1892";"Średnie techniczne";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"51 - 60";1;"Narcyz";"Detractor";1;0;0;1
+"1893";"Wyższe rolnicze";"Główny agronom";"50.01 - 100 ha";"powyżej 60";10;"Narcyz";"Promoter";0;0;1;1
+"1894";"Średnie techniczne";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";2;"Narcyz";"Detractor";1;0;0;1
+"1895";"Średnie techniczne";"Główny agronom";"więcej niż 250 ha";"31 - 40";4;"Narcyz";"Detractor";1;0;0;1
+"1896";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"powyżej 60";8;"Narcyz";"Neutral";0;1;0;1
+"1897";"Wyższe rolnicze";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";5;"Narcyz";"Detractor";1;0;0;1
+"1898";"Wyższe rolnicze";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";2;"Narcyz";"Detractor";1;0;0;1
+"1899";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"powyżej 60";4;"Narcyz";"Detractor";1;0;0;1
+"1900";"Średnie techniczne";"Właściciel";"więcej niż 250 ha";"51 - 60";0;"Narcyz";"Detractor";1;0;0;1
+"1901";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"51 - 60";0;"Narcyz";"Detractor";1;0;0;1
+"1902";"Wyższe rolnicze";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";6;"Narcyz";"Detractor";1;0;0;1
+"1903";"Wyższe rolnicze";"Agronom ekspert";"100.01 - 250 ha";"powyżej 60";10;"Narcyz";"Promoter";0;0;1;1
+"1904";"Wyższe";"Pracownik techniczny";"100.01 - 250 ha";"powyżej 60";6;"Narcyz";"Detractor";1;0;0;1
+"1905";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"41 - 50";10;"Narcyz";"Promoter";0;0;1;1
+"1906";"Wyższe rolnicze";"Główny agronom";"100.01 - 250 ha";"41 - 50";6;"Narcyz";"Detractor";1;0;0;1
+"1907";"Wyższe rolnicze";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";3;"Narcyz";"Detractor";1;0;0;1
+"1908";"Średnie techniczne";"Agronom ekspert";"50.01 - 100 ha";"41 - 50";5;"Narcyz";"Detractor";1;0;0;1
+"1909";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"31 - 40";5;"Narcyz";"Detractor";1;0;0;1
+"1910";"Wyższe";"Agronom ekspert";"50.01 - 100 ha";"31 - 40";2;"Narcyz";"Detractor";1;0;0;1
+"1911";"Wyższe rolnicze";"Inna";"więcej niż 250 ha";"51 - 60";5;"Narcyz";"Detractor";1;0;0;1
+"1912";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"51 - 60";3;"Narcyz";"Detractor";1;0;0;1
+"1913";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"31 - 40";4;"Narcyz";"Detractor";1;0;0;1
+"1914";"Wyższe rolnicze";"Główny agronom";"100.01 - 250 ha";"powyżej 60";1;"Narcyz";"Detractor";1;0;0;1
+"1915";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"powyżej 60";9;"Narcyz";"Promoter";0;0;1;1
+"1916";"Wyższe";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"31 - 40";3;"Narcyz";"Detractor";1;0;0;1
+"1917";"Średnie techniczne";"Główny agronom";"25.01 - 50 ha";"powyżej 60";8;"Narcyz";"Neutral";0;1;0;1
+"1918";"Wyższe rolnicze";"Główny agronom";"więcej niż 250 ha";"41 - 50";0;"Narcyz";"Detractor";1;0;0;1
+"1919";"Średnie techniczne";"Pracownik techniczny";"100.01 - 250 ha";"powyżej 60";1;"Narcyz";"Detractor";1;0;0;1
+"1920";"Średnie ogólne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"powyżej 60";5;"Narcyz";"Detractor";1;0;0;1
+"1921";"Średnie ogólne";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";5;"Narcyz";"Detractor";1;0;0;1
+"1922";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"41 - 50";5;"Narcyz";"Detractor";1;0;0;1
+"1923";"Średnie techniczne";"Właściciel";"25.01 - 50 ha";"41 - 50";1;"Narcyz";"Detractor";1;0;0;1
+"1924";"Średnie ogólne";"Agronom ekspert";"50.01 - 100 ha";"powyżej 60";9;"Narcyz";"Promoter";0;0;1;1
+"1925";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"100.01 - 250 ha";"powyżej 60";2;"Narcyz";"Detractor";1;0;0;1
+"1926";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"51 - 60";6;"Narcyz";"Detractor";1;0;0;1
+"1927";"Średnie ogólne";"Właściciel";"więcej niż 250 ha";"powyżej 60";6;"Narcyz";"Detractor";1;0;0;1
+"1928";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"25.01 - 50 ha";"powyżej 60";5;"Narcyz";"Detractor";1;0;0;1
+"1929";"Wyższe rolnicze";"Agronom ekspert";"50.01 - 100 ha";"31 - 40";4;"Narcyz";"Detractor";1;0;0;1
+"1930";"Średnie techniczne";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";7;"Narcyz";"Neutral";0;1;0;1
+"1931";"Wyższe";"Agronom ekspert";"więcej niż 250 ha";"powyżej 60";5;"Narcyz";"Detractor";1;0;0;1
+"1932";"Wyższe";"Agronom ekspert";"mniej niż 25 ha";"41 - 50";6;"Narcyz";"Detractor";1;0;0;1
+"1933";"Średnie ogólne";"Właściciel";"mniej niż 25 ha";"41 - 50";4;"Narcyz";"Detractor";1;0;0;1
+"1934";"Wyższe";"Agronom ekspert";"50.01 - 100 ha";"powyżej 60";9;"Narcyz";"Promoter";0;0;1;1
+"1935";"Średnie techniczne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"51 - 60";6;"Narcyz";"Detractor";1;0;0;1
+"1936";"Wyższe";"Główny agronom";"100.01 - 250 ha";"mniej niż 30";10;"Narcyz";"Promoter";0;0;1;1
+"1937";"Średnie ogólne";"Główny agronom";"50.01 - 100 ha";"51 - 60";5;"Narcyz";"Detractor";1;0;0;1
+"1938";"Średnie ogólne";"Główny agronom";"100.01 - 250 ha";"powyżej 60";10;"Narcyz";"Promoter";0;0;1;1
+"1939";"Wyższe rolnicze";"Właściciel";"25.01 - 50 ha";"powyżej 60";0;"Narcyz";"Detractor";1;0;0;1
+"1940";"Wyższe";"Pracownik techniczny";"więcej niż 250 ha";"31 - 40";1;"Narcyz";"Detractor";1;0;0;1
+"1941";"Wyższe";"Główny agronom";"100.01 - 250 ha";"powyżej 60";2;"Narcyz";"Detractor";1;0;0;1
+"1942";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"41 - 50";4;"Narcyz";"Detractor";1;0;0;1
+"1943";"Średnie ogólne";"Główny agronom";"więcej niż 250 ha";"41 - 50";7;"Narcyz";"Neutral";0;1;0;1
+"1944";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"powyżej 60";4;"Narcyz";"Detractor";1;0;0;1
+"1945";"Średnie techniczne";"Agronom ekspert";"mniej niż 25 ha";"powyżej 60";9;"Narcyz";"Promoter";0;0;1;1
+"1946";"Średnie ogólne";"Główny agronom";"25.01 - 50 ha";"51 - 60";9;"Narcyz";"Promoter";0;0;1;1
+"1947";"Średnie ogólne";"Pracownik techniczny";"więcej niż 250 ha";"51 - 60";4;"Narcyz";"Detractor";1;0;0;1
+"1948";"Wyższe rolnicze";"Agronom ekspert";"więcej niż 250 ha";"mniej niż 30";9;"Narcyz";"Promoter";0;0;1;1
+"1949";"Wyższe";"Główny agronom";"więcej niż 250 ha";"31 - 40";7;"Narcyz";"Neutral";0;1;0;1
+"1950";"Średnie techniczne";"Agronom ekspert";"więcej niż 250 ha";"mniej niż 30";10;"Narcyz";"Promoter";0;0;1;1
+"1951";"Wyższe rolnicze";"Właściciel";"100.01 - 250 ha";"powyżej 60";3;"Narcyz";"Detractor";1;0;0;1
+"1952";"Średnie techniczne";"Właściciel";"100.01 - 250 ha";"51 - 60";5;"Narcyz";"Detractor";1;0;0;1
+"1953";"Średnie techniczne";"Właściciel";"mniej niż 25 ha";"31 - 40";5;"Narcyz";"Detractor";1;0;0;1
+"1954";"Średnie techniczne";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"51 - 60";8;"Narcyz";"Neutral";0;1;0;1
+"1955";"Średnie ogólne";"Dyrektor/wicedyrektor";"więcej niż 250 ha";"31 - 40";3;"Narcyz";"Detractor";1;0;0;1
+"1956";"Wyższe";"Główny agronom";"więcej niż 250 ha";"mniej niż 30";9;"Narcyz";"Promoter";0;0;1;1
+"1958";"Średnie ogólne";"Właściciel";"50.01 - 100 ha";"51 - 60";6;"Narcyz";"Detractor";1;0;0;1
+"1959";"Wyższe rolnicze";"Dyrektor/wicedyrektor";"50.01 - 100 ha";"mniej niż 30";0;"Narcyz";"Detractor";1;0;0;1
+"1960";"Średnie techniczne";"Pracownik techniczny";"więcej niż 250 ha";"41 - 50";0;"Narcyz";"Detractor";1;0;0;1
