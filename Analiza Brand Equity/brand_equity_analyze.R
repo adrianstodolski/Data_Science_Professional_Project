@@ -77,9 +77,9 @@ df2 <- select(df2, RecordNo, T9M1:T10M10)
 head(df2)
 # Split data T9 and T10 questions into one column.
 df2 <- pivot_longer(df2,
-                    cols = matches("T[98]M")
+                    cols = matches("T[910]M")
                     ,names_to = c("T","index")
-                    ,names_pattern = "(T9|T8)M(\\d+)"
+                    ,names_pattern = "(T9|T10)M(\\d+)"
 )
 head(df2)
 # Transform index as numeric 
@@ -87,7 +87,7 @@ df2 <- mutate(df2, index=as.numeric(index))
 head(df2)
 # Separate T9 and T10 questions.
 df2 <- pivot_wider(df2
-                   ,names_from = T
+                   ,names_from = all_of(T)
                    ,values_from = value
 )
 head(df2)
@@ -97,14 +97,14 @@ head(data_together2)
 # Create Usage score
 
 # For T9 question
-data_together2 <- data_together2 %>% left_join(df2 %>% select(-T10) %>% rename(plants=T))
+data_together2 <- data_together2 %>% left_join(df2 %>% select(-T10) %>% rename(plants=T9))
 data_together2 <- mutate(data_together2, Usage_score=1)
 data_together2 <- mutate(data_together2, Usage_score=if_else(index==1,5,Usage_score,missing = Usage_score))
 data_together2 <- mutate(data_together2, Usage_score=if_else(index>=2,4,Usage_score,missing = Usage_score))
 data_together2 <- select(data_together2, -index)
 
 # For T10 question
-data_together2 <- data_together2 %>% left_join(df2 %>% select(-T) %>% rename(plants=T10))
+data_together2 <- data_together2 %>% left_join(df2 %>% select(-T9) %>% rename(plants=T10))
 data_together2 <- mutate(data_together2, Usage_score=if_else(!is.na(index),2,Usage_score,missing = Usage_score))
 data_together2 <- select(data_together2, -index)
 
@@ -138,9 +138,89 @@ df3 <- pivot_wider(df3
 data_together3 <- RecordNo %>% left_join(plants)
 
 # Create Preference score 
-# For X10 question
+# For T13 question
 data_together3 <- data_together3 %>% left_join(df3 %>% select(index,T13) %>% rename(plants=T13))
 data_together3 <- mutate(data_together3, Preference_score=1)
 data_together3 <- mutate(data_together3, Preference_score=if_else(index==1,5,Preference_score,missing = Preference_score))
 data_together3 <- mutate(data_together3, Preference_score=if_else(index>=2,4,Preference_score,missing = Preference_score))
 data_together3 <- select(data_together3, -index)
+
+
+# -------------------------------- FAMILIARITY --------------------------------#
+# According to Brand Health Index description, familiartity question is T8.
+
+# Familiarity_score
+df4 <- read.csv2("~/Code/Data_Science_Professional_Project/Analiza Brand Equity/data.csv") %>%
+  select(RecordNo, T8M1:T8M10) %>%
+  pivot_longer(T8M1:T8M10, names_to = "plants", values_to = "Familiarity_score", names_pattern = "T8M(\\d+)") %>%
+  mutate(Familiarity_score=as.numeric(Familiarity_score)) %>%
+  mutate(plants=as.numeric(plants)) %>%
+  mutate(plants = plants + 100) %>%
+  mutate(Familiarity_score=if_else(is.na(Familiarity_score), 1,  Familiarity_score)) %>%
+  mutate(Familiarity_score=if_else(Familiarity_score==999,1,Familiarity_score, missing = Familiarity_score))
+
+
+# -------------------------------- FUTURE USE----------------------------------#
+# According to Brand Health Index description, Future use question is T11.
+
+# Future usage score
+df5 <- read.csv2("~/Code/Data_Science_Professional_Project/Analiza Brand Equity/data.csv") %>%
+  select(RecordNo, T11M1:T11M10) %>%
+  pivot_longer(T11M1:T11M10, names_to = "plants", values_to = "FutureUsage_score", names_pattern = "T11M(\\d+)") %>%
+  mutate(FutureUsage_score=as.numeric(FutureUsage_score)) %>%
+  mutate(plants=as.numeric(plants)) %>%
+  mutate(plants = plants + 100) %>%
+  mutate(FutureUsage_score=if_else(is.na(FutureUsage_score), 1,  FutureUsage_score)) %>%
+  mutate(FutureUsage_score=if_else(FutureUsage_score==999,1,FutureUsage_score, missing =FutureUsage_score))
+
+
+# -------------------------------- SATISFACTION --------------------------------
+# According to Brand Health Index description, Future use question is T12.
+
+# Satisfaction score
+df6 <- read.csv2("~/Code/Data_Science_Professional_Project/Analiza Brand Equity/data.csv") %>%
+  select(RecordNo, T12M1:T12M10) %>%
+  pivot_longer(T12M1:T12M10, names_to = "plants", values_to = "Satisfaction_score", names_pattern = "T12M(\\d+)") %>%
+  mutate(Satisfaction_score=as.numeric(Satisfaction_score)) %>%
+  mutate(plants=as.numeric(plants)) %>%
+  mutate(plants = plants + 100) %>%
+  mutate(Satisfaction_score=if_else(is.na(Satisfaction_score), 1,  Satisfaction_score)) %>%
+  mutate(Satisfaction_score=if_else(Satisfaction_score==999,1,Satisfaction_score, missing =Satisfaction_score))
+
+
+# -------------------------------- TOTAL ---------------------------------------
+# This is final calculations. Here there is joining all above analysis results and
+# eliminate outliers.
+
+# Join all datasets to single.
+Total <- left_join(data_together, data_together2)
+Total <- left_join(Total, data_together3)
+Total <- left_join(Total, df4)
+Total <- left_join(Total, df5)
+Total <- left_join(Total, df6)
+
+# Drop NA values
+Total$Awareness_score[is.na(Total$Awareness_score)] <- 999
+Total$Usage_score[is.na(Total$Usage_score)] <- 999
+Total$Preference_score[is.na(Total$Preference_score)] <- 999
+Total$Familiarity_score[is.na(Total$Familiarity_score)] <- 999
+Total$FutureUsage_score[is.na(Total$FutureUsage_score)] <- 999
+Total$Satisfaction_score[is.na(Total$Satisfaction_score)] <- 999
+
+# Filter only valid (1-5) data
+Total <- filter(Total, Awareness_score <6)
+Total <- filter(Total, Usage_score <6)
+Total <- filter(Total, Preference_score <6)
+Total <- filter(Total, Familiarity_score <6)
+Total <- filter(Total, FutureUsage_score <6)
+Total <- filter(Total, Satisfaction_score <6)
+
+# Verifying dataset answers with plants names in questionnaire (should be 101-110).
+summary(Total$plants)
+
+# Add plants labels
+MyLabels <- source("~/Code/Data_Science_Professional_Project/Analiza Brand Equity/labels.R", encoding = "UTF8")
+Total$mushrooms <- MyLabels(Total$plants)
+
+# Write data to outfile.
+write.csv2(Total, "Brand_Equity_Results.csv", row.names = FALSE)
