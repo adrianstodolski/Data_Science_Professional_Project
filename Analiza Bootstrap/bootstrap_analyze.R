@@ -3,33 +3,32 @@ setwd("./")
 
 ### Needed library
 install.packages("tidyverse", dependencies = TRUE)
-install.packages("datasets")
 install.packages("boot")
-
+library(datasets)
 library(boot)
 library(tidyverse)
 
 #Loaded file and select 3 columns
 file <- read.csv2("~/Code/Data_Science_Professional_Project/Analiza Bootstrap/data.csv")
 file <- select(file, RecordNo, T5A:T5B)
-
-#Change commas into dots in column X2a called "Wartosc tegoroczna"
-file$T5A <- file$T5B %>%
+head(file)
+#Change commas into dots in column T5A called "Wartosc tegoroczna"
+file$T5A <- file$T5A %>%
   { gsub(" ", "", .) } %>%
   { gsub(",", ".", .) } %>%
   as.numeric()
-
+head(file)
 #Change column names
 colnames(file)[1] <- "RecordNo"
 colnames(file)[2] <- "Wartosc tegoroczna"
 colnames(file)[3] <- "Wartosc przyszloroczna"
-
+head(file, 50)
 #Eliminate zero values
 file <- file[apply(file!=0, 1, all),]
-
+head(file)
 #Calculate change of current and next year
 file <- mutate(file, 'change' = file$`Wartosc tegoroczna` - file$`Wartosc przyszloroczna`)
-
+head(file, 30)
 #Sample parameteres
 median(file$`Wartosc tegoroczna`)
 mean(file$`Wartosc tegoroczna`)
@@ -49,11 +48,11 @@ foo <- function(data, indices){
 }
 
 #set seed
-set.seed(12345)
+set.seed(123456)
 
 #Bootstrap method
 myBootstrap <- boot(file, foo, R=1000)
-
+head(myBootstrap)
 #View results
 View(myBootstrap)
 print(myBootstrap)
