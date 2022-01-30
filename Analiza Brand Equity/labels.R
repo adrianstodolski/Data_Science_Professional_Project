@@ -18,11 +18,11 @@ MyLabels <- function(text){
              "Babka",
              "Chaber",
              "Dzwonek",
-             "Fiołek",
-             "Goździk",
+             "Fiolek",
+             "Gozdzik",
              "Jaskier",
-             "Łubin",
-             "Mięta",
+             "Lubin",
+             "Mieta",
              "Narcyz"
   )
   ))
