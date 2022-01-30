@@ -220,7 +220,7 @@ summary(Total$plants)
 
 # Add plants labels
 MyLabels <- source("~/Code/Data_Science_Professional_Project/Analiza Brand Equity/labels.R", encoding = "UTF8")
-Total$mushrooms <- MyLabels(Total$plants)
+Total$plants <- MyLabels(Total$plants)
 
 # Write data to outfile.
 write.csv2(Total, "Brand_Equity_Results.csv", row.names = FALSE)
