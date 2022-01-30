@@ -77,8 +77,8 @@ df2 <- select(df2, RecordNo, T9M1:T10M10)
 head(df2)
 # Split data T9 and T10 questions into one column.
 df2 <- pivot_longer(df2,
-                    cols = matches("T[910]M")
-                    ,names_to = c("T","index")
+                    cols = matches("T[9]M", "T[10]M")
+                    ,names_to = c("Toisdd","index")
                     ,names_pattern = "(T9|T10)M(\\d+)"
 )
 head(df2)
