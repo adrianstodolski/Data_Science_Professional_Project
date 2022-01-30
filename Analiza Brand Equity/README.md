@@ -25,6 +25,7 @@ Na podstawie wykonanej analizy oraz przedstawionych danych można stwierdzić na
 Biorąc pod uwagę wszystkie powyższe wskaźniki składające się na całość analizy Brand Equity można powiedzieć, że najwyższą wartość wśród badanej grupy docelowej posiada "Arnika" (57,53%).
 
 # Charts
-![plot1](https://github.com/adrianstodolski/Data_Science_Professional_Project/main/Analiza-Brand-Equity/slupki.png?raw=true)
-![plot2](https://github.com/adrianstodolski/Data_Science_Professional_Project/main/Analiza-Brand-Equity/radar.png?raw=true)
+![plot1](https://github.com/adrianstodolski/Data_Science_Professional_Project/blob/main/Analiza%20Brand%20Equity/slupki.png?raw=true)
+![plot2](https://github.com/adrianstodolski/Data_Science_Professional_Project/blob/main/Analiza%20Brand%20Equity/radar.png?raw=true)
+
 
