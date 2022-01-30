@@ -14,7 +14,7 @@ file <- read.csv2("~/Code/Data_Science_Professional_Project/Analiza Bootstrap/da
 file <- select(file, RecordNo, T5A:T5B)
 
 #Change commas into dots in column X2a called "Wartosc tegoroczna"
-file$T5A <- filed$T5B %>%
+file$T5A <- file$T5B %>%
   { gsub(" ", "", .) } %>%
   { gsub(",", ".", .) } %>%
   as.numeric()
