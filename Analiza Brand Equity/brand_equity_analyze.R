@@ -64,3 +64,83 @@ data_together <- select(data_together, -index)
 data_together <- data_together %>% left_join(df1 %>% select(-T6) %>% rename(plants=T7))
 data_together <- mutate(data_together, Awareness_score=if_else(!is.na(index),2,Awareness_score,missing = Awareness_score))
 data_together <- select(data_together, -index)
+
+
+# -------------------------------- USAGE ---------------------------------------
+# According to Brand Health Index description, usage questions are T9 and T10.
+
+# Load file.
+df2 <- read.csv2("~/Code/Data_Science_Professional_Project/Analiza Brand Equity/data.csv")
+
+# Select only important data.
+df2 <- select(df2, RecordNo, T9M1:T10M10)
+
+# Split data T9 and T10 questions into one column.
+df2 <- pivot_longer(df2,
+                    cols = matches("T[910]M")
+                    ,names_to = c("T","index")
+                    ,names_pattern = "(T9|T10)M(\\d+)"
+)
+
+# Transform index as numeric 
+df2 <- mutate(df2, index=as.numeric(index))
+
+# Separate T9 and T10 questions.
+df2 <- pivot_wider(df2
+                   ,names_from = T
+                   ,values_from = value
+)
+
+# Join plants with RecordNo data.
+data_together2 <- RecordNo %>% left_join(plants)
+
+# Create Usage score
+
+# For T9 question
+data_together2 <- data_together2 %>% left_join(df2 %>% select(-T10) %>% rename(plants=T9))
+data_together2 <- mutate(data_together2, Usage_score=1)
+data_together2 <- mutate(data_together2, Usage_score=if_else(index==1,5,Usage_score,missing = Usage_score))
+data_together2 <- mutate(data_together2, Usage_score=if_else(index>=2,4,Usage_score,missing = Usage_score))
+data_together2 <- select(data_together2, -index)
+
+# For T10 question
+data_together2 <- data_together2 %>% left_join(df2 %>% select(-T9) %>% rename(plants=T10))
+data_together2 <- mutate(data_together2, Usage_score=if_else(!is.na(index),2,Usage_score,missing = Usage_score))
+data_together2 <- select(data_together2, -index)
+
+
+### ------------------------------ PREFERENCE ----------------------------------
+# According to Brand Health Index description, preference question is T13.
+
+# Load file.
+df3 <- read.csv2("~/Code/Data_Science_Professional_Project/Analiza Brand Equity/data.csv")
+
+# Select only important data.
+df3 <- select(df3, RecordNo, T13M1:T13M3)
+
+# Split data T13 question into one column.
+df3 <- pivot_longer(df3,
+                    cols = starts_with("T")
+                    ,names_to = c("T","index")
+                    ,names_pattern = "(T13)M(\\d+)"
+)
+
+# Transform index as numeric 
+df3 <- mutate(df3, index=as.numeric(index))
+
+# Split T13 question and value into one column.
+df3 <- pivot_wider(df3
+                   ,names_from = T
+                   ,values_from = value
+)
+
+# Join plants with RecordNo data.
+data_together3 <- RecordNo %>% left_join(plants)
+
+# Create Preference score 
+# For X10 question
+data_together3 <- data_together3 %>% left_join(df3 %>% select(index,T13) %>% rename(plants=T13))
+data_together3 <- mutate(data_together3, Preference_score=1)
+data_together3 <- mutate(data_together3, Preference_score=if_else(index==1,5,Preference_score,missing = Preference_score))
+data_together3 <- mutate(data_together3, Preference_score=if_else(index>=2,4,Preference_score,missing = Preference_score))
+data_together3 <- select(data_together3, -index)
